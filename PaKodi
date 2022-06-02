@@ -100,6 +100,8 @@ https://poast.tv/static/streaming-playlists/hls/25f337db-5b97-447e-8b16-4edf6dd0
 https://poast.tv/static/streaming-playlists/hls/a47bcea7-c4ba-4134-8afa-5a207d475363/0.m3u8
 #EXTINF:-1 tvg-id="1081" tvg-name="Aniplus" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/desxy13-55d80530-6ae3-483a-b359-2ef2d853bd63.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZDdlOGIxLTlmZTEtNGM0MS1hZWI3LTMzMWY0ZmIxODhhYVwvZGVzeHkxMy01NWQ4MDUzMC02YWUzLTQ4M2EtYjM1OS0yZWYyZDg1M2JkNjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MK7p_aaDc4r0vyw6T-_0mfTxYhVq_wg-hS3IyzXAK6Q" group-title="JUVENIL", ANIPLUS 
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
+#EXTINF:-1 tvg-id="1149" tvg-name="Rocket Channel" tvg-logo="https://i2.paste.pics/604dd86c9c9a4937b0f97e141a75c7cb.png" group-title="JUVENIL", Rocket Channel | AR
+https://vivo.solumedia.com:19360/toonizaki/toonizaki.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://pbs.twimg.com/profile_images/1507190273662726147/sS_Z9Ki7_400x400.jpg" group-title="JUVENIL", EnerGeek | CL
 https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
 #EXTINF:-1 tvg-id="1112" tvg-name="Energeek Radio" tvg-logo="https://pbs.twimg.com/profile_images/1507190273662726147/sS_Z9Ki7_400x400.jpg" group-title="JUVENIL", EnerGeek 2 | CL
@@ -207,8 +209,10 @@ https://edge-vod02-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 https://edge-vod04-sl.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQanctKPh8-ad2DUtB_ZIH4zYOsQQPCYIA5juCGPMFyxjeoT2bAjYRWCP88BxdB9BN2e8A&usqp=CAU" group-title="CINE PREM", TNT SERIES
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="CINE PREM", Universal
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 #EXTINF:-1 tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png" group-title="CINE PREM", Studio Universal
-http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playlist.m3u8
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
 #EXTINF:-1 group-title="CINE PREM", Sony
 http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn01.cimediacloud.com/cifiles/3a1f7f8539ee4bfca9794ed91a49559b/renditions/thumbnail.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NkbjAxLmNpbWVkaWFjbG91ZC5jb20vY2lmaWxlcy8zYTFmN2Y4NTM5ZWU0YmZjYTk3OTRlZDkxYTQ5NTU5Yi9yZW5kaXRpb25zL3RodW1ibmFpbC5qcGciLCJDb25kaXRpb24iOnsiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MjE0NTgzMDQwMH19fV19&Signature=BKcZwvYYgZsMQkAC7n7ZF5GrEgPiiNa6Cvv-yFZIcqM3DfsfmNwEqZeeGMvmJ7TiluD8WfNw~i3kbDnHgM6I-nrfmRFhEyjXAxgvCRZm1wdP0PTwtI8rg9MHr1Uatl6rfPI56T9jXVGZ~cKcB9xuNCfvU~0aUqxrUmnQvNqxGF8_&Key-Pair-Id=APKAJNUSFH4IKQRZ44WA" group-title="CINE PREM", Sony
@@ -741,8 +745,8 @@ http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="DEPORTES", Fox Sports | CL
 http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="LOCALES 2", CIUDAD MAGICA 105.1 FM AUSONIA
-https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="LOCALES 2", CIUDAD MAGICA TV
+https://fullvideo.enlaweb.com.ar/video63/video63/playlist.m3u8
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://pbs.twimg.com/profile_images/1434906412359077894/1LurOWUq_400x400.jpg" group-title="DEPORTES", DEPORT TV 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTES", TyC SPORTS
