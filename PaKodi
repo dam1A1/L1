@@ -98,6 +98,8 @@ http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 https://poast.tv/static/streaming-playlists/hls/25f337db-5b97-447e-8b16-4edf6dd07e63/0.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://i.postimg.cc/BQXGmLH3/CN.png" group-title="INFANTIL", Cartoon Network Clasico
 https://poast.tv/static/streaming-playlists/hls/a47bcea7-c4ba-4134-8afa-5a207d475363/0.m3u8
+#EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://i2.paste.pics/a5c45485f920b3cb2b2e44b70059858a.png" group-title="JUVENIL", Taltal TV | CL
+https://ed20ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1081" tvg-name="Aniplus" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/desxy13-55d80530-6ae3-483a-b359-2ef2d853bd63.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZDdlOGIxLTlmZTEtNGM0MS1hZWI3LTMzMWY0ZmIxODhhYVwvZGVzeHkxMy01NWQ4MDUzMC02YWUzLTQ4M2EtYjM1OS0yZWYyZDg1M2JkNjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MK7p_aaDc4r0vyw6T-_0mfTxYhVq_wg-hS3IyzXAK6Q" group-title="JUVENIL", ANIPLUS 
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 #EXTINF:-1 tvg-id="1149" tvg-name="Rocket Channel" tvg-logo="https://i2.paste.pics/604dd86c9c9a4937b0f97e141a75c7cb.png" group-title="JUVENIL", Rocket Channel | AR
