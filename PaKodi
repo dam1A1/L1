@@ -484,8 +484,6 @@ https://59537faa0729a.streamlock.net:443/canal6mdp/canal6mdp/playlist.m3u8
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="820" tvg-name="El Palomar TV Tucuman" tvg-logo="https://lh3.googleusercontent.com/-8UaWsEXJQgA/YH7XXHWqrpI/AAAAAAABByU/W6JFZuqyjQUrxSsIyAdU5tMwBWulFEGgQCK8BGAsYHg/s512/2021-04-20.jpg" group-title="LOCALES 2", El Palomar TV Tucuman | AR
 https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="820" tvg-name="El Palomar TV Tucuman" tvg-logo="https://lh3.googleusercontent.com/-8UaWsEXJQgA/YH7XXHWqrpI/AAAAAAABByU/W6JFZuqyjQUrxSsIyAdU5tMwBWulFEGgQCK8BGAsYHg/s512/2021-04-20.jpg" group-title="LOCALES 2", El Palomar TV Tucuman | AR Alt
-https://video.streamtvradio.com:8443/uv038/uv038/chunks.m3u8?nimblesessionid=1429148
 #EXTINF:-1 tvg-id="912" tvg-name="Radio Blu" tvg-logo="https://pbs.twimg.com/profile_images/3720036066/64995b5df909d36608df78a24638afc6_400x400.jpeg" group-title="LOCALES 2", RADIO BLU SAN JUAN
 https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
 #EXTINF:-1 tvg-id="302" tvg-name="Canal Nueve TV" tvg-logo="https://lh3.googleusercontent.com/-gSWT28neyoI/XjtJg-an6zI/AAAAAAAAvrM/QbdM_yrZ6GcRSpkxyoLkkFI-aJ-yjX3qwCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", Canal Nueve TV | AR
@@ -673,6 +671,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="77" tvg-name="TVR" tvg-logo="https://lh3.googleusercontent.com/-xyk2_KFlnyQ/WycRffTYWbI/AAAAAAAAj2I/H3wImrej3y8ryyTZOsLtkd8fVB12d5aKQCK8BGAs/s200/2018-06-17.png" group-title="MUSICA", TVR | CL
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png" group-title="MUSICA", VClassicTV | CL
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="MUSICA", STINGRAY CLASSICA
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
@@ -1016,7 +1016,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611e6ddc7fcd580007d1eb
 #EXTINF:-1 tvg-id="619b893895e225000729e67a" tvg-logo="https://images.pluto.tv/channels/619b893895e225000729e67a/colorLogoPNG.png" group-title="Pluto TV",Pluto TV Gaming Heroes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b893895e225000729e67a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="555" tvg-name="Retro Cartoon" group-title="Animation", Retro Cartoon | BR
+#EXTINF:-1 tvg-id="555" tvg-name="Retro Cartoon" tvg-logo="https://lh3.googleusercontent.com/-7_I1pkRvdW8/X0KBdavYe3I/AAAAAAAA43w/Rd8o3DFUPWMMZO8Z3tV9YWukDy64UBkIACK8BGAsYHg/s0/2020-08-23.png" group-title="Animation", Retro Cartoon | BR
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-country="BR" tvg-language="Japanese" group-title="Animation", Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
