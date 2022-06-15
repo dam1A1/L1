@@ -247,6 +247,8 @@ https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="CINE PREM", HBO Extreme
 https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
 
+#EXTINF:-1 tvg-id="481" tvg-name="FMTV 1" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png" group-title="CINE Y SERIES", FMTV 1 | US
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="891" tvg-name="Viwix TV" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="CINE Y SERIES", Viwix TV | CL
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="CINE Y SERIES", Cinema + | HD | México
@@ -403,6 +405,8 @@ https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="812" tvg-name="Suceso TV" tvg-logo="https://lh3.googleusercontent.com/-bcd9_hX8ZuE/YH4ynd4hdII/AAAAAAABBwM/uJ-axhhpjBMWcze2sO9PgWgyVw80-1d1gCK8BGAsYHg/s512/2021-04-19.png" group-title="CINE Y SERIES", Suceso TV | PY
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="828" tvg-name="Somos Del Este TV" tvg-logo="https://lh3.googleusercontent.com/-y3QFWBQHE-I/YH9dccPTdGI/AAAAAAABBz0/R4xo5fq8-k8QhAujzC3p7vY5ksP7qcOQQCK8BGAsYHg/s512/2021-04-20.jpg" group-title="CINE Y SERIES", Somos Del Este TV | PY
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="CINE Y SERIES", TELERED SD ALAJUELA
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
