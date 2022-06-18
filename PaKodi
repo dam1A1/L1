@@ -209,52 +209,52 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882
 https://edge-live11-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 #EXTINF:-1 tvg-id="Cinecanal Sur" tvg-name="Cinecanal Sur" tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="CINE PREM", Cinecanal
 http://edge-live14-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnjFyrkHHJbq0jYEm2FF6nYKZkdAGlCPzK3IIX9QvEOxVgREM_Dm6HgI3wnkT16yLaBDI&usqp=CAU" group-title="CINE PREM", WARNER
+#EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-name="WarnerChannelPanregional.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnjFyrkHHJbq0jYEm2FF6nYKZkdAGlCPzK3IIX9QvEOxVgREM_Dm6HgI3wnkT16yLaBDI&usqp=CAU" group-title="CINE PREM", WARNER
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
-#EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/49500/49583/1_abba071f13_640.jpg" group-title="CINE PREM", AXN
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us" tvg-name="AXNLatinAmerica.us" tvg-logo="https://www.formulatv.com/images/noticias/49500/49583/1_abba071f13_640.jpg" group-title="CINE PREM", AXN
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="CINE PREM", A&E
+#EXTINF:-1 tvg-id="AELatinAmerica.us" tvg-name="AELatinAmerica.us" tvg-logo="http://x.playerlatino.live/ae.png" group-title="CINE PREM", A&E
 https://edge-live11-sl.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE PREM", STAR CHANNEL
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="StarChannelLatinAmerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE PREM", STAR CHANNEL
 https://edge-vod01-hr.cvattv.com.ar//live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE PREM", STAR CHANNEL
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="StarChannelLatinAmerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE PREM", STAR CHANNEL
 http://edge-live14-hr.cvattv.com.ar:80/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE PREM", STAR CHANNEL
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="StarChannelLatinAmerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE PREM", STAR CHANNEL
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png" group-title="CINE PREM", TNT 
+#EXTINF:-1 tvg-id="TNTAmericaLatina.us" tvg-name="TNTAmericaLatina.us" tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png" group-title="CINE PREM", TNT 
 https://edge-vod04-sl.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQanctKPh8-ad2DUtB_ZIH4zYOsQQPCYIA5juCGPMFyxjeoT2bAjYRWCP88BxdB9BN2e8A&usqp=CAU" group-title="CINE PREM", TNT SERIES
+#EXTINF:-1 tvg-id="TNTSeriesArgentina.ar" tvg-name="TNTSeriesArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQanctKPh8-ad2DUtB_ZIH4zYOsQQPCYIA5juCGPMFyxjeoT2bAjYRWCP88BxdB9BN2e8A&usqp=CAU" group-title="CINE PREM", TNT SERIES
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="CINE PREM", Universal
+#EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-name="WarnerChannelPanregional.us" UniversalTVHDLatinAmericaSouth.us tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="CINE PREM", Universal
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
-#EXTINF:-1 tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png" group-title="CINE PREM", Studio Universal
+#EXTINF:-1 tvg-id="StudioUniversalArgentina.ar" tvg-name="StudioUniversalArgentina.ar" tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png" group-title="CINE PREM", Studio Universal
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
-#EXTINF:-1 group-title="CINE PREM", Sony
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="SonyChannelAndes.us" group-title="CINE PREM", Sony
 http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn01.cimediacloud.com/cifiles/3a1f7f8539ee4bfca9794ed91a49559b/renditions/thumbnail.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NkbjAxLmNpbWVkaWFjbG91ZC5jb20vY2lmaWxlcy8zYTFmN2Y4NTM5ZWU0YmZjYTk3OTRlZDkxYTQ5NTU5Yi9yZW5kaXRpb25zL3RodW1ibmFpbC5qcGciLCJDb25kaXRpb24iOnsiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MjE0NTgzMDQwMH19fV19&Signature=BKcZwvYYgZsMQkAC7n7ZF5GrEgPiiNa6Cvv-yFZIcqM3DfsfmNwEqZeeGMvmJ7TiluD8WfNw~i3kbDnHgM6I-nrfmRFhEyjXAxgvCRZm1wdP0PTwtI8rg9MHr1Uatl6rfPI56T9jXVGZ~cKcB9xuNCfvU~0aUqxrUmnQvNqxGF8_&Key-Pair-Id=APKAJNUSFH4IKQRZ44WA" group-title="CINE PREM", Sony
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="SonyChannelAndes.us" tvg-logo="https://cdn01.cimediacloud.com/cifiles/3a1f7f8539ee4bfca9794ed91a49559b/renditions/thumbnail.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NkbjAxLmNpbWVkaWFjbG91ZC5jb20vY2lmaWxlcy8zYTFmN2Y4NTM5ZWU0YmZjYTk3OTRlZDkxYTQ5NTU5Yi9yZW5kaXRpb25zL3RodW1ibmFpbC5qcGciLCJDb25kaXRpb24iOnsiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MjE0NTgzMDQwMH19fV19&Signature=BKcZwvYYgZsMQkAC7n7ZF5GrEgPiiNa6Cvv-yFZIcqM3DfsfmNwEqZeeGMvmJ7TiluD8WfNw~i3kbDnHgM6I-nrfmRFhEyjXAxgvCRZm1wdP0PTwtI8rg9MHr1Uatl6rfPI56T9jXVGZ~cKcB9xuNCfvU~0aUqxrUmnQvNqxGF8_&Key-Pair-Id=APKAJNUSFH4IKQRZ44WA" group-title="CINE PREM", Sony
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="CINE PREM", AMC
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMCLatinAmerica.us" tvg-logo="http://x.playerlatino.live/amc.png" group-title="CINE PREM", AMC
 http://edge9-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
-#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount" tvg-logo="https://puu.sh/nsW5e/6bbcc438c7.png" group-title="CINE PREM", Paramount
+#EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us" tvg-name="ParamountNetworkLatinAmerica.us" tvg-logo="https://puu.sh/nsW5e/6bbcc438c7.png" group-title="CINE PREM", Paramount
 https://edge-live15-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
-#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2022/01/Paramount-Pictures-Logotipo-1967.jpg" group-title="CINE PREM", PARAMOUNT
+#EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us" tvg-name="ParamountNetworkLatinAmerica.us" tvg-logo="https://logos-marcas.com/wp-content/uploads/2022/01/Paramount-Pictures-Logotipo-1967.jpg" group-title="CINE PREM", PARAMOUNT
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
-#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/LOGO-CINEMAX.jpg" group-title="CINE PREM", CINEMAX 
+#EXTINF:-1 tvg-id="CinemaxLatinAmerica.us" tvg-name="CinemaxLatinAmerica.us" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/LOGO-CINEMAX.jpg" group-title="CINE PREM", CINEMAX 
 https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE PREM", HBO
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="HBOLatinAmerica.us" tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE PREM", HBO
 https://edge-vod01-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE PREM", HBO 2
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO2LatinAmerica.us" tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE PREM", HBO 2
 https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
-#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus" tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE PREM", HBO Plus
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBOPlusLatinAmerica.us" tvg-id="HBO Plus" tvg-name="HBO Plus" tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE PREM", HBO Plus
 https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://1.bp.blogspot.com/-EYfaEiP2lXI/YEbjlj_MRFI/AAAAAAAA8RM/xR324nu4oDsmDnLUHvW1Ier6pr-L56axQCLcBGAsYHQ/s0/hbo-family-2021.png" group-title="CINE PREM", HBO FAMILY
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBOFamilyLatinAmerica.us" tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://1.bp.blogspot.com/-EYfaEiP2lXI/YEbjlj_MRFI/AAAAAAAA8RM/xR324nu4oDsmDnLUHvW1Ier6pr-L56axQCLcBGAsYHQ/s0/hbo-family-2021.png" group-title="CINE PREM", HBO FAMILY
 https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE PREM", HBO POP
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBOPopLatinAmerica.us" tvg-logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE PREM", HBO POP
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Logo-hboMundi2020.png/revision/latest/scale-to-width-down/200?cb=20200116122534&path-prefix=es" group-title="CINE PREM", HBO MUNDI
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBOMundiLatinAmerica.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Logo-hboMundi2020.png/revision/latest/scale-to-width-down/200?cb=20200116122534&path-prefix=es" group-title="CINE PREM", HBO MUNDI
 https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="CINE PREM", HBO Extreme
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBOXtremeLatinAmerica.us" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png" group-title="CINE PREM", HBO Extreme
 https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
 
 #EXTINF:-1 tvg-id="481" tvg-name="FMTV 1" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png" group-title="CINE Y SERIES", FMTV 1 | US
@@ -738,6 +738,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", ESPN PREMIUM
 https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", ESPN PREMIUM
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", TNT SPORTS
 http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", TNT SPORTS
