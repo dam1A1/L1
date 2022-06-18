@@ -225,7 +225,7 @@ https://edge-vod02-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 https://edge-vod04-sl.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
 #EXTINF:-1 tvg-id="TNTSeriesArgentina.ar" tvg-name="TNTSeriesArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQanctKPh8-ad2DUtB_ZIH4zYOsQQPCYIA5juCGPMFyxjeoT2bAjYRWCP88BxdB9BN2e8A&usqp=CAU" group-title="CINE PREM", TNT SERIES
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
-#EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-name="WarnerChannelPanregional.us" UniversalTVHDLatinAmericaSouth.us tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="CINE PREM", Universal
+#EXTINF:-1 tvg-id="UniversalTVHDLatinAmericaSouth.us" tvg-name="UniversalTVHDLatinAmericaSouth.us" tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="CINE PREM", Universal
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalArgentina.ar" tvg-name="StudioUniversalArgentina.ar" tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png" group-title="CINE PREM", Studio Universal
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
@@ -244,11 +244,11 @@ https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="HBOLatinAmerica.us" tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE PREM", HBO
 https://edge-vod01-hr.cvattv.com.ar//live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO2LatinAmerica.us" tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE PREM", HBO 2
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO2LatinAmerica.us" tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE PREM", HBO 2
 https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
-#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBOPlusLatinAmerica.us" tvg-id="HBO Plus" tvg-name="HBO Plus" tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE PREM", HBO Plus
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBOPlusLatinAmerica.us" tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE PREM", HBO Plus
 https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBOFamilyLatinAmerica.us" tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://1.bp.blogspot.com/-EYfaEiP2lXI/YEbjlj_MRFI/AAAAAAAA8RM/xR324nu4oDsmDnLUHvW1Ier6pr-L56axQCLcBGAsYHQ/s0/hbo-family-2021.png" group-title="CINE PREM", HBO FAMILY
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBOFamilyLatinAmerica.us" tvg-logo="https://1.bp.blogspot.com/-EYfaEiP2lXI/YEbjlj_MRFI/AAAAAAAA8RM/xR324nu4oDsmDnLUHvW1Ier6pr-L56axQCLcBGAsYHQ/s0/hbo-family-2021.png" group-title="CINE PREM", HBO FAMILY
 https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBOPopLatinAmerica.us" tvg-logo="https://iconape.com/wp-content/png_logo_vector/hbo-pop.png" group-title="CINE PREM", HBO POP
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
