@@ -221,7 +221,7 @@ https://edge-vod01-hr.cvattv.com.ar//live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 http://edge-live14-hr.cvattv.com.ar:80/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 #EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="StarChannelLatinAmerica.us" tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="CINE PREM", STAR CHANNEL
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-#EXTINF:-1 tvg-id="TNTAmericaLatina.us" tvg-name="TNTAmericaLatina.us" tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png" group-title="CINE PREM", TNT 
+#EXTINF:-1 tvg-id="TNTMexico.mx" tvg-name="TNTMexico.mx" tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png" group-title="CINE PREM", TNT 
 https://edge-vod04-sl.cvattv.com.ar/live/c7eds/TNT/SA_SAGEMCOM/TNT.m3u8
 #EXTINF:-1 tvg-id="TNTSeriesArgentina.ar" tvg-name="TNTSeriesArgentina.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQanctKPh8-ad2DUtB_ZIH4zYOsQQPCYIA5juCGPMFyxjeoT2bAjYRWCP88BxdB9BN2e8A&usqp=CAU" group-title="CINE PREM", TNT SERIES
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
