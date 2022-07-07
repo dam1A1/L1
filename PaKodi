@@ -117,9 +117,6 @@ https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 
 #EXTINF:-1 tvg-id="48" tvg-name="Cloud Server Kids" tvg-logo="https://i2.paste.pics/274ff2c35f3c15674e5e8c580baec385.png" group-title="INFANTIL", MONSTRUOS DE VERDAD | CL
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1149" tvg-name="Disney XD" tvg-logo="https://i2.paste.pics/749fd0648a3e590d5d8bcf4b709df288.png" group-title="INFANTIL", Disney XD | AR
-https://video.hardlimit.com/static/streaming-playlists/hls/451c0f6c-a797-4ea6-9d79-c745f3a1eb1c/0.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1311657809705078786/x-uG8jST_400x400.jpg" group-title="INFANTIL", PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
@@ -385,21 +382,8 @@ https://v-pi.theus6tv.tk/hls/62.2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
-#EXTINF:-1 tvg-logo="https://municipioe.montevideo.gub.uy/sites/municipioe/files/styles/620x410/public/teledoce_700x410.jpg?itok=mr3sDDLY" group-title="Internacional", TELEDOCE
-http://190.210.221.119/Processor3_11_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1382698919474380800/ZQ-bfjHp_400x400.jpg" group-title="Internacional", UCL TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1186616342490861569/1W-i3XmN_400x400.jpg" group-title="Internacional", La Red URUGUAY
-https://d268yhgc98lzal.cloudfront.net/sdredtv/sdredtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1524095739663568897/iHeRnHnV_400x400.jpg" group-title="Internacional", LA TELE
-http://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1058069830002188288/cJQbekKt_400x400.jpg" group-title="Internacional", SNT
-http://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804016687108521985/L4G3JMvc_400x400.jpg" group-title="Internacional", SUR TV
-http://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1190255684639744001/nsiIZ_X-_400x400.jpg" group-title="Internacional", TELEFUTURO
-http://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1340607118672588801/jGHqe5pq_400x400.jpg" group-title="Internacional", T13 CHILE
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
