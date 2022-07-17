@@ -89,17 +89,17 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", SIMPSONS | CL
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", SIMPSONS | Tw
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", los_simpson_lt | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/los_simpson_lt
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", SIMPSONS | Tw
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", los_simsonlatam | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/los_simsonlatam
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", SIMPSONS | Tw
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", simpson_mania96 | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/simpson_mania96
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", SIMPSONS | Tw
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", simpson247 | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/simpson247
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", SIMPSONS | Tw
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", simpsonmania01d | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/simpsonmania01d
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", SIMPSONS | Tw
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", simpsonlatino | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/simpsonlatino
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hPgUeK5.png" group-title="JUVENIL", Futurama Manía | HD | Colombia
