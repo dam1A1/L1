@@ -89,8 +89,6 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="JUVENIL", ALF
 https://srv5.zcast.com.br/alf/alf/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="INFANTIL", La Pantera Rosa
-http://titanlivetv.com:8080/trading131sdRes/EREPQGarev/24674
 #EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="JUVENIL",Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", SIMPSONS 24/7
@@ -158,14 +156,8 @@ http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 https://poast.tv/static/streaming-playlists/hls/25f337db-5b97-447e-8b16-4edf6dd07e63/0.m3u8
 #EXTINF:-1 tvg-id="1110" tvg-name="Fox Kids" tvg-logo="https://i.postimg.cc/JnDLThf3/FOX-AMERICA.png" group-title="JUVENIL", Fox Kids | CL
 http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://i2.paste.pics/a5c45485f920b3cb2b2e44b70059858a.png" group-title="JUVENIL", Taltal TV | CL
-https://ed20ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1081" tvg-name="Aniplus" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/desxy13-55d80530-6ae3-483a-b359-2ef2d853bd63.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZDdlOGIxLTlmZTEtNGM0MS1hZWI3LTMzMWY0ZmIxODhhYVwvZGVzeHkxMy01NWQ4MDUzMC02YWUzLTQ4M2EtYjM1OS0yZWYyZDg1M2JkNjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MK7p_aaDc4r0vyw6T-_0mfTxYhVq_wg-hS3IyzXAK6Q" group-title="JUVENIL", ANIPLUS 
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
-#EXTINF:-1 tvg-id="1149" tvg-name="Rocket Channel" tvg-logo="https://i2.paste.pics/604dd86c9c9a4937b0f97e141a75c7cb.png" group-title="JUVENIL", Rocket Channel | AR
-https://vivo.solumedia.com:19360/toonizaki/toonizaki.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="909" tvg-name="Kanade TV" tvg-logo="https://i2.paste.pics/5a7804b203e6167e010d4de31ae9390d.png" group-title="JUVENIL", Kanade TV | CL
-http://64.20.57.7:8080/hls/enfoque.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://i2.paste.pics/21292151846695a1a7dff79bad326e50.png" group-title="JUVENIL", EnerGeek | CL
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="1112" tvg-name="Energeek Radio" tvg-logo="https://i2.paste.pics/0a827a2aa3eb974cf2e999e0139f6d0f.png" group-title="JUVENIL", Energeek Radio | CL
