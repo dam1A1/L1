@@ -166,9 +166,11 @@ https://poast.tv/static/streaming-playlists/hls/25f337db-5b97-447e-8b16-4edf6dd0
 http://foxkidsjahh21.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1081" tvg-name="Aniplus" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/desxy13-55d80530-6ae3-483a-b359-2ef2d853bd63.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZDdlOGIxLTlmZTEtNGM0MS1hZWI3LTMzMWY0ZmIxODhhYVwvZGVzeHkxMy01NWQ4MDUzMC02YWUzLTQ4M2EtYjM1OS0yZWYyZDg1M2JkNjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MK7p_aaDc4r0vyw6T-_0mfTxYhVq_wg-hS3IyzXAK6Q" group-title="JUVENIL", ANIPLUS 
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
-#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://i2.paste.pics/21292151846695a1a7dff79bad326e50.png" group-title="JUVENIL", EnerGeek | CL
+#EXTINF:-1 tvg-id="909" tvg-name="Kanade TV" tvg-logo="https://i2.paste.pics/5a7804b203e6167e010d4de31ae9390d.png" group-title="JUVENIL", Kanade TV | CL
+http://64.20.57.7:8080/hls/enfoque.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Señal 1" tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png" group-title="JUVENIL", EnerGeek Señal 1 | CL
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-#EXTINF:-1 tvg-id="1112" tvg-name="Energeek Radio" tvg-logo="https://i2.paste.pics/0a827a2aa3eb974cf2e999e0139f6d0f.png" group-title="JUVENIL", Energeek Radio | CL
+#EXTINF:-1 tvg-id="1112" tvg-name="Energeek Señal 2" tvg-logo="https://i2.paste.pics/ec9a99d22c4dd4a38c9af9c016019d88.png", Energeek Señal 2 | CL
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="JUVENIL", Latino Kids TV | UY
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
