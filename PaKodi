@@ -1017,7 +1017,7 @@ https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chapul
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", SIMPSONS | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/nostalgiagamer3
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", SIMPSONS | Tw
-https://www.twitch.tv/xknightriderx2044
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/xknightriderx2044
 
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", padre_de_familia77 | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/padre_de_familia77
@@ -1025,15 +1025,15 @@ https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/padre_
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/agente_de_familia79
 
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", narutomaniatico | Tw
-https://www.twitch.tv/narutomaniatico
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/narutomaniatico
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", locomotion_pluss | Tw
-https://www.twitch.tv/locomotion_pluss
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/locomotion_pluss
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", kametv2 | Tw
-https://www.twitch.tv/kametv2
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/kametv2
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", 90toonz | Tw
-https://www.twitch.tv/90toonz
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/90toonz
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", ronick5 | Tw
-https://www.twitch.tv/ronick5
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ronick5
 
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", DBZ | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dragonballenvivoz
