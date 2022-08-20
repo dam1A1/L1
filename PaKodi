@@ -62,7 +62,7 @@ https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/907114710088241152/kEDLAPN4_400x400.jpg" group-title="LOCALES 1", CINCO TV TIGRE  30.1
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF:-1 tvg-id="202" tvg-name="San Pedro TV" tvg-logo="https://lh3.googleusercontent.com/-NIJDSgSyQwI/YF4tcPPggxI/AAAAAAABA9Y/1pkfP7_eu10_moioRSqfOJpdaGgDsv2agCK8BGAsYHg/s512/2021-03-26.png" group-title="LOCALES 1", SPTV SAN PEDRO 32.1
-https://srv6.zcast.com.br/sptv/sptv/playlist.m3u8
+https://srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="LOCALES 1", CANAL 13  33.1
 https://cvi.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="LOCALES 1", CANAL 13  33.1 | Tw
@@ -81,7 +81,8 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="LOCALES 1", CANAL 9  35.1 | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/639_argtv3
-
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="LOCALES 1", AMERICA HD 36.1
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="LOCALES 1", BAYRES TV 41
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
@@ -118,8 +119,8 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1 tvg-id="1230" tvg-name="EnerGeek Señal 3" tvg-logo="https://i2.paste.pics/2bf75a344d4cf7c2530247f14e101d84.png" group-title="JUVENIL", EnerGeek Señal 3 | CL
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G9gjpVi.png" group-title="JUVENIL", Animax Spain
-https://video-weaver.prg03.hls.ttvnw.net/v1/playlist/CqwEde4Bn8zCYPByrRNqtAvaMBFHHiIkN5_vx3oF3nRE-FC-sCgV3Xwh4EIvFiVW_X9QfVqHskRCmOx0awRxJnWWqC_Q6BvUb68wycL7xiZEt6I2YKu7QL19WLhBDujun_s2yV8PXt6cvdp9ip-_Tz1GNQrT_o4nVh3y-lx--dh_YOA3-TzIeQX0vZ-kZHd1im5MYU2Z2pR8M44PA-o0lqFjON10mwm4q2Y5vuSCIFFKOIydpfU_VDxKmWhOB9dfFTOT6WM1lgaxjSBmEX2vLlC0dV0opqBOZbWeCuudOTp2TCgE7tlB7nVOCZEx7m7VQBsdyiWiHjYm0G-04kR15O7hEXYVEH--i55TWpVtTpHaSuaG333JU-Pt29OcPWpJ7iP7bSadvKgf5lctpHrgE2ARkHCUpSkO7ZSQsKbyWDMECnCEQzupW8H-Igs-WP1ZN2bb4R-AJKloN6I9v7ETE10PatKKZEvSVDE5dzRRKwqRbhE447WzwFCaOumxnM0Mnk5LclrpUfXBLUnXOwClSTrWl9L74PgNNdiw9mEEhb32PWnCgcjaBgh6hKI5gG60ZY40bMEWr9KlJxCweQgf40jl5XCqxc3WLEELM8zIDJVJmeejSy0w525r2pH_6uAHG22mVDH7HhFICyxAy2xDbxe8cWq4Ev9JoN0iIsNeg74Yid6NdtiTX2K8Z5BTJlMwZE7VB4S44Jcs-h3Dusd7zbz2enkHu8c4S95mW7YC2xoMELtM2zLYp7MDtKR3IAEqCWV1LXdlc3QtMjC4BA.m3u8
+#EXTINF:-1 tvg-id="792" tvg-name="Etc TV" tvg-logo="https://lh3.googleusercontent.com/-ja67hoMAcTg/YHTMV3U0IAI/AAAAAAABBXg/NR0gddxhYwo40O6_A5dSQJBMUAyHdEiywCK8BGAsYHg/s512/2021-04-12.png" group-title="JUVENIL", Etc TV | CL
+https://unlimited2-cl-isp.dps.live/etctv/etctv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="JUVENIL", Latino Kids TV | UY
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" group-title="JUVENIL", DREIKO TV | PA
