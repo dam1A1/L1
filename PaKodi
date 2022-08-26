@@ -218,9 +218,9 @@ https://stationtv.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
 https://wisp.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-4WdRYwnbSuQjwv1qwslLKWIZXhonqqB18LFc57Q=s176-c-k-c0x00ffffff-no-rj-mo" group-title="CINE Y SERIES", HBO 2
 https://wisp.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
-#EXTINF:-1 group-title="CINE" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-4WdRYwnbSuQjwv1qwslLKWIZXhonqqB18LFc57Q=s176-c-k-c0x00ffffff-no-rj-mo", HBO | Tw
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-4WdRYwnbSuQjwv1qwslLKWIZXhonqqB18LFc57Q=s176-c-k-c0x00ffffff-no-rj-mo" group-title="CINE Y SERIES", HBO | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/bfcx013
-#EXTINF:-1 group-title="CINE" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-4WdRYwnbSuQjwv1qwslLKWIZXhonqqB18LFc57Q=s176-c-k-c0x00ffffff-no-rj-mo", HBO 2 | Tw
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-4WdRYwnbSuQjwv1qwslLKWIZXhonqqB18LFc57Q=s176-c-k-c0x00ffffff-no-rj-mo" group-title="CINE Y SERIES", HBO 2 | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/bactr9gtc
 
 #EXTINF:-1 tvg-id="1207" tvg-name="Viwix TV Accion" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="CINE Y SERIES", Viwix TV Accion | CL
@@ -732,10 +732,6 @@ https://stationtv.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTES", ESPN
 https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTES", ESPN 2
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-mp4a_61000_spa=38-avc1_499712=4.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTES", ESPN 2
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-mp4a_60000_eng=20-avc1_5999616=6.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTES", ESPN 2
 https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTES", ESPN 3
 https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
@@ -744,8 +740,6 @@ https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 #EXTINF:-1 tvg-logo="https://futbollibre.net/img/logo-canal/ESPN_Premium.png" group-title="DEPORTES", ESPN Premium
 https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
-#EXTINF:-1 tvg-logo="https://futbollibre.net/img/logo-canal/ESPN_Premium.png" group-title="DEPORTES", ESPN Premium
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium-mp4a_59000_eng=23-avc1_2499584=8.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855" group-title="DEPORTES", CANAL SEIS MAR DEL PLATA
 https://59537faa0729a.streamlock.net:443/canal6mdp/canal6mdp/playlist.m3u8
