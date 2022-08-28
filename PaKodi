@@ -268,6 +268,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_b
 https://59d39900ebfb8.streamlock.net:443/canelatv/canelatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj4PrXtFBow3WWj6wjA4yWe-10x6WykuF8TA2B-Qbnymd4UiWfGUJ65efbzbLxSPB0hESx9D9-V1BTVboEsF6k6MGekoXNPXckaJ789vCZgU7bLCG-tp9Dd6Gt0bMfoYOOsqU67KU26MKg61T8_Sct2dTZMJJlIHVRypCweX3EWJCLl008YZBCncnJkeg=s200" group-title="CINE Y SERIES", Cascara TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/antarestv-324x160.png" group-title="CINE Y SERIES", Antares TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1446152329745555462/_BdjkCz2_400x400.png" group-title="CINE Y SERIES", CANAL 77
 https://stmv1.srvif.com/canal77/canal77/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GD15EfH.jpg" group-title="CINE Y SERIES",Norte Informativo TV
