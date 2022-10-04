@@ -16,10 +16,16 @@ https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watc
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=vDQFFuEFz_I
 #EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS", TODO NOTICIAS YT
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/wHn1_QVoXGM
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS", TODO NOTICIAS YT 2
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS", TODO NOTICIAS YT 3
+https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/wHn1_QVoXGM
 #EXTINF:-1 tvg-id="LNPlus.ar" tvg-country="AR"  tvg-logo="https://pbs.twimg.com/profile_images/1335758212277145603/UmOv10VQ_400x400.jpg"  group-title="NOTICIAS", LN+  25.3 YT
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=HlhZ0XZHHaw
 #EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="NOTICIAS", A24  36.3 YT
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/WIPjYtR2N6s
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="NOTICIAS", A24 36.3 YT 2
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="", DIPUTADOS TV YT
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/1-5ycDIKmTA
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="NOTICIAS", FRANCE 24 ESPAÑOL - 24.3 YT
@@ -86,6 +92,8 @@ https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderos
 
 #EXTINF:-1 tvg-id="46" tvg-name="Chavo TV" tvg-logo="https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title="JUVENIL", Chavo TV
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="46" tvg-name="El Chavo Plus" tvg-logo="https://i2.paste.pics/a78f72eb025464f327c8628a20cc4811.png" group-title="JUVENIL", El Chavo Plus | CL
+https://videostreaming.cloudserverlatam.com:443/elchavoplus/elchavoplus/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="JUVENIL", ALF
 https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 #EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="JUVENIL",Los Tres Chiflados
@@ -96,6 +104,8 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hPgUeK5.png" group-title="JUVENIL", Futurama Manía | Col
 https://m3u-editor.com/serve/televitolibre/511000607.m3u8
+#EXTINF:-1 tvg-id="1283" tvg-name="Cloud TV Plus" tvg-logo="https://i2.paste.pics/298f449b97c123292ec4d3a73ef1cfe5.png" group-title="JUVENIL", Cloud TV Plus | CL
+https://videostreaming.cloudserverlatam.com:443/cloudtvplus/cloudtvplus/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="JUVENIL", Locomotion | AR
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
@@ -107,16 +117,20 @@ https://magicstream.ddns.net:443/magicstream/stream.m3u8
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="JUVENIL", Gogoplay TV
 https://live-de-1.livepush.io/live/emAeNk8mcoqhhYV/tracks-v1a1/mono.m3u8?token=d9ac7156fa6d68ab41262c092349e4f856458931-6fa54d4f38b117eb-1662753597
-#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Señal 1" tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png" group-title="JUVENIL", EnerGeek | CL
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zu6eIpH.png" group-title="JUVENIL", Fanpop en EnerGeek | CL
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jNtVaZm.png" group-title="JUVENIL", EnerGeek
+https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="JUVENIL", EnerGeek Fanpop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9wCLoEd.png" group-title="JUVENIL", Wowly en EnerGeek | CL
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WIFyoqI.png" group-title="JUVENIL", EnerGeek Wowly
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i2.paste.pics/256571eecddd2c7e0156fc340b900787.png" group-title="JUVENIL", EnerGeek Senal 4
+https://live.tubyte.xyz/LiveApp/streams/531839509402196773557900.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hD7TVOY.png" group-title="JUVENIL", Canal ZTV HD
 https://cloud.odysee.live/live/094cee8cd090e180f01336c6427802d87223d028.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hD7TVOY.png" group-title="JUVENIL", Canal ZTV SD
 https://livestreams.flote.app:5443/flote/streams/4b077525-6261-42ae-8941-d3804cc87e2f.m3u8
+#EXTINF:-1 tvg-id="792" tvg-name="Etc TV" tvg-logo="https://lh3.googleusercontent.com/-ja67hoMAcTg/YHTMV3U0IAI/AAAAAAABBXg/NR0gddxhYwo40O6_A5dSQJBMUAyHdEiywCK8BGAsYHg/s512/2021-04-12.png" group-title="JUVENIL", Etc TV | CL
+https://unlimited2-cl-isp.dps.live/etctv/etctv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="JUVENIL", Latino Kids TV | UY
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" group-title="JUVENIL", DREIKO TV | PA
@@ -138,6 +152,8 @@ http://infantil-crtvg.flumotion.com/chunks.m3u8
 http://infantil-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="INFANTIL", Juntos HD
 http://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="INFANTIL", Senal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="Cloud Server Kids" tvg-logo="https://i2.paste.pics/274ff2c35f3c15674e5e8c580baec385.png" group-title="INFANTIL", MONSTRUOS DE VERDAD | CL
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1311657809705078786/x-uG8jST_400x400.jpg" group-title="INFANTIL", PAKA PAKA
@@ -296,7 +312,7 @@ https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1233210919070638081/LFXXLzrw.jpg" group-title="CINE Y SERIES", CANAL 74 TV
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 #EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png" group-title="CINE Y SERIES", Retro Play TV | CL
-https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
+https://v4.tustreaming.cl/retroplaytv/playlist.m3u8
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="CINE Y SERIES", Retro Plus TV Señal 3 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 
@@ -636,6 +652,8 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1020255
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jE3Rb32vLEQ/XjtGJpQeqWI/AAAAAAAAvp4/P09Q1wK1oCwNhEhncQUUSJDGFBZzjErCwCK8BGAsYHg/s0/2020-02-05.png" group-title="MUSICA", TIERRAMIA TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f98E9Re.jpg" group-title="MUSICA", EnerGeek Radio TV
+https://live.tubyte.xyz/LiveApp/streams/839593913716085646044793.m3u8
 #EXTINF:-1 group-title="MUSICA", Loop 80s | FHD | Estados Unidos
 https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA", Loop Far Out | FHD | Estados Unidos
@@ -742,6 +760,14 @@ https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
 #EXTINF:-1 tvg-id="BestCableSportsPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7mBkLKV.png" group-title="DEPORTES", Best Cable Sports Perú (720p) [Not 24/7]
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTp2xotD_O3U25klqBdcON1UX2ysytysUZBtWZ_=s48-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", AMERICA SPORTS
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCnx743KuO_16sCMIbEg7Y7Q.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CKyZXdI.png" group-title="DEPORTES", MZ Sports
+https://cloudvideo.servers10.com:8081/8248/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logorealmadridtv.jpg" group-title="DEPORTES", Real Madrid Tv HD
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hoDIGIY.png" group-title="DEPORTES", Esports Max
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES 2", Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
