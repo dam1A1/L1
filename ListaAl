@@ -81,6 +81,8 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="LOCALES 1", TELEFE  34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1 tvg-id="6320ddef274b1b0007b2ee88" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" group-title="LOCALES 1",Gran Hermano en vivo
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="LOCALES 1", CANAL 9  35.1
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="LOCALES 1", CANAL 9  35.1 | Tw
@@ -133,10 +135,6 @@ https://unlimited2-cl-isp.dps.live/etctv/etctv.smil/playlist.m3u8?PlaylistM3UCL
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" group-title="JUVENIL", DREIKO TV | PA
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hD7TVOY.png" group-title="JUVENIL", Canal ZTV HD
-https://cloud.odysee.live/live/094cee8cd090e180f01336c6427802d87223d028.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hD7TVOY.png" group-title="JUVENIL", Canal ZTV SD
-https://livestreams.flote.app:5443/flote/streams/4b077525-6261-42ae-8941-d3804cc87e2f.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTIL", Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
@@ -156,8 +154,6 @@ http://infantil-crtvg.flumotion.com/playlist.m3u8
 http://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="INFANTIL", Senal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="Cloud Server Kids" tvg-logo="https://i2.paste.pics/274ff2c35f3c15674e5e8c580baec385.png" group-title="INFANTIL", MONSTRUOS DE VERDAD | CL
-https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1311657809705078786/x-uG8jST_400x400.jpg" group-title="INFANTIL", PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
@@ -587,6 +583,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492bb931054f00073c0b
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="62e017e44823db000726cd9a" tvg-logo="https://images.pluto.tv/channels/62e017e44823db000726cd9a/colorLogoPNG.png" group-title="Pluto Series",The Ed Sullivan Show
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e017e44823db000726cd9a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="6320ddef274b1b0007b2ee88" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" group-title="Pluto Series",Gran Hermano en vivo
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5de91b7ea86ee60009d89e75" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" group-title="Pluto Series",MTV Classic
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5cf96d351652631e36d4331f" tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="Pluto Series",MTV en español
@@ -657,8 +655,8 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1020255
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jE3Rb32vLEQ/XjtGJpQeqWI/AAAAAAAAvp4/P09Q1wK1oCwNhEhncQUUSJDGFBZzjErCwCK8BGAsYHg/s0/2020-02-05.png" group-title="MUSICA", TIERRAMIA TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/f98E9Re.jpg" group-title="MUSICA", EnerGeek Radio TV
-https://live.tubyte.xyz/LiveApp/streams/839593913716085646044793.m3u8
+#EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png" group-title="MUSICA", EnerGeek Radio | CL
+https://live.tubyte.xyz/LiveApp/streams/839593913716085646044793.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSICA", Loop 80s | FHD | Estados Unidos
 https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA", Loop Far Out | FHD | Estados Unidos
@@ -1095,17 +1093,34 @@ https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chavo_del_8_ocho_5
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", chapulin_colorado_3 | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chapulin_colorado_3
-#EXTINF:-1 tvg-logo="" group-title="JUVENIL", simpsons_online04 | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/simpsons_online04
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", simpsonmania_original3 | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/simpsonmania_original3
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", futurama_mania_original2 | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/futurama_mania_original2
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", padre_de_familia_mk1 | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/padre_de_familia_mk1
-#EXTINF:-1 tvg-logo="" group-title="JUVENIL", padre_de_familia107 | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/padre_de_familia107
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", agente_de_familia_1 | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/agente_de_familia_1
-#EXTINF:-1 tvg-logo="" group-title="JUVENIL", agente_de_familia97 | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/agente_de_familia97
+
+#EXTINF:-1 tvg-logo="" group-title="JUVENIL", narutootvv | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/narutootvv
+#EXTINF:-1 tvg-logo="" group-title="JUVENIL", kametv2 | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/kametv2
+#EXTINF:-1 tvg-logo="" group-title="JUVENIL", 90toonz | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/90toonz
+#EXTINF:-1 tvg-logo="" group-title="JUVENIL", drakeplaydz | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/drakeplaydz
+#EXTINF:-1 tvg-logo="" group-title="JUVENIL", retroanimecalazar01 | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/retroanimecalazar01
+#EXTINF:-1 tvg-logo="" group-title="JUVENIL", Neon Genesis Evangelion | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/fuyutsukiisunderrated
+#EXTINF:-1 tvg-logo="" group-title="JUVENIL", 24_7anime | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/24_7anime
+#EXTINF:-1 tvg-logo="" group-title="JUVENIL", animeparati | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/animeparati
+#EXTINF:-1 tvg-logo="" group-title="JUVENIL", pokemon_latino | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/pokemon_latino_
+#EXTINF:-1 tvg-logo="" group-title="JUVENIL", anime_maniacos | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/anime_maniacos
+#EXTINF:-1 tvg-logo="" group-title="JUVENIL", visualanime | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/visualanime
