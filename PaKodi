@@ -136,6 +136,8 @@ https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" group-title="JUVENIL", DREIKO TV | PA
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTIL",cartoon network | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/113kkctoon
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTIL", Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTIL", Cartoonito
@@ -213,8 +215,33 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c
 #EXTINF:-1 tvg-id="5fd87d882574170007fac022" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Pluto Animación", Pluto TV Bob Esponja Plus
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", Telemundo | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/trl_090tl
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",studio universal | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/aaarr1021
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",studio universal | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/bfex011
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TNT Series | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ke1047rar
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",space | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/mt_116tm
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TNT | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/knt_16kll
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",CINEMAX | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_x2t3x
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",star chanel | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/100ty05kk
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",telemundo | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tlm_214mgt
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Warner Channel | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/2war011
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO2 | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dor141xc
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/bfx2ll2
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",sony | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/f5cc0190
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Azteca 7 | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/gmt_13kr
+
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", CTV capricho
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="CINE Y SERIES", Cinema + | HD | México
@@ -723,6 +750,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/07e60396-2050-4e25-aa22-67ccf0791c45/4.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/flash-1/thumbh_20211119_205104.jpg" group-title="MUSICA", FLASH
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/9cf52827-4ad4-41e3-a857-024b7536661f/4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", tudn | Tw
+https://ok.ru/video/4245365202438
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTES", ESPN | CL
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
