@@ -225,12 +225,15 @@ https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ke1047
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/mt_116tm
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TNT | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/knt_16kll
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",CINEMAX | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/cc_x2t3x
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",star chanel | Tw
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", universal | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/2ui_02ff
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", star chanel | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/100ty05kk
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", star chanel | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/aaarr1021
+
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",telemundo | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tlm_214mgt
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tql_071rt
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Warner Channel | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/2war011
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO2 | Tw
@@ -239,8 +242,6 @@ https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dor141
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/bfx2ll2
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",sony | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/f5cc0190
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Azteca 7 | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/gmt_13kr
 
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", CTV capricho
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
@@ -435,6 +436,16 @@ https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 http://190.122.96.187:8888/http/002
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162587675217551360/Ot_b3vTB_400x400.png" group-title="Internacional", Canal 9 Telerocha
 https://stm1.rootuy.xyz:19360/canal9/canal9.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Internacional", Azteca 7 | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/gmt_13kr
+#EXTINF:-1 tvg-logo="" group-title="Internacional", TLNovelas | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/txn_859t
+#EXTINF:-1 tvg-logo="" group-title="Internacional", Canal 5 | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/5gtmtx9
+#EXTINF:-1 tvg-logo="" group-title="Internacional", Canal de Las Estrellas | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/2ffm6c0f
+#EXTINF:-1 tvg-logo="" group-title="Internacional", Azteca 13 | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/azt_119vx
 
 #EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1507186058747854848/liVKa4wY_400x400.jpg" group-title="CINE Y SERIES", CINEAR  22.4
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
@@ -751,8 +762,12 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/07e60396
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/flash-1/thumbh_20211119_205104.jpg" group-title="MUSICA", FLASH
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/9cf52827-4ad4-41e3-a857-024b7536661f/4.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", tudn | Tw
-https://ok.ru/video/4245365202438
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", directv
+https://edge1.zorrohd3.nl/live/STf9a9b07c2028cda.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", fox 1 | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/4nt_11rr
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", tudn | okru
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://ok.ru/video/4245365202438
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="DEPORTES", ESPN | CL
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
@@ -958,7 +973,14 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dt_yy83
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/0MpmmKlHqG0BdWXx0TiipcSABbIrPZKkF113gC8o-CPcX58Y2yL8WgnykcVAePa2kh_2p1TaZg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="DOCUMENTAL", HISTORY CHANNEL | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vdt_51tt
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/0MpmmKlHqG0BdWXx0TiipcSABbIrPZKkF113gC8o-CPcX58Y2yL8WgnykcVAePa2kh_2p1TaZg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="DOCUMENTAL", HISTORY CHANNEL | Tw
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vdt_51tt
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAL", NATGEO | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/rr_945rrr
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAL", Investigation Discovery | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ivd_19f
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAL", Discovery Home and Health | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/agt_124x
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Efv-00P_dR0/YLzynagSe1I/AAAAAAABCvM/yOhOzOxVWGwan9Xwgg-zpQzFK8WGJo12ACJEEGAsYHg/s512/2021-06-06.png" group-title="DOCUMENTAL", CEACT TV
 https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8
