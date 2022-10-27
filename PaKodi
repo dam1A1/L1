@@ -102,8 +102,6 @@ https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", SIMPSONS 24/7
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", SIMPSONS | CL
-https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hPgUeK5.png" group-title="JUVENIL", Futurama Manía | Col
 https://m3u-editor.com/serve/televitolibre/511000607.m3u8
 #EXTINF:-1 tvg-id="1283" tvg-name="Cloud TV Plus" tvg-logo="https://i2.paste.pics/298f449b97c123292ec4d3a73ef1cfe5.png" group-title="JUVENIL", Futurama | CL
@@ -223,17 +221,14 @@ https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/bfex01
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ke1047rar
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",space | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/mt_116tm
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TNT | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/knt_16kll
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", universal | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/2ui_02ff
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", star chanel | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/100ty05kk
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", star chanel | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/aaarr1021
-
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",telemundo | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tql_071rt
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tql_014rt
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Warner Channel | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/2war011
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO2 | Tw
@@ -242,6 +237,15 @@ https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dor141
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/bfx2ll2
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",sony | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/f5cc0190
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="CINE Y SERIES", WIVIX 1
+https://s2.tvdatta.com:3849/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="CINE Y SERIES", WIVIX 2
+https://s2.tvdatta.com:3402/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="CINE Y SERIES", WIVIX 3
+https://s2.tvdatta.com:3457/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="CINE Y SERIES", WIVIX 4
+https://s2.tvdatta.com:3172/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", CTV capricho
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
@@ -430,6 +434,8 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1340607118672588801/jGHqe5pq_400x400.jpg" group-title="Internacional", T13 CHILE
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1zTLGdj.jpg" group-title="Internacional", BOLIVIA TV
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Internacional", BOLIVISION
 https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-id="XHJKTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/1.1.png" group-title="Internacional", Azteca Uno (XHJK-TDT) (480p) [Not 24/7]
@@ -821,6 +827,13 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hoDIGIY.png" group-title="DEPORTES", Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png" group-title="DEPORTES", Contacto Deportivo 
+https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" group-title="DEPORTES", CRTV 
+https://vdo.panelstreaming.live:3540/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="DEPORTES", D13
+https://unlimited2-cl-isp.dps.live/13d/13d.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="DEPORTES 2", Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES 2", Tennis Channel HD
@@ -1085,8 +1098,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c5c2b9d8002db3c3e0b1c
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612f761008a9e50007984ba0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="611e6ddc7fcd580007d1eb5f" tvg-logo="https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Kids Gaming
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611e6ddc7fcd580007d1eb5f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="619b893895e225000729e67a" tvg-logo="https://images.pluto.tv/channels/619b893895e225000729e67a/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Gaming Heroes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619b893895e225000729e67a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="555" tvg-name="Retro Cartoon" tvg-logo="https://lh3.googleusercontent.com/-7_I1pkRvdW8/X0KBdavYe3I/AAAAAAAA43w/Rd8o3DFUPWMMZO8Z3tV9YWukDy64UBkIACK8BGAsYHg/s0/2020-08-23.png" group-title="Animation", Retro Cartoon | BR
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
@@ -1143,19 +1154,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i43l93j.png" group-title="PAISAJES", WATERFALLS LIVE
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="JUVENIL", chavo_del_8_ocho_5 | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chavo_del_8_ocho_5
-#EXTINF:-1 tvg-logo="" group-title="JUVENIL", chapulin_colorado_3 | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/chapulin_colorado_3
-#EXTINF:-1 tvg-logo="" group-title="JUVENIL", simpsonmania_original3 | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/simpsonmania_original3
-#EXTINF:-1 tvg-logo="" group-title="JUVENIL", futurama_mania_original2 | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/futurama_mania_original2
-#EXTINF:-1 tvg-logo="" group-title="JUVENIL", padre_de_familia_mk1 | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/padre_de_familia_mk1
-#EXTINF:-1 tvg-logo="" group-title="JUVENIL", agente_de_familia_1 | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/agente_de_familia_1
-
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", narutootvv | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/narutootvv
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", kametv2 | Tw
@@ -1168,8 +1166,6 @@ https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/drakep
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/retroanimecalazar01
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", Neon Genesis Evangelion | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/fuyutsukiisunderrated
-#EXTINF:-1 tvg-logo="" group-title="JUVENIL", 24_7anime | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/24_7anime
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", animeparati | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/animeparati
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", pokemon_latino | Tw
