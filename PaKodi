@@ -477,6 +477,8 @@ http://video.streamtvradio.com:8081/uv038/uv038/chunks.m3u8?nimblesessionid=1567
 https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
 #EXTINF:-1 tvg-id="302" tvg-name="Canal Nueve TV" tvg-logo="https://lh3.googleusercontent.com/-gSWT28neyoI/XjtJg-an6zI/AAAAAAAAvrM/QbdM_yrZ6GcRSpkxyoLkkFI-aJ-yjX3qwCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", Canal Nueve TV | AR
 https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477865517230690306/bfzdGRuK_400x400.jpg" group-title="LOCALES 2", AZM TV 
+https://live.canalnueve.tv/canal.m3u8
 
 #EXTINF:-1 group-title="LOCALES 2", EL DOCE CORDOBA YT
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=gBbMbqILzXU
