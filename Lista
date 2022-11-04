@@ -213,30 +213,28 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c
 #EXTINF:-1 tvg-id="5fd87d882574170007fac022" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Pluto Animación", Pluto TV Bob Esponja Plus
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",studio universal | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/aaarr1021
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",studio universal | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/bfex011
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",TNT Series | Tw
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", TNT Series | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ke1047rar
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",space | Tw
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", sony channel | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/f5cc0190
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", space | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/mt_116tm
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", universal | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/2ui_02ff
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", star chanel | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/100ty05kk
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", star chanel | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/aaarr1021
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",telemundo | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tql_014rt
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Warner Channel | Tw
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", telemundo | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tql_021rt
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", Warner Channel | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/2war011
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO2 | Tw
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", HBO2 | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dor141xc
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",HBO | Tw
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", HBO | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/bfx2ll2
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",sony | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/f5cc0190
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", HBO plus | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/bfex011
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", HBO plus | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/aaarr1021
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="CINE Y SERIES", WIVIX 1
 https://s2.tvdatta.com:3849/hybrid/play.m3u8
@@ -246,6 +244,8 @@ https://s2.tvdatta.com:3402/hybrid/play.m3u8
 https://s2.tvdatta.com:3457/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png" group-title="CINE Y SERIES", WIVIX 4
 https://s2.tvdatta.com:3172/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://www.frecuenciamusicaltv.com/wp-content/uploads/2017/01/ic_launcher-playstore-370x370.png" group-title="CINE Y SERIES", FMTV
+https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", CTV capricho
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
@@ -1175,16 +1175,12 @@ https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/narutootvv
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", kametv2 | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/kametv2
-#EXTINF:-1 tvg-logo="" group-title="JUVENIL", 90toonz | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/90toonz
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", drakeplaydz | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/drakeplaydz
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", retroanimecalazar01 | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/retroanimecalazar01
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", Neon Genesis Evangelion | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/fuyutsukiisunderrated
-#EXTINF:-1 tvg-logo="" group-title="JUVENIL", animeparati | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/animeparati
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", pokemon_latino | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/pokemon_latino_
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", anime_maniacos | Tw
