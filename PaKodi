@@ -121,15 +121,18 @@ https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WIFyoqI.png" group-title="JUVENIL", EnerGeek 3 Wowly
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="JUVENIL", EnerGeek 2 Fanpop
+#EXTINF:-1 tvg-id="1112" tvg-name="Energeek Señal 2" tvg-logo="https://i2.paste.pics/ec9a99d22c4dd4a38c9af9c016019d88.png" group-title="JUVENIL", Energeek 2 | CL
+https://stream.wifispeed.cl:3247/live/energeek2live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="JUVENIL", EnerGeek 2 opcion2
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-id="1107" tvg-name="Wowly" tvg-logo="https://i2.paste.pics/9177c225a1b026e4b7e4b716f4a9c913.png" group-title="JUVENIL", Wowly | CL
+https://stream.wowlymedia.com/hls/stream/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="JUVENIL", Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
-#EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="JUVENIL", Latino Kids TV | UY
-https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png" group-title="JUVENIL", Latino Kids TV | UY
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" group-title="JUVENIL", DREIKO TV | PA
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTIL", cartoon network | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/113kkctoon
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTIL", Cartoon Network Latino
