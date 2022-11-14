@@ -104,8 +104,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11e
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hPgUeK5.png" group-title="JUVENIL", Futurama Manía | Col
 https://m3u-editor.com/serve/televitolibre/511000607.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/tMfw42m.png" group-title="JUVENIL", Futurama Manía | HD | Col
+https://onx.la/f1859.m3u8
 #EXTINF:-1 tvg-id="1283" tvg-name="Cloud TV Plus" tvg-logo="https://i2.paste.pics/298f449b97c123292ec4d3a73ef1cfe5.png" group-title="JUVENIL", Futurama | CL
 https://videostreaming.cloudserverlatam.com:443/cloudtvplus/cloudtvplus/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xdrpcXj.png" group-title="JUVENIL", Bit Me | SD | México 
+https://onx.la/4f076
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PjSDWN3.png" group-title="JUVENIL", ETC TV | HD | Chile
+https://onx.la/c6259
 
 #EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="JUVENIL", Locomotion | AR
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
@@ -426,6 +433,16 @@ https://v-pi.theus6tv.tk/hls/62.2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NeRfD55.png" group-title="CINE Y SERIES", Vive Canal D Drama | HD | Turquía
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN %7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="CINE Y SERIES", Sony Novelas | HD | Estados Unidos
+https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="CINE Y SERIES", Sony Comedias | HD | Estados Unidos
+https://spt-comedias-1-us.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="CINE Y SERIES", Sony Competencias | HD | Estados Unidos
+https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1382698919474380800/ZQ-bfjHp_400x400.jpg" group-title="Internacional", UCL TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
@@ -449,6 +466,35 @@ https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/5gtmtx
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/2ffm6c0f
 #EXTINF:-1 tvg-logo="" group-title="Internacional", Azteca 13 | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/azt_119vx
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sRsCcT6.png" group-title="Internacional", La 1 | FHD | Madrid 
+https://onx.la/692f8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nlaIRhn.png" group-title="Internacional", La 2 | FHD | Madrid 
+https://onx.la/d6919
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OS5AxxL.png" group-title="Internacional", Antena 3 | FHD | Madrid
+https://onx.la/efe7a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ir7cGCH.png" group-title="Internacional", Cuatro | HD | Madrid
+https://onx.la/2295b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AVZfB2U.png" group-title="Internacional", Telecinco | HD | Madrid
+https://onx.la/a3bee
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fBKWwf.png" group-title="Internacional", La Sexta | HD | Madrid
+https://onx.la/71362
+#EXTINF:-1 tvg-logo="https://i.imgur.com/62YxC6E.png" group-title="Internacional", BeMad | HD | Madrid
+https://onx.la/a23f0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rIP7gI0.png" group-title="Internacional", Neox | SD | Madrid
+https://onx.la/bfd84
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8vSjerj.png" group-title="Internacional", Mega | HD | Madrid
+https://onx.la/769e4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XtmaA3p.png" group-title="Internacional", Ten | SD | Madrid
+https://onx.la/febbf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B0v8Dgj.png" group-title="Internacional", Nova | HD | Madrid
+https://onx.la/c9380
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPgjAbX.png" group-title="Internacional", Divinity | HD | Madrid
+https://onx.la/8805a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6wmqPL.png" group-title="Internacional", DMax | HD | Madrid
+https://onx.la/0c1ba
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6AHQUH.png" group-title="Internacional", DKiss | HD | Madrid
+https://onx.la/5d316
 
 #EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1507186058747854848/liVKa4wY_400x400.jpg" group-title="CINE Y SERIES", CINEAR  22.4
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
@@ -776,13 +822,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/07e60396
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/flash-1/thumbh_20211119_205104.jpg" group-title="MUSICA", FLASH
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/9cf52827-4ad4-41e3-a857-024b7536661f/4.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", directv
-https://edge1.zorrohd3.nl/live/STf9a9b07c2028cda.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", fox 1 | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/4nt_11rr
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", tudn | okru
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://ok.ru/video/4245365202438
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN
 http://190.27.172.226:25000/play/a01v
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN 
@@ -810,9 +849,9 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", FOX Sports 2
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", Fox Sports 2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Fox Sports 2
 http://190.27.172.226:25000/play/a02e
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EVENTOS DEPORTIVOS", Fox Sports 3
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", Fox Sports 3
 http://190.27.172.226:25000/play/a02f
 
 #EXTINF:-1 tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855" group-title="DEPORTES", CANAL SEIS MAR DEL PLATA
@@ -823,7 +862,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="DEPORTES", CIUDAD MAGICA TV
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" ggroup-title="DEPORTES", CITY SPORTS TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="DEPORTES", CITY SPORTS TV
 https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="DEPORTES", BAYRES TV 41
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
@@ -846,6 +885,8 @@ https://59d39900ebfb8.streamlock.net/8312/8312/playlist.m3u8
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tmaFaJg.png" group-title="DEPORTES",CRTV Chile
 https://srv.panelcast.net/crtv/crtv/chunklist_w384153614.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" group-title="DEPORTES", CRTV 
+https://vdo.panelstreaming.live:3540/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTp2xotD_O3U25klqBdcON1UX2ysytysUZBtWZ_=s48-c-k-c0x00ffffff-no-rj" group-title="DEPORTES", AMERICA SPORTS
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCnx743KuO_16sCMIbEg7Y7Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CKyZXdI.png" group-title="DEPORTES", MZ Sports
@@ -854,11 +895,8 @@ https://cloudvideo.servers10.com:8081/8248/tracks-v1a1/mono.m3u8
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hoDIGIY.png" group-title="DEPORTES", Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png" group-title="DEPORTES", Contacto Deportivo 
 https://live.obslivestream.com/cdeportivo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" group-title="DEPORTES", CRTV 
-https://vdo.panelstreaming.live:3540/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/21803adf68e4ed46e638156868973edd.png" group-title="DEPORTES", D13
 https://unlimited2-cl-isp.dps.live/13d/13d.smil/playlist.m3u8
 
@@ -886,7 +924,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa2
 #EXTINF:-1 tvg-id="5fac425f949b4600079938f3" tvg-logo="https://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="DEPORTES 2",Pluto TV Boxing
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="EVENTOS DEPORTIVOS", ALL SPORTS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qxL1fAM.png" group-title="DEPORTES 2", J Sports 1  | SD | Japón
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qxL1fAM.png" group-title="DEPORTES 2", J Sports 2 | SD | Japón
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qxL1fAM.png" group-title="DEPORTES 2", J Sports 3  | SD | Japón
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qxL1fAM.png" group-title="DEPORTES 2", J Sports 4  | SD | Japón
+http://cdnv148.cloudrsst.com:1935/jptv/jsports4_540/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="DEPORTES 2", ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES 2", Edge Sport
@@ -947,6 +994,15 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES 2", Local Now Sports
 https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BepUOot.png" group-title="DEPORTES 2", Bahrain Sports | HD | Bahrein
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BepUOot.png" group-title="DEPORTES 2", Bahrain Sports 2 | HD | Bahrein
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Fd351M.png" group-title="DEPORTES 2", Golf & PBA  | FHD | Corea del Sur
+https://kr-streams.onrender.com/scraper?channel=237
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bVPwjvW.png" group-title="DEPORTES 2", Trace Sport Stars | HD | Francia
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4ZG4AOTaGjbWzwUwxyORvDrv13I-_bnmf4nsXjYirvaxJBvGV7V7RrU8BiVV8nBd4YA&usqp=CAU" group-title="EVENTOS DEPORTIVOS", EVENTOS TyC SPORT PLAY 1
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
