@@ -272,6 +272,10 @@ https://s2.tvdatta.com:3457/hybrid/play.m3u8
 https://s2.tvdatta.com:3172/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://www.frecuenciamusicaltv.com/wp-content/uploads/2017/01/ic_launcher-playstore-370x370.png" group-title="CINE Y SERIES", FMTV
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
+#EXTINF:-1 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="CINE Y SERIES", LIM TV | PY
+https://live.limplay.ml/limtv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="69" tvg-name="G Vision" tvg-logo="https://i2.paste.pics/d091b495e5432ae25bfab9dd4624cc6d.png" group-title="CINE Y SERIES", G Vision | CL
+https://tls-cl.cdnz.cl/escgabrielamistral/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", CTV capricho
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
@@ -472,8 +476,10 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1zTLGdj.jpg" group-title="Internacional", BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Internacional", BOLIVISION
-https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+#EXTINF:-1 tvg-id="1194" tvg-name="Bolivision" tvg-logo="https://i2.paste.pics/4dc5de183727a12e5701c57cddac2f28.png" group-title="Internacional", Bolivision | BO
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="Internacional", telefuturo
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_alta/chunklist_w534307753.m3u8
 #EXTINF:-1 tvg-id="XHJKTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/1.1.png" group-title="Internacional", Azteca Uno (XHJK-TDT) (480p) [Not 24/7]
 http://190.122.96.187:8888/http/002
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162587675217551360/Ot_b3vTB_400x400.png" group-title="Internacional", Canal 9 Telerocha
@@ -542,6 +548,8 @@ https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="820" tvg-name="El Palomar TV Tucuman" tvg-logo="https://lh3.googleusercontent.com/-8UaWsEXJQgA/YH7XXHWqrpI/AAAAAAABByU/W6JFZuqyjQUrxSsIyAdU5tMwBWulFEGgQCK8BGAsYHg/s512/2021-04-20.jpg" group-title="LOCALES 2", El Palomar TV Tucuman | AR
 http://video.streamtvradio.com:8081/uv038/uv038/chunks.m3u8?nimblesessionid=1567560
+#EXTINF:-1 tvg-id="820" tvg-name="El Palomar TV Tucuman" tvg-logo="https://lh3.googleusercontent.com/-8UaWsEXJQgA/YH7XXHWqrpI/AAAAAAABByU/W6JFZuqyjQUrxSsIyAdU5tMwBWulFEGgQCK8BGAsYHg/s512/2021-04-20.jpg" group-title="LOCALES 2", El Palomar TV Tucuman | AR
+https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="912" tvg-name="Radio Blu" tvg-logo="https://pbs.twimg.com/profile_images/3720036066/64995b5df909d36608df78a24638afc6_400x400.jpeg" group-title="LOCALES 2", RADIO BLU SAN JUAN
 https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
 #EXTINF:-1 tvg-id="302" tvg-name="Canal Nueve TV" tvg-logo="https://lh3.googleusercontent.com/-gSWT28neyoI/XjtJg-an6zI/AAAAAAAAvrM/QbdM_yrZ6GcRSpkxyoLkkFI-aJ-yjX3qwCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", Canal Nueve TV | AR
@@ -1131,6 +1139,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604a8dedbca75b0007b1c7
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1DYPzkDGsnWqzAQ2SiZOKA7Hi9CrNj1h6SpIup_yMJtTEHN9EKMPvD0nz8thRaCB1Lo&usqp=CAU" group-title="JUVENIL", LEVEL UP TV
 https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
+#EXTINF:-1 tvg-id="1217" tvg-name="eSports Max TV" tvg-logo="https://i2.paste.pics/0b1c597bedf83ad81c998c648e001696.png" group-title="JUVENIL", eSports Max TV | VE
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="5ff3934600d4c7000733ff49" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" group-title="Pluto Juegos",Pluto TV E-Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5fb554d87a0c480007c8dada" tvg-logo="https://images.pluto.tv/channels/5fb554d87a0c480007c8dada/colorLogoPNG.png" group-title="Pluto Juegos",ESR 24/7
