@@ -93,6 +93,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="LOCALES 1", CANAL 9  35.1 | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/639_argtv3
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="" group-title="LOCALES 1", AMERICA TUCUMAN | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=6gC9ZWY8KEs
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1542249688925102088/MuU-yYt__400x400.png" group-title="LOCALES 1", AMERICA HD 36.1
 https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/america-tv.png" group-title="LOCALES 1", AMERICA HD  36.1
@@ -249,16 +251,12 @@ https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/100ty0
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/bfcx013
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", FX | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ct_2m11
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", telemundo | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tql_021rt
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", Warner Channel | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/2war011
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", HBO2 | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/dor141xc
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", HBO | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/bfx2ll2
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", HBO plus | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/bfex011
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", HBO plus | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/aaarr1021
 
@@ -279,8 +277,6 @@ https://tls-cl.cdnz.cl/escgabrielamistral/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", CTV capricho
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="http://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="CINE Y SERIES", Cinema + | HD | México
-https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
 https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png" group-title="CINE Y SERIES", Mega Cine TV | DO
@@ -301,6 +297,8 @@ https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
 https://tls-cl.cdnz.cl/planetatv2/ngrp:live_all//playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="MyTimemovienetworkMexico.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="CINE Y SERIES", MyTime movie network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png" group-title="CINE Y SERIES",Golden TV (240p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES", Canela.TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
 #EXTINF:-1 tvg-id="97" tvg-name="Canela TV" tvg-logo="https://lh3.googleusercontent.com/-XB6FpxNrWvA/Xzh8VdwOFDI/AAAAAAAA4c4/GucXlxexbYkbLwP7R59w9aHm6_M3AdZ5ACK8BGAsYHg/s0/2020-08-15.png" group-title="CINE Y SERIES", Canela TV | EC
@@ -479,23 +477,14 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="1194" tvg-name="Bolivision" tvg-logo="https://i2.paste.pics/4dc5de183727a12e5701c57cddac2f28.png" group-title="Internacional", Bolivision | BO
 https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="" group-title="Internacional", telefuturo
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_alta/chunklist_w534307753.m3u8
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_alta/chunklist_w1998358105.m3u8?k=b9ac9d7979167f034c031c01d49e2c35bc9b51cd59b5cfa281f8366cd67a670b&exp=1669753600
 #EXTINF:-1 tvg-id="XHJKTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/1.1.png" group-title="Internacional", Azteca Uno (XHJK-TDT) (480p) [Not 24/7]
 http://190.122.96.187:8888/http/002
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162587675217551360/Ot_b3vTB_400x400.png" group-title="Internacional", Canal 9 Telerocha
 https://stm1.rootuy.xyz:19360/canal9/canal9.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Internacional", Azteca 7 | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/gmt_13kr
-#EXTINF:-1 tvg-logo="" group-title="Internacional", Azteca 7
-https://cdn.castmax.live/hls/7nvtt.m3u8?token=3747Bxz3yFcvNpYIt3sCtA&expires=1669326545
+
 #EXTINF:-1 tvg-logo="" group-title="Internacional", TLNovelas | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/txn_859t
-#EXTINF:-1 tvg-logo="" group-title="Internacional", Canal 5 | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/5gtmtx9
-#EXTINF:-1 tvg-logo="" group-title="Internacional", Canal de Las Estrellas | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/2ffm6c0f
-#EXTINF:-1 tvg-logo="" group-title="Internacional", Canal de Las Estrellas | Tw
-https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/4tnm29vt
 #EXTINF:-1 tvg-logo="" group-title="Internacional", Azteca 13 | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/azt_119vx
 
@@ -864,7 +853,7 @@ http://8.242.187.233:5800/play/a0bs/index.m3u8
 http://8.242.187.233:5800/play/a0bi/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN EXTRA
 http://8.242.187.233:5800/play/a0cd/index.m3u8
-#EXTINF:-1 http://x.playerlatino.live/espn4.png group-title="DEPORTES", ESPN 4
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="DEPORTES", ESPN 4
 http://8.242.187.233:5800/play/a0br/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", Fox Sports 2
 http://8.242.187.233:5800/play/a0a4/index.m3u8
@@ -883,7 +872,8 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTES", TyC SPORTS
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="DEPORTES", TyC SPORTS 720
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855" group-title="DEPORTES", CANAL SEIS MAR DEL PLATA
 https://59537faa0729a.streamlock.net:443/canal6mdp/canal6mdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/logo-neo-tv_orig.png" group-title="DEPORTES", NEO TV DIGITAL  16.1
@@ -1238,6 +1228,8 @@ https://4e2e58758a334de4b01b25ab2e5f89c7.mediatailor.us-east-1.amazonaws.com/v1/
 http://210.210.155.37/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vJs4WmR.png" group-title="Animation",Aniplus Asia
 http://210.210.155.35/dr9445/h/h02/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Animation", Rakuten TV Anime Digital Network
+https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/naUJwoV.png" group-title="Animation", Persiana Junior (720p)
 http://51.210.199.18/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae" tvg-country="AE;SY" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Animation", Spacetoon (1080p)
@@ -1272,6 +1264,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8a0e7a9ab0370008b177
 #EXTINF:-1 channel-id="pluto-5f8a0f421418bd0007e14548" tvg-id="5f8a0f421418bd0007e14548" tvg-logo="https://images.pluto.tv/channels/5f8a0f421418bd0007e14548/colorLogoPNG.png" group-title="PAISAJES", Chimenea Navideña
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8a0f421418bd0007e14548/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+
+
+#EXTINF:-1 tvg-logo="" group-title="JUVENIL", Los simpsons | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/fileld019
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", narutootvv | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/narutootvv
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", kametv2 | Tw
