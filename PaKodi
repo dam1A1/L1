@@ -14,6 +14,8 @@ https://cntlnk2-main-edge-access.secure.footprint.net/b16/ngrp:cronicatv_video1-
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=InSydaLSSlw
 #EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1506356427228655625/Vym1HGRy_400x400.jpg" group-title="NOTICIAS", C5N  25.2 YT
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=dbteiGt_t_4
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/426070/2da1b806d0d1350d71315d315a177c8b_165x165.webp" group-title="NOTICIAS", LTO CATAMARCA - TODO NOTICIAS
+https://ltocatamarca.github.io/ltotv.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS", TODO NOTICIAS YT
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/embed/wHn1_QVoXGM
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS", TODO NOTICIAS YT 2
@@ -469,13 +471,14 @@ https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1382698919474380800/ZQ-bfjHp_400x400.jpg" group-title="Internacional", UCL TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1340607118672588801/jGHqe5pq_400x400.jpg" group-title="Internacional", T13 CHILE
 https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1zTLGdj.jpg" group-title="Internacional", BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="1194" tvg-name="Bolivision" tvg-logo="https://i2.paste.pics/4dc5de183727a12e5701c57cddac2f28.png" group-title="Internacional", Bolivision | BO
 https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1058069830002188288/cJQbekKt_400x400.jpg" group-title="Internacional", SNT | PY
+https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Internacional", telefuturo
 https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_alta/chunklist_w1998358105.m3u8?k=b9ac9d7979167f034c031c01d49e2c35bc9b51cd59b5cfa281f8366cd67a670b&exp=1669753600
 #EXTINF:-1 tvg-id="XHJKTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/1.1.png" group-title="Internacional", Azteca Uno (XHJK-TDT) (480p) [Not 24/7]
@@ -525,6 +528,8 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSh7XjPZSGyNjRrZpYF4nwLpJUbxtv_Qf2gQqNOjlwiHzXvusMUnp8gGkfXg6ocaVpgYA&usqp=CAU" group-title="LOCALES 2", CNR JUJUY
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_5Ip3VivHGzObNU-wa3TaR-FZ2Duj9ruHtNaOw=s88-c-k-c0x00ffffff-no-rj" group-title="LOCALES 2", CANAL 6 POMAN
+https://streamcasthd.com:19360/radiovision939/radiovision939.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png" group-title="LOCALES 2", CANAL 34 SAN JUAN
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 tvg-id="283" tvg-name="Metro TV Canal 12 Tucuman" tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES 2", Metro TV CANAL 12 TUCUMAN
@@ -551,6 +556,8 @@ https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watc
 
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", CANAL 10 CORDOBA
 https://stream.arcast.live/canal10/ngrp:canal10_all/chunklist_w1696069620_b1408000.m3u8
+#EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://lh3.googleusercontent.com/-1_p-RfF0oIo/XjtDhLIE25I/AAAAAAAAvpE/uzoG77Dzsp8PEzYtGkaBadawaE0ISWlywCK8BGAsYHg/s0/2020-02-05.png" group-title="LOCALES 2", CANAL 10 CORDOBA
+https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:-1 tvg-id="205" tvg-name="Canal 2 Sanagasta" tvg-logo="https://lh3.googleusercontent.com/-JkBVmTEb_vw/YFtd-AiCe7I/AAAAAAABA4I/D3j1TH_6YVw-5eulULSfVnU0APlEpWoVwCK8BGAsYHg/s512/2021-03-24.jpg" group-title="LOCALES 2", Canal 2 Sanagasta | AR
 https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.crossingcontenidos.com.ar/wp-content/uploads/2022/02/LOGO-PNG-CROSSING-CANAL-IPTV-2021-1-1024x640.png" group-title="LOCALES 2", CROSSING TV RIO GALLEGOS
@@ -615,6 +622,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0246
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0235
 #EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1287857707756728322/DacVsXh-_400x400.jpg" group-title="TELEFE", TELEFE SANTA FE
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0301
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/222de252157921c96968b4ef1632e965.png" group-title="TELEFE", Canal 2 Misiones
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 
 #EXTINF:-1 tvg-id="60fb2f47c133270007327375" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG.png" group-title="Pluto Cine",Pelís y Popcorn
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
