@@ -467,6 +467,10 @@ https://stm1.rootuy.xyz:19360/canal9/canal9.m3u8
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/txn_859t
 #EXTINF:-1 tvg-logo="" group-title="Internacional", Azteca 13 | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/azt_119vx
+#EXTINF:-1 tvg-logo="" group-title="Internacional", Azteca 7 | MX
+https://live.tvplusgratis.com:8080/MTgxLjQ0Ljc1LjYz/32_.m3u8?token=A2Dt8ch7P4b90bZ137APoA&expires=1669957803
+#EXTINF:-1 tvg-logo="" group-title="Internacional", Canal 5 | Mx
+https://live.tvplusgratis.com:8080/MTgxLjQ0Ljc1LjYz/34_.m3u8?token=HhUje37gEFrwlUJAYo9LMA&expires=1669957919
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sRsCcT6.png" group-title="Internacional", La 1 | FHD | Madrid 
 https://onx.la/692f8
@@ -1269,3 +1273,5 @@ https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/pokemo
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/anime_maniacos
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", visualanime | Tw
 https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/visualanime
+#EXTINF:-1 tvg-logo="" group-title="JUVENIL", vervel_oficial | Tw
+https://ltotv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/vervel_oficial
