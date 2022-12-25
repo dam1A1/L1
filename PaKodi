@@ -49,12 +49,16 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/television-publica.png" group-title="LOCALES 1", TV PUBLICA 23.2
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/television-publica.png" group-title="LOCALES 1", TV PUBLICA |480 
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/television-publica.png" group-title="LOCALES 1", TV PUBLICA |720
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1083024133062123521/cHU8zOpn_400x400.jpg" group-title="LOCALES 1", TELEMAX 26.3 HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1392323282_b1828000_sleng.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1083024133062123521/cHU8zOpn_400x400.jpg" group-title="LOCALES 1", TELEMAX 26.3
 https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/907114710088241152/kEDLAPN4_400x400.jpg" group-title="LOCALES 1", CINCO TV TIGRE  30.1
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-id="202" tvg-name="San Pedro TV" tvg-logo="https://lh3.googleusercontent.com/-NIJDSgSyQwI/YF4tcPPggxI/AAAAAAABA9Y/1pkfP7_eu10_moioRSqfOJpdaGgDsv2agCK8BGAsYHg/s512/2021-03-26.png" group-title="LOCALES 1", SPTV SAN PEDRO 32.1
 https://srv2.zcast.com.br/sptv2/sptv2/playlist.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="LOCALES 1", CANAL 13  33.1
@@ -80,10 +84,6 @@ https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", SIMPSONS 24/7
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hPgUeK5.png" group-title="JUVENIL", Futurama Manía | Col
-https://m3u-editor.com/serve/televitolibre/511000607.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/tMfw42m.png" group-title="JUVENIL", Futurama Manía | HD | Col
-https://onx.la/f1859.m3u8
 #EXTINF:-1 tvg-id="1283" tvg-name="Cloud TV Plus" tvg-logo="https://i2.paste.pics/298f449b97c123292ec4d3a73ef1cfe5.png" group-title="JUVENIL", Futurama | CL
 https://videostreaming.cloudserverlatam.com:443/cloudtvplus/cloudtvplus/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="JUVENIL", Locomotion | AR
@@ -229,14 +229,18 @@ https://tls-cl.cdnz.cl/escgabrielamistral/live/playlist.m3u8?PlaylistM3UCL
 https://mull.vps.co.ve:448/hls/stream.m3u8
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-name="WOW TV" tvg-country="SV;PE" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png" group-title="CINE Y SERIES", WOW TV | SV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", SEO TV 6
+https://live.seo.tv.bo/live/6SEO.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE Y SERIES", SEO TV 7
+https://live.seo.tv.bo/live/7SEO.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png" group-title="CINE Y SERIES", Contacto Deportivo 
+https://live.obslivestream.com/cdeportivo/index.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="Exprezion TV" tvg-logo="https://i2.paste.pics/3a66236cd4d5f46b440f80ccc87129f1.png" group-title="CINE Y SERIES", Exprezion TV | CL
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://planetatv.online/intro/wp-content/uploads/2022/04/cropped-planetatvlogo.png" group-title="CINE Y SERIES", PLANETA TV MOVIES
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimemovienetworkMexico.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="CINE Y SERIES", MyTime movie network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/512px-Canal_Golden_logo.svg.png" group-title="CINE Y SERIES",Golden TV (240p) [Not 24/7]
-https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES", Canela.TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
 #EXTINF:-1 tvg-id="97" tvg-name="Canela TV" tvg-logo="https://lh3.googleusercontent.com/-XB6FpxNrWvA/Xzh8VdwOFDI/AAAAAAAA4c4/GucXlxexbYkbLwP7R59w9aHm6_M3AdZ5ACK8BGAsYHg/s0/2020-08-15.png" group-title="CINE Y SERIES", Canela TV | EC
@@ -245,8 +249,6 @@ https://59d39900ebfb8.streamlock.net:443/canelatv/canelatv/playlist.m3u8?Playlis
 https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/antarestv-324x160.png" group-title="CINE Y SERIES", Antares TV
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1446152329745555462/_BdjkCz2_400x400.png" group-title="CINE Y SERIES", CANAL 77
-https://stmv1.srvif.com/canal77/canal77/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GD15EfH.jpg" group-title="CINE Y SERIES",Norte Informativo TV
 https://videohd.live:19360/8076/8076.m3u8
 
@@ -801,20 +803,10 @@ http://45.179.140.242:8000/play/a0ht
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", FOX Sports 2 | MX
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 2
-https://live.seo.tv.bo/live/L7seo.m3u8
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SSIPTV ARG SPORTS 3
-https://live.seo.tv.bo/live/6SEO.m3u8
-
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/television-publica.png" group-title="NACIONALES", TV PUBLICA |480 
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/television-publica.png" group-title="NACIONALES", TV PUBLICA |720
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/television-publica.png" group-title="NACIONALES", TV PUBLICA
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/426070/2da1b806d0d1350d71315d315a177c8b_165x165.webp" group-title="DEPORTES", LTO CATAMARCA-TN-Tyc
 https://ltocatamarca.github.io/ltotv.m3u8
+#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SEO TV 6
+https://live.seo.tv.bo/live/6SEO.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES", TyC SPORTS Internacional
 http://45.179.140.242:8000/play/a0k7
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES", TyC SPORTS 
