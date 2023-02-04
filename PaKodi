@@ -119,6 +119,9 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="1230" tvg-name="EnerGeek Animate" tvg-logo="https://i.paste.pics/415f623047f69e0cdc5c06b09d149de8.png" group-title="JUVENIL", EnerGeek Animate | CL
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62c716736b2f1fa107c6ea8f/c0796b3c1cdc30869267e5e983745894?tr=q-80&w=1920" group-title="JUVENIL",bitMe
+https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png" group-title="JUVENIL", Latino Kids TV | UY
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png" group-title="JUVENIL", VariedTV | AR
@@ -219,14 +222,29 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c
 #EXTINF:-1 tvg-id="5fd87d882574170007fac022" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Pluto Animación", Pluto TV Bob Esponja Plus
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vix_Logotype.svg/1200px-Vix_Logotype.svg.png" group-title="CINE Y SERIES", Vix Cine 1
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62274e72ed9b67bf206f1a5e/239fe6fbfe883777cfb427e23256f1fc?tr=q-80&w=1920" group-title="CINE Y SERIES", Cine Retro
 https://linear-307.frequency.stream/dist/localnow/307/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vix_Logotype.svg/1200px-Vix_Logotype.svg.png" group-title="CINE Y SERIES", Vix Cine 2
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62274abded9b67e9806eef58/e589cadaabcf0bf7291bd08048006fd2?tr=q-80&w=1920" group-title="CINE Y SERIES", Cine de Oro
 https://linear-308.frequency.stream/dist/localnow/308/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vix_Logotype.svg/1200px-Vix_Logotype.svg.png" group-title="CINE Y SERIES", Vix Cine 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vix_Logotype.svg/1200px-Vix_Logotype.svg.png" group-title="CINE Y SERIES", Moovi Mex
 https://linear-309.frequency.stream/dist/localnow/309/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vix_Logotype.svg/1200px-Vix_Logotype.svg.png" group-title="CINE Y SERIES", Vix Cine 4
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61f970bb602cef693b729fbc/09a46d15972a1b45ad51b1faf76cf21f?tr=q-80&w=1920" group-title="CINE Y SERIES", Mi Gorda Bella
 https://linear-330.frequency.stream/dist/localnow/330/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62bb77d7c4725e82dddf2783/e5d3f2556cac97be34d681a18eeeae6e?tr=q-80&w=1920" group-title="CINE Y SERIES",Golden
+https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62bb78e3a9459bc60e17fcb6/a9d7b23852a61225e08a034725d9875c?tr=q-80&w=1920" group-title="CINE Y SERIES",Golden Edge
+https://linear-407.frequency.stream/dist/vix/407/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Golden Multiplex -1 hora
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Golden Multiplex
+https://linear-409.frequency.stream/dist/vix/409/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62bb77fc30eae0cea539a974/1e8ab32c68282ada5106e234bb18cfea?tr=q-80&w=1920" group-title="CINE Y SERIES",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62d8ac0d128f7d3b5e936737/50a4c484840a9f36bc512a4edd4591af?tr=q-80&w=1920" group-title="CINE Y SERIES",Golden Premier
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Cine Club
+https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Box_Cinema.jpg/revision/latest?cb=20191224174158" group-title="CINE Y SERIES", BOX CINEMA
 https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/25055092/content/../../../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/94368c32-7230-4ac2-9a50-6adc946e66e4/2.m3u8
@@ -242,7 +260,7 @@ https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", CTV capricho
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB | PE
 https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-id="1055" tvg-name="Mega Cine TV" tvg-logo="https://i2.paste.pics/07307891d4155ebc2537e54f1407ca1f.png" group-title="CINE Y SERIES", Mega Cine TV | DO
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
