@@ -294,12 +294,12 @@ https://live.seo.tv.bo/live/7SEO.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png" group-title="CINE Y SERIES", Contacto Deportivo 
 https://live.obslivestream.com/cdeportivo/index.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="Exprezion TV" tvg-logo="https://i2.paste.pics/3a66236cd4d5f46b440f80ccc87129f1.png" group-title="CINE Y SERIES", Exprezion TV | CL
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", PLANETA TV MOVIES
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", PlanetaTVMovies
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimemovienetworkMexico.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="CINE Y SERIES", MyTime movie network Mexico (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", Canela.TV
+#EXTINF:-1 group-title="CINE Y SERIES", Canela TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
 #EXTINF:-1 tvg-id="97" tvg-name="Canela TV" tvg-logo="https://lh3.googleusercontent.com/-XB6FpxNrWvA/Xzh8VdwOFDI/AAAAAAAA4c4/GucXlxexbYkbLwP7R59w9aHm6_M3AdZ5ACK8BGAsYHg/s0/2020-08-15.png" group-title="CINE Y SERIES", Canela TV | EC
 https://59d39900ebfb8.streamlock.net:443/canelatv/canelatv/playlist.m3u8?PlaylistM3UCL
