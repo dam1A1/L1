@@ -102,11 +102,12 @@ http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="JUVENIL", Retro Magico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+
 #EXTINF:-1 tvg-id="487" tvg-name="Boomerang" tvg-logo="https://i.paste.pics/9ffd25257ef7ea736859faf5a518e058.png" group-title="JUVENIL", Boomerang | CL
 http://161.97.152.4:81/hls/boomerang.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="JUVENIL", AnimeStation | AR
 https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="909" tvg-name="Kanade TV" tvg-logo="https://i.paste.pics/abc447b0667e0012a060e9a79f10fcb2.png" group-title="JUVENIL", Kanade TV | CL
+#EXTINF:-1 tvg-id="909" tvg-name="Kanade" tvg-logo="https://i.paste.pics/869103bd54d9ede5fc07093446009ee2.png" group-title="JUVENIL", Kanade | CL
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://i.paste.pics/9e8d6f93eeee68542c756fbecacf896d.png" group-title="JUVENIL", EnerGeek Retro | CL
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8?PlaylistM3UCL
@@ -126,10 +127,8 @@ https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist.m3u8
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png" group-title="JUVENIL", VariedTV | AR
 https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" group-title="JUVENIL", DREIKO TV | PA
-https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://image.roku.com/developer_channels/prod/6abcbdaaede8fda6fbfd44661c77ec6830f54ebd124f4c7079ff408d020371b4.png" group-title="JUVENIL", DREIKO TV | PA
-https://cloudvideo.servers10.com:8081/8242/rewind-3600.m3u8?DVR&PlaylistM3UCL
+#EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png" group-title="JUVENIL", Dreiko TV | PA
+https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoCARTOONS2.jpg" group-title="JUVENIL", XTREMA ANIME
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoCARTOONS2.jpg" group-title="JUVENIL", CINE INFANTIL
@@ -622,6 +621,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5136317aedfb0007016f
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c71/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="62ecdab3d41a9e0007f2611f" tvg-logo="https://images.pluto.tv/channels/62ecdab3d41a9e0007f2611f/colorLogoPNG.png" group-title="Pluto Cine",Pluto TV Pelis Retro
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ecdab3d41a9e0007f2611f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-63e6a1622e477400083a5a9a" tvg-id="63e6a1622e477400083a5a9a" tvg-logo="https://images.pluto.tv/channels/63e6a1622e477400083a5a9a/colorLogoPNG.png" group-title="Pluto Cine", Pluto TV ROCKY
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/63e6a1622e477400083a5a9a/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=US&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=34.0485&deviceLon=-118.2529&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=US&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=
 
 #EXTINF:-1 tvg-id="5dcde1317578340009b751d0" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png" group-title="Pluto Series",Pluto TV Series
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
@@ -910,6 +911,9 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES", TyC SPORTS Internacional
 http://209.45.3.210:8000/play/a01m/index.m3u8
 
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES", TyC SPORTS 
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/logo-neo-tv_orig.png" group-title="DEPORTES", NEO TV DIGITAL  16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/logo.png" group-title="DEPORTES", LA PODEROSA TV
@@ -1118,6 +1122,8 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/c
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1333395540478996480/oaQIEz2x_400x400.jpg" group-title="LOCALES 1", CANAL ENCUENTRO 22.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoanimal2.jpg" group-title="DOCUMENTAL", Xtrema Animal
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Efv-00P_dR0/YLzynagSe1I/AAAAAAABCvM/yOhOzOxVWGwan9Xwgg-zpQzFK8WGJo12ACJEEGAsYHg/s512/2021-06-06.png" group-title="DOCUMENTAL", CEACT TV
 https://hd.chileservidores.cl:1936/ceactv/ceactv/playlist.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b284195" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sabermas_logo_light.png" group-title="DOCUMENTAL", Saber Mas
@@ -1213,6 +1219,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed52a62fa7500077332
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/617bae1d69bca3000729561e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Pluto Animation",Anime All Day
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-637e55347427a40007fac703" tvg-id="637e55347427a40007fac703" tvg-logo="https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png" group-title="Pluto Animation", Sailor Moon
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/637e55347427a40007fac703/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=US&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=34.0485&deviceLon=-118.2529&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=US&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=
 #EXTINF:-1 tvg-id="5c363ac9e41be30cb6054c7c" tvg-logo="https://images.pluto.tv/channels/5c363ac9e41be30cb6054c7c/colorLogoPNG.png" group-title="Pluto Animation",Anime All Day
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="608181d420fc8500075f612a" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Anime
