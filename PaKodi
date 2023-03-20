@@ -10,15 +10,17 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/426070/2da1b806d0d1350d71315d315a177c8b_165x165.webp" group-title="NOTICIAS", LTO CATAMARCA-TN-Tyc
 https://ltocatamarca.github.io/ltotv.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS", TODO NOTICIAS OPCION 2 
-https://livetrx02.vodgc.net/TN24_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="NOTICIAS", TODO NOTICIAS OPCION 3
-https://livetrx02.vodgc.net/TN24_2/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="NOTICIAS", A24  36.3 YT 2
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="NOTICIAS",TODO NOTICIAS
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="NOTICIAS",TODO NOTICIAS
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="NOTICIAS",A24  36.3
+http://tvstarlife.com:25461/live/geovany/geovany/313.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-country="AR" tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="NOTICIAS", A24  36.3 YT 2
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="NOTICIAS", FRANCE 24 ESPAÑOL - 24.3 YT
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="France 24 Espanol" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="NOTICIAS", FRANCE 24 ESPAÑOL - 24.3 YT
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://pbs.twimg.com/profile_images/1498403281697189892/SDhSBkrJ_400x400.jpg" group-title="NOTICIAS", TELESUR  25.4
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur" tvg-logo="https://pbs.twimg.com/profile_images/1498403281697189892/SDhSBkrJ_400x400.jpg" group-title="NOTICIAS", TELESUR  25.4
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-id="RTEspanol.ru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjPSqFBOrQz5fEGyyzdKq1-Rwg9nJDcQAen64Rgo8kpC0ED3j3xP-DdjtzZT4OzTZdG-o&usqp=CAU" group-title="NOTICIAS", RT  25.5
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
@@ -49,15 +51,15 @@ https://streamcdnd1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/play
 #EXTINF:-1 group-title="NOTICIAS", NTV 24 NEWS JAPON
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/logo-neo-tv_orig.png" group-title="LOCALES 1", NEO TV DIGITAL  16.1
+#EXTINF:-1 tvg-id="NeoTV.ar" tvg-name="Neo TV" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="LOCALES 1", NEO TV DIGITAL  16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-id="GenTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="LOCALES 1", GEN TV  17.4
+#EXTINF:-1 tvg-id="GenTV.ar" tvg-name="GenTV" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="LOCALES 1", GEN TV  17.4
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="LOCALES 1", CANAL 7 CATAMARCA
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/television-publica.png" group-title="LOCALES 1", TV PUBLICA 23.2
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/television-publica.png" group-title="LOCALES 1", TV PUBLICA 23.2
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/television-publica.png" group-title="LOCALES 1", TV PUBLICA 23.2
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica" tvg-country="AR" tvg-logo="http://verlateleonline.weebly.com/uploads/5/1/3/4/51344345/television-publica.png" group-title="LOCALES 1", TV PUBLICA 23.2
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/chunklist_w1334163364_b1528000.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1083024133062123521/cHU8zOpn_400x400.jpg" group-title="LOCALES 1", TELEMAX 26.3 HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1392323282_b1828000_sleng.m3u8
@@ -65,17 +67,17 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1392323282_b1
 https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/907114710088241152/kEDLAPN4_400x400.jpg" group-title="LOCALES 1", CINCO TV TIGRE  30.1
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="LOCALES 1", CANAL 13  33.1
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="LOCALES 1", CANAL 13  33.1
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCbsG_5lOKcWAENfOGqnua-MTnwl2Y908bZBlFMgs-HzUXQy2PkOaV-BFAilWDjJlbfg&usqp=CAU" group-title="LOCALES 2", CANAL 3 ROSARIO
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="LOCALES 1", TELEFE  34.1
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="LOCALES 1", TELEFE  34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-id="6320ddef274b1b0007b2ee88" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png" group-title="LOCALES 1",Gran Hermano en vivo
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="LOCALES 1", CANAL 9  35.1
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="LOCALES 1", CANAL 9  35.1
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
-#EXTINF:-1 tvg-id="AmericaTucuman.ar" tvg-country="AR" tvg-logo="https://i.imgur.com/TJmzwv9.png" group-title="LOCALES 1", AMERICA TUCUMAN
+#EXTINF:-1 tvg-id="AmericaTucuman.ar" tvg-name="America Tucuman" tvg-country="AR" tvg-logo="https://i.imgur.com/TJmzwv9.png" group-title="LOCALES 1", AMERICA TUCUMAN
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="LOCALES 1", BAYRES TV 41
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
@@ -88,9 +90,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11e
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="JUVENIL", Anime Zone TV | AR
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="JUVENIL", Magic Kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="JUVENIL", Magic Kids
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="JUVENIL", Retro Magico
+#EXTINF:-1 tvg-id="RetroMagico.ar" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="JUVENIL", Retro Magico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 
 #EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="JUVENIL", AnimeStation | AR
@@ -139,7 +141,7 @@ https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w1199347001.m3u8
 https://3b1f302803504be983edf67a415ccbc8.mediatailor.us-east-1.amazonaws.com/v1/master/89d8075d3a928921d573b23f45b98499b71505b2/BlimTV_LIVE_FIXANDFOXI_HLS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBkw36s.png" group-title="INFANTIL", Xabarin TV
 http://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="JuntosTV.us" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="INFANTIL", Juntos HD
+#EXTINF:-1 tvg-id="JuntosTV.us" tvg-name="Juntos TV" tvg-logo="https://media.glassdoor.com/sqll/434390/olympusat-squarelogo-1442299551445.png" group-title="INFANTIL", Juntos HD
 http://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.amazonaws.com/rtvc-assets-senalcolombia.gov.co/s3fs-public/logo.png" group-title="INFANTIL", Senal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
@@ -343,23 +345,23 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="704" tvg-name="Central TV Chosica" tvg-logo="https://lh3.googleusercontent.com/-RYmmtKCcnsg/XoKDWBIosrI/AAAAAAAAxVM/VtTI9I3CvW4yG16vrFcn_DVaTi1QPAKGwCK8BGAsYHg/s0/2020-03-30.png" group-title="CINE Y SERIES", Central TV Chosica | PE
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="TuCine.us" tvg-name="TU CINE" tvg-logo="https://a.jsrdn.com/hls/23008/tu-cine-latam/thumbh_20211206_224154.jpg" group-title="CINE Y SERIES", TU CINE | Plex
+#EXTINF:-1 tvg-id="TuCine.us" tvg-name="Tu Cine" tvg-logo="https://a.jsrdn.com/hls/23008/tu-cine-latam/thumbh_20211206_224154.jpg" group-title="CINE Y SERIES", TU CINE | Plex
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/25f414bc-75d2-4b01-b340-576f49ba41b4/4.m3u8
-#EXTINF:-1 tvg-id="Horrorfy.us" tvg-name="HORRORFY" tvg-logo="https://a.jsrdn.com/hls/23008/horrorfy/thumbh_20211119_205238.jpg" group-title="CINE Y SERIES", HORRORFY | Plex
+#EXTINF:-1 tvg-id="Horrorfy.us" tvg-name="Horrorfy" tvg-logo="https://a.jsrdn.com/hls/23008/horrorfy/thumbh_20211119_205238.jpg" group-title="CINE Y SERIES", HORRORFY | Plex
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/6105ccc7-7a04-41f9-b07c-2705f56a0d8b/4.m3u8
-#EXTINF:-1 tvg-id="CineReal.us" tvg-name="CINE REAL" tvg-logo="https://a.jsrdn.com/hls/23008/cine-real-latam/thumbh_20211206_225151.jpg" group-title="CINE Y SERIES", CINE REAL | Plex
+#EXTINF:-1 tvg-id="CineReal.us" tvg-name="Cine Real" tvg-logo="https://a.jsrdn.com/hls/23008/cine-real-latam/thumbh_20211206_225151.jpg" group-title="CINE Y SERIES", CINE REAL | Plex
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/c2ad726d-bf69-4f75-8e5f-1007ef768eb8/4.m3u8
-#EXTINF:-1 tvg-name="CINE SUREÑO" tvg-logo="https://a.jsrdn.com/hls/23008/cine-sureo/thumbh_20211116_010445.jpg" group-title="CINE Y SERIES", CINE SUREÑO | Plex
+#EXTINF:-1 tvg-name="Cine Sureno" tvg-logo="https://a.jsrdn.com/hls/23008/cine-sureo/thumbh_20211116_010445.jpg" group-title="CINE Y SERIES", CINE SUREÑO | Plex
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/1df0767f-74e8-44f4-9cf7-92d8d9204262/4.m3u8
-#EXTINF:-1 tvg-id="CineSureno.us" tvg-name="CINE SUREÑO" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="CINE Y SERIES", CINE SUREÑO | Plex
+#EXTINF:-1 tvg-id="CineSureno.us" tvg-name="Cine Sureno" tvg-logo="https://i.imgur.com/gQimt9G.png" group-title="CINE Y SERIES", CINE SUREÑO | Plex
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-#EXTINF:-1 tvg-name="TOP CINE" tvg-logo="https://a.jsrdn.com/hls/23008/top-cine-latam/thumbh_20211206_224726.jpg" group-title="CINE Y SERIES", TOP CINE | Plex
+#EXTINF:-1 tvg-name="Top Cine" tvg-logo="https://a.jsrdn.com/hls/23008/top-cine-latam/thumbh_20211206_224726.jpg" group-title="CINE Y SERIES", TOP CINE | Plex
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/520936ec-fb0d-453e-bff9-98f7e65d2c13/4.m3u8
-#EXTINF:-1 tvg-id="TopCine.us" tvg-name="TOP CINE" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="CINE Y SERIES", TOP CINE | Plex
+#EXTINF:-1 tvg-id="TopCine.us" tvg-name="Top Cine" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="CINE Y SERIES", TOP CINE | Plex
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1 tvg-id="Chiquilines.us" tvg-name="CHIQUILINES" tvg-logo="https://a.jsrdn.com/hls/23008/chiquilines/thumbh_20211116_011429.jpg" group-title="INFANTIL", CHIQUILINES | Plex
+#EXTINF:-1 tvg-id="Chiquilines.us" tvg-name="Chiquilines" tvg-logo="https://a.jsrdn.com/hls/23008/chiquilines/thumbh_20211116_011429.jpg" group-title="INFANTIL", CHIQUILINES | Plex
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/4226980d-98bb-4fe2-af57-94dcd2167174/4.m3u8
-#EXTINF:-1 tvg-id="Chiquilines.us" tvg-name="CHIQUILINES" tvg-id="1279" tvg-name="Chiquilines - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png" group-title="INFANTIL", Chiquilines-Freetv | USPlex
+#EXTINF:-1 tvg-id="Chiquilines.us" tvg-name="Chiquilines" tvg-id="1279" tvg-name="Chiquilines - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png" group-title="INFANTIL", Chiquilines-Freetv | USPlex
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Telesistema.cr" tvg-country="CR" tvg-language="Spanish" group-title="CINE Y SERIES RETRO", Telesistema
@@ -813,27 +815,50 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2
 #EXTINF:-1 tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Pluto MUSICA",Vevo 2K
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/mmc/thumbh_20211119_205542.jpg" group-title="MUSICA", MMC
+#EXTINF:-1 tvg-id="MMC.us" tvg-name="MMC" tvg-logo="https://a.jsrdn.com/hls/23008/mmc/thumbh_20211119_205542.jpg" group-title="MUSICA", MMC | Plex
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/07e60396-2050-4e25-aa22-67ccf0791c45/4.m3u8
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/flash-1/thumbh_20211119_205104.jpg" group-title="MUSICA", FLASH
+#EXTINF:-1 tvg-id="Flash.us" tvg-name="Flash" tvg-logo="https://a.jsrdn.com/hls/23008/flash-1/thumbh_20211119_205104.jpg" group-title="MUSICA", FLASH | Plex
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/9cf52827-4ad4-41e3-a857-024b7536661f/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="DEPORTES", CLARO SPORTS
-https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
+#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-name="ESPN Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN
+http://181.78.4.186:8000/play/a0ex/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-name="ESPN 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2
+http://181.78.4.186:8000/play/a0el/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3Argentina.ar" tvg-name="ESPN 3 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/512px-ESPN3_Logo.png" group-title="DEPORTES",ESPN 3
+http://181.78.4.186:8000/play/a0hn/index.m3u8
+#EXTINF:-1 tvg-id="ESPN4South.us" tvg-name="ESPN 4 South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="DEPORTES",ESPN 4
+http://181.78.4.186:8000/play/a0fu/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2South.us" tvg-name="Fox Sports 2 South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/512px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",Fox Sports 2
+http://181.78.4.186:8000/play/a0fg/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports3Argentina.ar" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://i.imgur.com/hI2Q5s4.png" group-title="DEPORTES",Fox Sports 3
+http://181.78.4.186:8000/play/a0fh/index.m3u8
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-name="DirecTV Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV SPORTS
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
+#EXTINF:-1 tvg-id="DirecTVSports2.us" tvg-name="DirecTV Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/512px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="DEPORTES",DIRECTV SPORTS 2
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234327
+#EXTINF:-1 tvg-id="DirecTVSportsPlus.us" tvg-name="DirecTV Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/512px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV SPORTS +
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234329
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png" group-title="DEPORTES",ESPN PREMIUM
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140317
+#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-name="TNT Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES",TNT SPORTS
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/132285
 
-#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Fox_Sports_2012.png/revision/latest/scale-to-width-down/250?cb=20200106171029&path-prefix=es" group-title="DEPORTES",Fox Sports 1 MX
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="DEPORTES", CLARO SPORTS
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
+#EXTINF:-1 tvg-id="TigoSportsElSalvador.sv" tvg-name="Tigo Sports El Salvador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="DEPORTES", Tigo Sports
+http://190.149.66.90:16000/play/a03j/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-name="Fox Sports Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png" group-title="DEPORTES",Fox Sports 1 MX
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:-1 tvg-id="FoxSports2Mexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/512px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",Fox Sports 2 MX
+#EXTINF:-1 tvg-id="FoxSports2Mexico.mx" tvg-name="Fox Sports 2 Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/512px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",Fox Sports 2 MX
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1 tvg-id="FoxSports2Mexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/512px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",Fox Sports 2 MX
+#EXTINF:-1 tvg-id="FoxSports2Mexico.mx"  tvg-name="Fox Sports 2 Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/512px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",Fox Sports 2 MX
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports3Mexico.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Fox_Sports_2012.png/revision/latest/scale-to-width-down/250?cb=20200106171029&path-prefix=es" group-title="DEPORTES",Fox Sports 3 MX
+#EXTINF:-1 tvg-id="FoxSports3Mexico.mx" tvg-name="Fox Sports 3 Mexico" tvg-logo="https://i.imgur.com/svwD4Tx.png" group-title="DEPORTES",Fox Sports 3 MX
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd   
 
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/426070/2da1b806d0d1350d71315d315a177c8b_165x165.webp" group-title="DEPORTES", LTO CATAMARCA-TN-Tyc
 https://ltocatamarca.github.io/ltotv.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES", TyC SPORTS Internacional
-http://45.179.140.242:8000/play/a0k7
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES", TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
@@ -1220,3 +1245,36 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i43l93j.png" group-title="PAISAJES", WATERFALLS LIVE
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SpaceSouth.us" tvg-name="Space South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png" group-title="CINE Y SERIES Tw", Space |TW
+https://video-weaver.tyo05.hls.ttvnw.net/v1/playlist/Cq4FZVBtbweWldy1NUWg0TdU2LMVu1aQesD8MXRG24R-UqxtcGrP8_Ido2u0v-DEaVZFXs-Q7pNj-L2wOffEgjK1TAm4LVPA87wdQIsBIbuNyEpS9PWbb39u3F1TZ9M-Hxb3NYH808XxkOwYymWC7CZTKmruIJ3-oDwHWV_em6MB9iCwUN8cX0IwmYpbA2QV1-f8Nm2iXDqRJx6R336NRHLgYtoIQnCksmZgLgfr_tFRQpsqGuOik1wEacqm8vopXsFInHJL1-BBJGNX2GNjGzy1KSF0ITeaEm0YrnaLqwm6qqK3EvStf1iMwoSAmCXhdm_0EqjQS7e84VvfrNFN9TmH0z7s_Y9FKOcA8TEhLT5AwuCMMnCm9w705IcbGG70R2NNp_aiQAwdudNgrmHfL22hIVuDk56dZfcjkSDZqKTfVxWOYbXwLs-qQhJgn9cUy-Mhtj7E1ev6w68nMfuB6OagoWKYoFKxri32RLQprd1ea1RB0xRv78HifcruXo1jO0tTtg3KFnfrw5EspJyLZDz7IrSrMX7BXWwlCoeRH9NTF3u1IA91K9dl0qz4skrPotwvFdNg2kua9O4T91b-8F4-yiTupI97TZ5-jsbJN_pfsT95At79O2PEcuQvWPLar1KfHpZkkusgGoKdMz-YxD0wQu2ZGPtud3UiaBe_VTwAwpU7C6C200CQi3wIVkj2OEAfxEDtNt3bKKyXp4up0qfduaE7Z_npL0O9NUt75DOR1_9jeUKmLx-nkxhGpA0YOnY16jemkuWLev7eofdJO2lAV7xUMG1uWZdYt4hOMbQL9kb75sa8kqEcobDcOCsnfUvscsuB9gMF2pwl-MS_vYAyE0CsZ4PYpKz5w9CErfYYIk6tsFjJuaBlpgXuRbbC-cQl4VV8e3shnYM8mO_5b00aDDfarsm4hRfoqdCJeSABKglldS13ZXN0LTIwkQY.m3u8
+
+#EXTINF:-1 tvg-id="CinemaxSouth.us" tvg-name="Cinemax South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/512px-Cinemax_%28Yellow%29.svg.png" group-title="CINE Y SERIES Tw", Cinemax |TW
+https://video-weaver.tyo05.hls.ttvnw.net/v1/playlist/CqwF72E3KSlWtii8beU1DsxmcsaX8pqN-c8B9cuIBAiwvNwNcOcYtS4nvv6aH1pfisLLfae9cOAi9A2tFDoN5UI0ZtUsP897xNTyDJ1N9bExn0bFa-dqo3g6GpxSdeZGH5K0x-855uETP3LgOdHAXNKmRwelNMEKMIanDflzyZ83vh3G-sn8bTzRU8ZLbCfOIHk_OEj3wqHC93PtuxoY9V8HJ_6dxVmqEcZCygmR18XZ82Ukyz--enq6vSM5CskjaNQRRCqjZ6C09xj60P7mE9m6hwPzSw7wIQkDZBO1jfokNgP4eAh4iAdJB5NeHlD4OPkpkitRz2hi0_kF7OValR7czHXEyuPcvsZ5HLFyanGFtaopsm-HAlKUAEb3CKGle1QRCinf6EURi8sHmtncbsnwaWK5pcycPwe79SEMl_vIZGi5i3d_s18G1Z4m-hcmdRp-d5Wi5DjT01t_cdVZatqLLWpTzf14DbAhEW4U1vz00Hzd_18eMZ_PsaOyKnFcgo1eybp1fdT6BA3EyQXcY3uiSh80yaIaGBYL1ugRO3_DvznQcYtK0hCJpm9HakCvwXybVOQM-JZPy6E5KwRZqNDS4IMl-yHLVeihEnipcuSYwakE6I__nA3o_7tB-JuHf0ESaPENxkcV21Xie_K9CTYC_ZymGIWlWiiEmtQeE-YsMVaaxitkayogH_l9-NzKqXGcoqtzMNfN_FmrvunZM6G8IFaC7wc7iTqxkURwvWYUZMA-t5DKAGRH-CD6kcAxjsSuWx9wFT5knzyVEI_OdxJJ7oK1E6tzfUG0Fi8LA4-oOMH6_vekQJNZHnYZ1xMhepp8lbguMhbcNw3t9y2MCjuu6p4T2CHIWDmT-RJPG5Uz8gd4prhwfil2ILa8SPLykCBen64nv-U8-AmtlFF3GgzyP3pB3E8uJx6sjHUgASoJZXUtd2VzdC0yMJEG.m3u8
+
+#EXTINF:-1 tvg-id="StarChannelSouth.us" tvg-name="Star Channel South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="CINE Y SERIES Tw", Star channel |TW
+https://video-weaver.tyo05.hls.ttvnw.net/v1/playlist/CrEFGXN7cDlVkcMlZcr0QsLLtF0DPXLKlH4Plts9FNpkZfIPCuyF_b8K4mCEskV9IOtd8wOBMVnAx5zQOWyE6kYv_Qh7gUhnrKG33XFqm1TId7ba1dTYrra7WhKgw1i0OLQxKO-Km0r4yHF3xV5pLBCZ4mtoXhtvNyo_VKhCsie9EG41rpV6tePpbXKxW8GVTb4BwmAn-YTOY-pTQF6joozDTI4P2PjaS2tZeiRuf8AO00ctO2OQ5ddRfM5hbaRPNTEgaJAoa_WMmEFpLEQhiZglysssr4-jj5lr8vgpapwZpjZSXIl8h8Hmqm90us6NXRoDQCx0JT2OmCLetyWH1mfkuSv-dSsuqEjsX47O4dqeuTX0gKfUoRGCVGGghUd9NbWA7_q2yOyJnBhKfO8w_ehPkJjbwa0n-PhRb7q33gclfxTtAfighcTDuiTsYMxkj_NkWaiYbM0WQqEB88Im_xlv2ZoEg4Vn5hYoVesULDVUw652uHUXGkAU3w9o4rigxTeGpEMUqzXyb11ORVgDSzTX7BaVffWgWunphxuwQs_c0XKkV_FL-hw1StrskoYZY-_uAU0rCvIaNVm5dCTELiOq-bhD6VJhrd4zubx49rY8SXOc_GuKMyMclkEHVD3_yH7Nrg-aj3XO823dZWZ1Hqpsh8aNVf40klHGLfVs9DalpW0Tw2CEzg34WQ-JU54JuTPGfSFWxDPTT5brOaWQuu2E-96dU2_GjB8n7O0W-F2JrFkPYOFKww9DeG8qUyBSILCObtgIhpImhx7GR1fIfzNcFgKlloDEpnOnr7sWfEiGldgkaz8o1YMvhdJoCLSiTW7oKvMfdd0lU9uvPF2wQWBLFGaspU99z7O5kHypWZ3F3Gsnv-FibvDH3Py21JagemOc61TgDsn_0t2ygijKnl7nCDkaDBhem-eCIjSEXivyoSABKglldS13ZXN0LTIwkQY.m3u8
+
+#EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-name="Universal TV South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png" group-title="CINE Y SERIES Tw", Universal channel |TW
+https://video-weaver.tyo05.hls.ttvnw.net/v1/playlist/Cq4F0rovHNjoZJud5ZCPlOTj1fZOrVnybNl-dkceZ-zjydX91ocZOOAY8Z9mnVsC0E0S_jh8Y0AGexKDuDXfmdnxjchp14yUGPmFk6MaofLmr4T-JT4zQXMihl7vs4lGYj_LKw6Xqe_J8yTAmJz6DY-iDaBqeb4Qg3m1ndGKNTmhbdQL_1zj4YDcORGJ6a_Rh3SLZaW1zKWAYgCzNskIblNUlmax0GYIug0AhpGjNhMlZNAtGISm7ctRZFgFItDMBgiQmY8__W2KzVZK5MR38PZKy6fbYTK_9vqzzXXrMFiqBa9rioP1mF0-ZGNTJvVXhYTg5J88JcwjDhms-CVVQvvo3mX-oNG65qAw9lW2F2VLPNjBWNsumasDLvkrvm396H8V3JpJ-kY4ro25JmaZx1HIIieVUk7s66lhUfyTv-OF-XrqGURfuNPuQA-OgoIVl8r_nHmjIw71gWEKkxgri-YOGhZc_kHTBeQgszLI39mzdTzN8bPB5BJW_kMZ8MzMJKAK9Vh7GGRVBwdjJWON99506nKYaWGxwDf2BVHjdYa-zE2Rgw4ddNd_PU-O0vAyQMNB72lBcIqv9dqluuo1I2UXE0NlCxFZkkdepEfs5l3lXa2pQO9svHOxWmSxYKYRsmfl2qKPH9sdkvCg8HK3ZeCCI07j8vQNtOHerbwNpS2iY31cs-ZTZBkoRkUZc3hw2mQfcQ0mDObHew-joxy5T9emn_G44V3VAsCv-YIOjHJ5MW_YwCRuS7mSsH2yHTr65zdcdOG3BQIcxlI8gjuED9XcqIfBnCOu2lt2F5fPBk8u7EREt9VzpI80b0ClCPdWZIKBKCv5_5XoW5YyUObLYQVS4dUtCcypWRWKChoQMP7Xyv83_Zfz8i-l4RvgzCdhCzHqT7xmyekk6V-mdNKu__AaDOIE-BxFZUthphZjPiABKglldS13ZXN0LTIwkQY.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-name="Warner Channel South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png" group-title="CINE Y SERIES Tw", Warner channel |TW
+https://video-weaver.tyo05.hls.ttvnw.net/v1/playlist/CqwFkdxLK7gIrg6WQTI84IvqOfksws6YOGnNXmKlYQFJSKgIDHPjxVp_geZFY33WcmDgttjK84BREywiTyDPmaquG5FoEXMficv7YjpSXHuEGAOb6E53PNY40WyjH9mf36eM7aAkLz2kgllaXBZFChTH4KIwF2-JIBUzhDxPM16Nr8XAfo4c_ALstmTysK_s-d5hjl_RG_xOcrYWNoNYAsL1dj79LedDP1W0bHMXv8-LB2NNHuwkhqLMnZEfCZslq2oP2cXY6BXcIhCQB0YowUnJNX77H8te471fS7gp3GCDY2b-umq8wnDIOTarMiw8IWEELpBK2yKQeBkw1afNNyxwFM8vUs_klXQVhkYliTPiZNGxXn65ovu-0lcg5mwBsZUEt07iAnREFiRzKYRa3NePRdLl3lawOb_rsrAmcwKZ47MvmGOefokleiqe08CACAwy_qNorhtUeTyyssRPsWoxYOaHg3K2dmq9JQteRvPgzYiZc8KwbCdBmyAfUtHXihL9PPvStaXdOWbslCrUnqLCCmp_Tk2SIjmD2QBjUyBX1LZgnkkle4wBufTA4qnyTKqouYTQlKFLivIwPcUPWOds6NMs2h2n8vmxT6nP2k6pIM4lEXIjtNYuYBxbJOMHSnBw2Aul6psA8xTNkwrcYni7EOHkdK2x_F5h54U78oVpTgdcvyF8obAzbw2XI3i4R9LYyxZwBaiwsHyJ7aE61s1by_zeH-8bunA0jta78JfZ_wj05n5kgqblRmxPks06mrftzmO1MBxcU1Bq2MS-L6EEv-rMgl_UsmhR_FnCHMY7DtKJmlSUHuW-OvCr6oOlsS9Uh45bJZwIYNwfHA7xhPn8DatdeGw4hguOeGK3qb21li1pRJCjQQDpMThpZSzLZxrLjHexVYlbXHnf4X-yGgwrzPOSuhPH7DndJTggASoJZXUtd2VzdC0yMJEG.m3u8
+
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-name="HBO Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="CINE Y SERIES Tw", HBO |TW
+https://video-weaver.tyo05.hls.ttvnw.net/v1/playlist/CqsFpCpqMPf779bGQSKq29rg5i_XMDuWSjTDrKDbtvqyDh8g9LWvtKNQyApZjdBnJFrve1fbiKeKTcPBQmRYPAw8EyhfCNJP1xS65vKN9yAOlD073cFF7-jIbu9yFMSN1vX0ICA44dSXVSG-MOCrIm9PrjpGLhMHLaKiY1JOQDTfLI5BDwfuHge8rmIdRSqAbtdu_6Xd_SH4kQ2qz6Rs51I2cR1ksscco--P-UqsiMYdF1B-m39_-lMQt29oJL9wiZRHJiPq58uLK4SGXxXm2xiy3orRm8AlpCqh5JBO6X6uY-hRV_tqOKr7Ql0qwcPbB9u1H4VywSKYQnBczgbdWXzLd1eI1688nbVL9_PL3E5z-KSXo-facdtGndgNB_WU1dY6lGEfxkGexEVF8ZTnPEvtL0MH-8O5IVz8sk2_2GQraE4v6WjmYAzVY8hsQibm4qIDtZZ3KIKCy5dkI6mdWYvBj9b_E9OkZHd9vpq3doFaL4w3ES9iLsTdACdj5uwyLvgq4g6T3eNR_zaDdtVhpS-rulzN0TQjQBGADpsg24MDRgIuIMwRD07WxjCXD4xAWL-hJ8QCluMaXff_AgfosxizsSkUgqRojFdgb1-gubyo4LYkQtmRTJ4of1aqbmN5Oy56Mh9IRr1DeroeYYLXYBu0e0t9althOEQ69k-25xZsHZD5Jx6g0ehNEFXT7H-J-kIiZxL7dDbb-bQT5hyc3zpn4zZGLkRWFqkn3-gKYhqTA17oNKcCCqIt12V-wZWknH-dAwGg78HFjE8fzRDYh_0NVkeTnfBh6Ijh3r14aEJ6XRxH6hMqrr4AV637LGD2lGMeOPZ9IWKXZoogP04yxfsXW2IakzxbpK591Y8xp9lLDNkrhje6RM-CKV8xT7_J5bF35Twsx9mXfpm7peQaDEg9DEt6ykcWeufn3SABKglldS13ZXN0LTIwkQY.m3u8
+
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-name="HBO 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="CINE Y SERIES Tw", HBO 2 |TW
+https://video-weaver.tyo05.hls.ttvnw.net/v1/playlist/Cq8FVpKUcnPiIgCOJPzp-19BrS_zqCB4bS_-BerEd0DLeEJHQZv5hLbeD9el4WFo-wJDEFPqJqNnBWavRdWsIU3wD9ZLX4-t7dvINoSy0rvyPv1xo6n08O0_c9T4MFd3gHHM9m4HNmj2lyoZHRLVHF0I7g820LLZRgncCZtG6MvWUYjLZQSAkm66ja5q2qT5htlf7sVEneiR8N8biyfb8GKkg2pXEgd02oRBdcIZBXpt08DRyYb8WqPt9s3LHT-HIRbwzXfigUGzMBOXUlTdlxLTdASi0VVwqAdHF6dGU7PFlSNDTj6ARvEbuTpplEwH7JsZ6CliMrLExYhUNis3LIO6SqsT93RdX4s0lQnctcZPaJLOz7k7Nc6vlE-Tl7UHuVJnRTEctJxjA0Ne7yjB8j0m8hiJxSiHCQK3yPBKxTTo-sxNz1lycs9LTLWePMMbjH5J3ntzG10Pm0MpiNCv9Q9YFK-ArBm-8xgQLLsRcXpGJ9Ezb3E6bSQlq91VpIAvpECo4ma0tk8Nmp_ijer1u2CCESOykLO1WGI2Knc95uE-QQL1v7_TBGi7equ-WDvt4RIE748tdNV63X-tJ6tMASGQXfEH_aUf5A2ZUdDmgS7ubVmQ86tqdtfirnM5CJyR-mbQyLJSaSwf1V046wu8YyNx445slKzdwAZeauDBknY-9t4BpXwFIgAfuGxM59GjuQHqF0D6I13I15nEo7dUY85bybXxUoCYbz3Lg1xgclRHOFFCUhybvPU_16YM8kUWRgMAlp3DHnD4hxElW_SgYvf6uawOzSYb9TxQFDQ6ONlcYk9pkwW1FswsCAnYitbL0pnIfgbcCqaop462o3AnuaxhSyGM2Us4sKEDMqq7dj9JgCT5_kMJmXKEoq3_bdBjDUbxQbnj7_Gycgmd3jeKHXZvGgwfSgfoaBweiT0LSeogASoJZXUtd2VzdC0yMJEG.m3u8
+
+#EXTINF:-1 tvg-id="AXNSouth.us" tvg-name="AXN South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="CINE Y SERIES Tw", AXN |TW
+https://video-weaver.tyo05.hls.ttvnw.net/v1/playlist/CrIFJ0eGRDpt6ZMqcWfp5ClLkOXEXA4aLOo5BVfZFHKEb2NItR7P394kkeb9hQbYNr1VeB00RDh2O_LMnveCxvDEtXdYzzUY0fqo7BMnt_3AMX8oPrBFQw8f-AR-78ZqMF2bGmP1OUbv7-dbvkigtr07jPSiDwnjFgjyueeoRgI0vgYCVe0piQyAylmiDGaXyp20SfO7h0G7ZkESwkq35GIpX_-c38EyYNvwPfu-Uzurl8NQdEEcrPp3AkLxoNxgZBE-kufr9TvIJnqIOGjVdTkoF7absy4ssMhfAU7ZoUj3KJNoZiLE5yT-cAzGbT5iwlR34grYaIxDHEzs4w9N5NC53b4OFaCemqnMYY5daZQZnaUGhOY3GYX0nMXDfLY1_umxpgGz33c5jTmjrS5Ac8cAS5TPMMbGkV6mUreP0qjhKwFxKxoqwxSrbL1zFHqytFi5NeMDIrU_GUoKjjzhTLC80CKl2bfD4xjLQ-RR-adhb2Jhdowl6ljWcxi5kr1TUxObs6kqd4Zm48EULt5D3LD-hLeeF3RT6JH0I_m_PbG1LJqU-qiOflEqeP4Q9ShqNxCjriQlTPS3AvbdB6R0oOjDKIjgevHnhFW8qI1ySKsZDZzzqVqkeTqOxNj9z6EkbE7hZe-9qekRCrg7XoyVPnCYBaGMTa1-Jn7sZQH3hPuH05RBHmgarvc8TDdRP6Rks_B9PY-Tal8X4y0Jfx5bkW0zIMz0DG8CPBX6Kq4P0YZGghOdqTS5chVtPCA33vWz9WGZ2mt0Vlpr7viQ1hHpz4P5t56GZJrlRz4AAr1crkjvvY5VZR2333TlFMZayvx5ymz4XsUZL6M5Vaud_tcooWrPuGU6W4wjLHP3WOGivOQ36ffouDzLag-iDSC2h9LlRWXx9nOc4ZdUxThGdBBA-hzi5Pg3GgwQSft4_mqx1GrZ5mogASoJZXUtd2VzdC0yMJEG.m3u8
+
+#EXTINF:-1 tvg-id="TNTSeriesSouth.us" tvg-name="TNT Series South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE Y SERIES Tw", TNT series |TW
+https://video-weaver.tyo05.hls.ttvnw.net/v1/playlist/CrIFY1-FdZlWRvsOX0pQ7_4cRMTalREzxot1ELDZrtMniaCzc2Lpl68YipGKSkTGPprnvXK2rdIO9HbMIdWUct374R0ZTkt3A63Gsv66WB94GOAxUxw_H9zsJCkPLDxk6XnQ5QsaYbiSXJAajzbkYvP8jmN_-I0Q_4NvJh-b2sBmjSDbZZh87hTRbgvDlBgMEBdD_UyEAAEMPWYKI6InhTMuf37DMmRDIn2kuD8IcAgct30MHsA24fzh-fmjeMQfHmHwHDoc1_zf5f_rSfYHWIoeSVi-0z68HSk3up4rz2r8ndL_quFigb34wDP7me6ZGJxkAUfzv-wrIdR0UEFhxKxliNdQAG5sxAaab-SGVRsWL-vjdP7OYwXYZ7xMDnr6pGRmu6UAD4cHtDdrIKPIm7qYN5zuGEPJWdsfY-BcX1bVbLFWwLCmrVQRStNn0pcMKXNs3_6qFibMoCendyR14eISD4sntFXB2YyeWk9jXKawNlzi-J6ib17TdaDk1iGlhwdaeJVAgMI9ISc4DcHtqTlBoUDdBz_8WnAN0ljGrjJ2WnPjuf7MrzuNZBJDrBlAPqhSe_qcvES44-jlhfVIH_p9x2w1so8jYCLyYgnkasc6q0wu4vL_u7R7yYkfow7-fdDcPbNyvdqpdTywNwHzycf_DtIkXY8iZ_jAWOW_dTcryoj0psdswykAyyCfMq-h-McKpTvg3phA6SktxdnuCCLHcnFY34N5G-tjAgb6t6Moq6XLCDNJ0ej4qrdPMTF1Ke91P8MHcfQClKpldidonc7wuGrDvXOxuOcH2XkIJjmS_CFOLSwF-K1z-xltVRQEMb2_PFe0pgAVGl6FWhTYpJdrey5lr4pSeNxlcHj_f_UJAOJqEs-f_XWYBLyWqG87yBeb0Yl1otI7fLor1rQTDaq9DMYQGgyrPE4POBHhP142uYwgASoJZXUtd2VzdC0yMJEG.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-name="Cartoon Network South Atlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="CINE Y SERIES Tw", Cartoon network |TW
+https://video-weaver.tyo05.hls.ttvnw.net/v1/playlist/CrUFkfCazXJfsE7L9in5rOS1vyPHJVLNcn_2eJ21QGAGwCOi7plMFzQLrpazcdIXv78FbhkRgYY0387_TSEEy34Tk-Hy2DFtm5QYm0_nRSMHlVN-Gq55Eg8Cl2RkhT7eReMMq_5I476tQPITwKJNVeYBazfH59CGO7kbcD7qVGB0sGUnx3BLR0nQTGEqeOdwZk3b0wItfy8exQmzQ-5NDK-pDN2OpDoBz0soQD7g0s2v9-cRYpYaow5z1lPoQtyjTKnrfA3ltIy_1K23JMQJYpY3kEfD9wLPD1OubYHVL5Ko_MQC7CbgesCcI0dS1H2u_DVAPPQFYC4-DEjwxJibbS9cUjxXLKkIu-vBisBGW71Go9juHrvegdForJuXsfg1T-IgnTFMqY_wBrkQW19Y0trqYoFqdqGCugkBVh5PMXhJxa2IOdEZ_Qf3R_qA1w4rI3geQutkDPVAr7c3eKsjsgmjW6lVDLGNryVged3kB39q_Qxzt6LbpJ0-QisFD5-8Sifh_2AAiaUHKmu_bkCse8W1ULV7rN9B9-hCvFlu6VdRZeLhHTQqI2Wi415K1VdFv-Bq4JBnYFLF7IGSNz51Xb7sccdUnPXOtRZSTNAS8vZ7y2yqmiYD4jl8QtfNB5bAHT3bMmYesjXctMbUZ2b1Ezr3CNY_XKSxODCgf3Egn7W3fF2-XPMVgSCQgqXkCDLxD-Ek3RcX_jSks7rn11QwgaqfJM431SAKAj8QJ5R56eB4dxdXUdIrIc8FPt4zBmQubC01WBLl70ThssdBhXrEBDM4wrfL4m_5oNMcPO150Ou3QaifZJe0-G2QB-EjLkOoi-QBjP1z4NXTNSU_H8PAala9vgl3BRdqZyYW9HbeMuVMUZN6pFgbcWKg_jdaqXV7_m_OMtEn5v_gx-jF5l5r_Wr3iTBjbRXmGgwBlv1b00_zZCHzQAYgASoJZXUtd2VzdC0yMJEG.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="CINE Y SERIES Tw", Disney Channel |TW
+https://video-weaver.tyo05.hls.ttvnw.net/v1/playlist/CrEFmuxbtUFfxb10au9z0OftlFmawKO_h8GDa2n7DdIkvRO2kCdYeqWrw-aiIyv4KKvQYBpMNv285xqFNPY9SnMJGTCnrUhXasVN_D4_p5wvzHDZFbBwC4hx7BK3yvwvCr6cY_4hS56zjXqGiRq2iSjsDe9wueaRGlAWFxih4lEWtstUMBzrKn4FOhrGsSkMYaQbpInwylL8eTZqFk0AapiVkJbuxpYPapbGl6sNlx17w6s693Fjy3nzgR4OZgP8BxWqEdOfw2bClp498EZslDzMLhLtKq61cstRGnk6UqfWTfolIsxz3yyfAmiEiMMvmICGs3NKricDiyEz0OtywC8nKRa_CswmHyzLOKc_oDm0P7YKgrOOrXJzjlBm6PaBZH7i_Pf7Nay1wdBWyij90vX5_BfYxXPnfapDmbNRCFF3p0XMO2N1G5N9Od7_DUixg0LNgNJdIwUnEo8z-ymodt87_QTpy20I-1VCpNs07dAzLoetNOOc53sDYHgVR4Cv4iPBksyddqUZqAOcqQKVcLNo8Q4Va1s2DxRvbKbPoZTKyT0b04EbfWfTuiNpOwrggYqAP2RXHsRaB4VMPgRYJyRreT7y6opdl9vBckU-K_lC2Jqs0coyfrNPQYuKsMGqnnSL-CzpKkLvNgZcKhZi8YEtlRSPY-dQCSSCG3r0FhHoTq_zXA8uDJ8-vN8vWQ6YWZjGDk1SVVNSZj6GJrmZLV7x1OW4ZhkTgTekebzemSbUwVT_LIUPioTVzUydr2rh8Dl7AN94EboJGTBBi3x_0yOCykqWhPnCTsqOIZIzTvAxl_-1K9ZxhjI4kDVulFEgOBFdc_BYuENtX5_lbEqVyRah30nr0-j-BvCX5DouV7ZrWssVJRN5NAsylSa-pkF5134tY_E_vZvrjahIyLqTghV9hyEaDOD48LX6AFmI1Kdx8CABKglldS13ZXN0LTIwkQY.m3u8
