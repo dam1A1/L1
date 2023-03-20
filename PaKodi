@@ -628,6 +628,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62ecdab3d41a9e0007f2611f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-63e6a1622e477400083a5a9a" tvg-id="63e6a1622e477400083a5a9a" tvg-logo="https://images.pluto.tv/channels/63e6a1622e477400083a5a9a/colorLogoPNG.png" group-title="Pluto Cine", Pluto TV ROCKY
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/63e6a1622e477400083a5a9a/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=US&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=34.0485&deviceLon=-118.2529&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=US&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=
+#EXTINF:-1 channel-id="pluto-617b37b361e0fd0008cfd8c5" tvg-id="617b37b361e0fd0008cfd8c5" tvg-logo="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png" group-title="Pluto Cine", Pluto TV Reaction
+https://i.mjh.nz/PlutoTV/617b37b361e0fd0008cfd8c5-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5b64a245a202b3337f09e51d" tvg-id="5b64a245a202b3337f09e51d" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="Pluto Cine", Pluto TV Fantastic
+https://i.mjh.nz/PlutoTV/5b64a245a202b3337f09e51d-alt.m3u8
 #EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="CINE Y SERIES", Golden Panregional
 https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 
@@ -814,83 +818,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/07e60396
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23008/flash-1/thumbh_20211119_205104.jpg" group-title="MUSICA", FLASH
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/9cf52827-4ad4-41e3-a857-024b7536661f/4.m3u8
 
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTES", ESPN |8
-http://8.242.187.233:5800/play/a0bq/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTES", ESPN 2 |8
-http://8.242.187.233:5800/play/a0bs/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="http://x.playerlatino.live/espn3.png" group-title="DEPORTES", ESPN 3 |8
-http://8.242.187.233:5800/play/a0bi/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="http://x.playerlatino.live/espn4.png" group-title="DEPORTES", ESPN 4 |8
-http://8.242.187.233:5800/play/a0br/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTES", ESPN |190
-http://190.216.105.66:6020/play/a0e6/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTES", ESPN 2 |190
-http://190.216.105.66:6020/play/a0e5/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="DEPORTES", ESPN 3 |190
-http://190.216.105.66:6020/play/a0e7/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTES", ESPN |45
-http://45.179.140.242:8000/play/a0ie
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTES", ESPN 2 |45
-http://45.179.140.242:8000/play/a0id
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="DEPORTES", ESPN 3 |45
-http://45.179.140.242:8000/play/a0je
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTES", ESPN |204j
-http://204.199.109.34:45000/play/a06j
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTES", ESPN |2046
-http://204.199.109.34:45000/play/a066
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTES", ESPN 2 |204p
-http://204.199.109.34:45000/play/a05p
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTES", ESPN 2 |204i
-http://204.199.109.34:45000/play/a06i
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="DEPORTES", ESPN 3 |204  
-http://204.199.109.34:45000/play/a071
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="DEPORTES", GOL TV |45
-http://45.179.140.242:8000/play/a0l8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports |190
-http://190.216.105.66:6020/play/a0a9/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports 1 |190
-http://190.216.105.66:6020/play/a0bn/index.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", Fox Sports 2 |190
-http://190.216.105.66:6020/play/a0ay/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports 1 |45c
-http://45.179.140.242:8000/play/a0ic
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", Fox Sports 2 |45
-http://45.179.140.242:8000/play/a0k3
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTES", Fox Sports 3 |45
-http://45.179.140.242:8000/play/a0ik
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="DEPORTES", Fox Sports 1 |45o
-http://45.179.140.242:8000/play/a0jo
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="DEPORTES", Fox Sports 2 |204
-http://204.199.109.34:45000/play/a06o
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="DEPORTES", Fox Sports 3 |204
-http://204.199.109.34:45000/play/a06p
-
-#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", TNT Sports
-http://8.243.104.157:8083/play/a02f/index.m3u8
-#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", TNT Sports
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png" group-title="DEPORTES", ESPN Premium
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", ESPN
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", ESPN2
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
-
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="DEPORTES", CLARO SPORTS | MX
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="DEPORTES", CLARO SPORTS |45
-http://45.179.140.242:8000/play/a0ht
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="DEPORTES", CLARO SPORTS
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="DEPORTES", Tigo Sports
-https://w3ertgfdsawerty8765432qwsdfghjsaw4.tunelive.net:3368/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Fox_Sports_2012.png/revision/latest/scale-to-width-down/250?cb=20200106171029&path-prefix=es" group-title="DEPORTES",Fox Sports 1 MX
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
@@ -903,21 +832,9 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/426070/2da1b806d0d1350d71315d315a177c8b_165x165.webp" group-title="DEPORTES", LTO CATAMARCA-TN-Tyc
 https://ltocatamarca.github.io/ltotv.m3u8
-#EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES", SEO TV 6
-https://live.seo.tv.bo/live/6SEO.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES", TyC SPORTS Internacional
 http://45.179.140.242:8000/play/a0k7
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES", TyC SPORTS Internacional
-http://190.60.39.17:5000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES", TyC SPORTS
-https://live.seo.tv.bo/live/7SEO.m3u8
-
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES", TyC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES", TyC SPORTS Internacional
-http://209.45.3.210:8000/play/a01m/index.m3u8
-
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES", TyC SPORTS 
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/logo-neo-tv_orig.png" group-title="DEPORTES", NEO TV DIGITAL  16.1
@@ -927,7 +844,7 @@ https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderos
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="DEPORTES", CIUDAD MAGICA TV
 https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png" group-title="DEPORTES", CITY SPORTS TV
-https://citysports.grupocity.net.ar:3469/live/citysportslive.m3u8
+https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="DEPORTES", BAYRES TV 41
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="Canal6MardePlata.ar" tvg-name="Canal 6 Mar del Plata" tvg-logo="https://i2.paste.pics/8a9fa1e880cf4c2289db6ddc86689ddf.png" group-title="DEPORTES", Canal 6 Mar del Plata | AR
@@ -1303,37 +1220,3 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i43l93j.png" group-title="PAISAJES", WATERFALLS LIVE
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
-#EXTINF:-1 channel-id="pluto-5f8a0e7a9ab0370008b177f2" tvg-id="5f8a0e7a9ab0370008b177f2" tvg-logo="https://images.pluto.tv/channels/5f8a0e7a9ab0370008b177f2/colorLogoPNG.png" group-title="PAISAJES", Luces Navideñas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8a0e7a9ab0370008b177f2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5f8a0f421418bd0007e14548" tvg-id="5f8a0f421418bd0007e14548" tvg-logo="https://images.pluto.tv/channels/5f8a0f421418bd0007e14548/colorLogoPNG.png" group-title="PAISAJES", Chimenea Navideña
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8a0f421418bd0007e14548/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES Tw", Space |TW
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cq0FvXCPzLNkDbpb3tYki0omtIsCkeFkDkogwJ-BUK00x8e75jgRTpt9F5qKZxj8t6n2EMLZEagjdqOSdsGOuyXqQLzODRBP9AQaBJxjhEDIC5jtWe8BEPDTk_Qx7ePk6_GFeTWVaKQyyYsnjz_uJfja3kZor3s43ea7Xtl9VnNIQBI5SmJTDve26NisoT2Moxb5b6g3LJKnNGqGP2CtmKY4VVO7VoPfnjrIEQBaOkyIYuMOFfuowlXsIoW4H2mcvofJXdK2RPxtYbfHoA0DQMzNuJ2Ksr_bQRd6cKsDdPLhihpQb9Lk3C0XaYB73aRouBopCPK2spKAJRJVlh0gV8xl3ZYpEDf8xLFpvR9qoVKcSOQLbwyDAUMwwjffqMyRoQwyRK-WMS_4HHp1sguPNagFcsxMjojuDSGUnxTLEySl3cqCeRNmI_ewAPqthIupmSthnhBbakyOqfEu9ZsmDFYmrlWO23E3dKNA6FVgcUBvwX6oGyk5KRwMwxpJuaF9-Zqas6C5zhtCcd33r85pWAyKVwf4g12na291tars2dHz6LOvUdNC15x7x9dHRWfDWFYWO84uQzxml-qWO2lRwfvU47AvUhG9Ur5VesygcyO6bVLdsKwIYv5wy579e0-HCC36lu6mICvSkrtxdou8caXpTXUIxN0Ow97ekyxQwMrCMJUC0PNVwhXl_TuF6RK5VNOPfiWZaCNWHA6cAAHmyo6Ws3fFJzAWkfNWo9R9kX6OXGnl4zhfyyiKsI04keH8RuoEfHhMORJAM35b-bzSWmeoxFCRNetW-QEDHM82C-lLf1eT6pk8fVNGTonDcNY084V8PNLD1baZz7XFLNOzv0maOZm8f19oZi3c4oSySqGK2_hgzFr0tb4zRnz6XugJMt3yzFAC8lPwh7gtB3EBlhoMOEatDseV1hN4V7PMIAEqCWV1LXdlc3QtMjCGBg.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES Tw", Cinemax |TW
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CqoFmp4D9AEQk8eiu9mhumMxU4ebYZjMi4TvSFHnarciuYoBd_3awPMhSvkbPio_o4epaqdICGFDSSTwWc0WE4R2daN6efvfMumPJzPuQdHpafZHbZnj18LvCFYr9QPflSTYlhaIYBfcZOaQirFPt5s6JpwAKm75ZxHAXO1KCcW5B5ujxrhGM_1k9J_SByPbjrM4vAqPOa1kb_LOkz6CIJ5hoH65Aossi42yGIxXwYUL2DcMj1SPqKFi2MDEps8a1bElkGrYk7Fg29jtBxUWzdx9BtX00W2YVQKjv0lP95ecD_LpFH--ykBPG4CnYojWgbNyX2u2qaa1mlQ6auhHvmjjXr5WIzZGIQ04opB4BV5VZspGgUE2aWksulZfIkOmxw_Pje-f3wSMRruEk4ywp6sVncJeyNC-2UAXMHmj2ZkZCleqvoPGu2r_YIk1RMpPRo2oN75SCjBOwU_G4YEkyYhhvlxAiQQ7ReB_Pf7krH17e7zT00WNZVWtl-M3_SiHSbTwKD6dg3qVzvVJfm5O-WWfdzOb208MTy1dNf7hW82zRXZ5LAbe1Xnh3OolCtj2y-NUALK4Lp-5eR847skYzATmdEC207qrllAtQ1ivu37cKqQ03AU2F6twwUncIXecgbDXRnRimzGg9TNHtvQvm9rvs6DDYdKU-1JYxXBd6VvKMpNyfUqOVbeH7jojR51kvJz_TMOlBVrBKfmego6BdYMs-hg0MgsRHAytK-Zs7wuUz1rPRSFR8ghSxum66JzkkQM02S_vDk64xH7LX_STcNil1XYx8-RQZnObUjyM-jyYXu1TBbHSU3at4BXKNDNbnoWpxjllXrbWrVsgtfOuQEvpnWJAy-uo0kzR5HrVvvHiJ45ezsomhKMKuzX9X0viIPM6L0NBQlNb1E8C4hoMnY9ImIIg2t2Xyiu0IAEqCWV1LXdlc3QtMjCGBg.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES Tw", Star channel |TW
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cq8FU6hHfCWGFG00n-B20aWJvg1eTzxWEFcmaHLDX0vJuiAs3hw9jEIZ4iUKHVIv59I2xcWMk_v0b7B2M3Qn9epuxz9zu1oP2pcDYpss5jUmNTt0yOrT4V2p2NbjpMQ0Vrrqi5zw88t408_LZyWQ48DOcwyQ14DE-6Ho5x6Nao4tqQK5qJGeMK3hPyejKgm53GYc7VMV8YLcguHdN5keJyFvCAfzBh2gfTBaNUHhyzNCwPwg4dEOaf9RlY6KXzjrho9tDBfnXztuig46FWabNv1ZL7Zqhb3Bmt2AP0cXM2_qMUbkctG_W3sbMNFurvZKYkIzKCfSi5qe1ARgeJxW5u-7XoNP_xKs-kvDcXPfoKa-8amIWlIrvNzJaqZwheef6TxrX2c2xmXe4eHA7U4NsMvBOZnPC-TIG6oOdyqn_eGd9N32U3UmhqK41hY7KRdW1NES7kzchWtPhBA1NdlAvjsdU1HQjoiltk8JpJ_uj7zyM5OcpPNz7Gx8cHBwH6MrRJ6lLz2b1ohEXrXKgHnUIIDNSnbofRHYuD6p7Xiv8E8eo5VxMbvO7Hehc7dQ9UNfAnXTqCHhu-cDEaN6yaaCZKyy4JmZMo6WdavbAKfX4BVWpz3_-QIw12gQY3IULLGq3cvYrnx-xVXChxuR3jQUT82sNTlYHFRNTI8ufqBf5DkoMggfvRwUHCSzozluudOhXsSjNtVHihCgu_YImJyTMl09z6QeVphv5ZV2tS8qEEKEdsq4orQKKXCmEVQW6dTc40_pkbadsqll1mINgyf95aHtCjjQRdkkRspev6JmICaT9IR4XWUIp8HRHSbv2Xh6fSZqTAT-NIHcq3AO8xokrqaWurMaJH7d8ABzEV-NSDCVbQzsUHOupgs4qqPJuCYtmcIQsKQXfyxEOqutKcoZhOPXGgyUpY-rLT6SWHHtGOggASoJZXUtd2VzdC0yMIYG.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES Tw", Universal channel |TW
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cq0Fo76rwbAcwpcfYDZnLPWVWCXV8BM3NtD5FSZCOv9N4F6KisIZ5Za-y83ZBdYIrduZn89NQAz4wC6W75sWzFL9zxD60hkhWc3K9fUDAY4XjAIE1vc2zh9WhV-O88xZQPdCYKbz8ZJRyJFCDhxmXLorOnXeeGnTG1TpObnurBZY4wx9Ix2EPPdx2-6Ml3UMOSBV_56SobKiORYwVKoCUxbXpBAuwWTjSuIt22PH30ZqQslRhE0BpZkmxauN8BBkw13f6B12hahc0TMQvHtquainVgG1sD1e84msbgGKEed4E89K_UpkGw0Gud4hhodLwa7NkmSaLSOG6zxmxbTMjsxLZ78yD9mnPlsy1niKgdnCxzkA1txJXZcq9aOkuM0_MoqebIl_ao5ez5Yi_9_XwqQceEASkGap821Eu7oyDk2O47Lj4Yy9VEwpooeisnTAKRvs8yNPzSJW1wEvYY_jgf9_VdqX0FjsUBn8cKpLuyE1d784EHEb-RYLTVHMdcfXAp4zEeHlTdRYAgfTi3x9ExI-fSScJoSZ7fUkuWxNp12FyqsIKQAkhax8ywAK0Jlv96ToJCotSduvrdMA97AObV44Vbi10dFnfTJBxuiPldLxBtgijYUYn5O5uau0E87ctiCt7e-ruxyNW0YjnycAZJ7BNcm3exUTFgUNgpt3fkvL8HC5k4NUhYhS-6vXIll9lgVFexJub5i8COAhpaeOJMOKqRAAs9naRiC2bg1JSgGZBMSdpcMa7WFu1oR96iSmyVfF6q-5svMDqez1sAuT12wkfb2OTUrGYkGUeKC66JGjiUDhn4jpGB-L__79omZlUyzAM85ankV5AhMFZTtItRB7DefVnEW51w-kKVAHPTmzcF05id_bhv78Is-s3PxtNvaxYN7kAi0A9FcgpFvNFhoModL8B0U4l6VoxVs8IAEqCWV1LXdlc3QtMjCGBg.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES Tw", Warner channel |TW
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CqoFDr9F4GpZjyWjMnAS4NG5mCQSGYyp16QcvW5BsOsGygK3rGAUjyul32hBRweAM9uUlYe1UYnirh4uocgnNWfVTpTHm0UYxj_Ve_hs60dFhSNv78A6lIJYGjAbq4lpliowrMw1rxkcu_j08CM85AyJjRwsQhrZdwBjIu3Fj3G1FEktJYH1L2SGqBI7L713n9o4llDJQ_aIqel-j3http9WNgLBM_epz_ak4tztjpvZPD49C4V24_JP31b-9drQV40v2QGJ3Yop5RHpu0r2KnxQP-0Tn-jdDl2NwTN1F2W40eR4-zIq4yKiALiCrS5upkdYu7094Yk8bSwpwGEF7ytH2puN9qwKG9DBNFReaGbFyUHqVVxli-3KO9GGTWoLIToZVYm-eXWhPjcvhbWIK7ITYeuae86UBoOokPm0Kzu9YCUQYoSKz1qCjfyk20gb5TyM7s-9svq_OjETEy6il21wpsepsHunqFtz2Vl5zB00DDpLiO8aVmMg7khznOCsT6ADnJZE50CI8Jn0vBhdwIdnw0bAauQAAkFLOzkiYz2KfnowY2-rpsz5jPXLVwFAAy_ssW1lRuz5wWy4DckOoLb8uHVw1YDTO-0rrLdSTwU6KMkEGWeqm1KtZ3hxjw3zdrevKm3A_AQe4GvruqFDtJ-ByYCFw6iYBFcilqFGpmJbuzPG4vBWwoBNk6pkz0cheenHuPlT8-_tFc1auW_oqSKJRoji9Z0ODirTxLElvV_nNcuEs0yfzjC3nEZtvGwG1ZVd8JQZ_G79uMLUaVlz3wathMzb6GDjFipdKM4BcQlY6FfH-KwW7IflEYbNeBXQtdmVXOJv8yTxfQYYAT_0pb_YArW5H8c7aW9mEpnSeXeuFuYMYvoN-VNhPEv389csF0TD3LzDSRjOXcMQwhoMojGQfD06UHt9nV5kIAEqCWV1LXdlc3QtMjCGBg.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES Tw", HBO |TW
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CqkF1B-6M4-UVnGTt3OTfsq6bfSuavIadANkDUUB041M0WEYEdXEYRqxwaVmEJXSMbDr2Up6TzJCLEpmAKVw7jBSsoZdaarQbaJgAU239Ixup95WbiOSi4-lr6B7y7NgPlmzntfKUHNm0nD6OktjT_2LI3KJ2euS1Z0fqpcE3iOupGfSRgQ1DZzdVGuSnJPCmj0fe4ZIAFY6G_puK1xBPRs7cxT_vGgX9w9RaadMrhda3yi9HccQxNA3huRi0kBG3xc-bFPGuIKg094cBkYe9VE0SjsiG6ogsal8IoGnmxvFvTFaU8d1nTXNvlHdOv4RKqsh-EF5axfqCk8N4IB4Lx3OQv5q0p-jVU9YxGLb5NZ50Q0MLcGgVVc7-LkVIBzCrOucWtQB4R8LZ809AXeEpXfwZIDWcUmJ6GlAqMgQaNKcIrn8HRHbppU1mUI-y02AHsUlr7bxzdBwzWEXwrCDGRGbGla-Vt_mAG-ARFy2ITSrkr6cb6P3634mSoHBAxZAJxmhcL71f1yQeo6CWRCmUWzubcjFncNq_wdFY_XU-rpvmAMehosHiLMjN8W2c5eTa8wckrHzwUQGsD9DLt5vwXIzO0qN6onMs6RM8msAElcnaxS0fXs-YyDGd1XbIP-62vN_gd8T1Xv0lx7PgYbVxtfTHZXn2nc0NwxKMsTDys5OGRBpM46UOykaAhSm38Gor4-ZmbFzytMdE_geGWHU6Hl-yECsKRMtGGrvm18ZniM0MLFqqyAIR1goh2X-TmHBri1B59Njcydb08AJBUskp58keTS2PgoiU9-ZatxWJ8A3wmikPGVZUeZ7VgX5pJ7alqtDC4kTJEbWkvSdqbXp9SbByyc2ghv0J9rdRhNZ9nuMdmGQjv8xFQc6Be0ADOMf7CizW82_b1YMNNSkGgwOz5Kmzx7DwOQcxV0gASoJZXUtd2VzdC0yMIYG.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES Tw", HBO 2 |TW
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CqsFXzI6sK0l5l75pujd0wRKSQDU6000Ovb5ZwjKtk39IBTuchNnhMQ7HQcfCr0pWmaKwJ_hdK8YYHDGnRHRXacauUd7lA_YW9YtsjqcPitFcVV9k1zlo3hRRwTzzZtqR_YdC4RNRs7-m4laX1rAkfSqKBp319Oh-FOdjpdUm_BQLFPj3-zBboQdgairpF7x_EGKqlXusQ9ps4UGF_EE8ynwBTfSJ9ifHeIGhOsll6LZONMt-gtQpiS4WMzHEi2OF8SGfN7OQ3kOGy6KE7miFqHdrgEEGKoVmIZauPBY-kVqrkbrCEIrdY1kDS8ZAKbpp0I2g4eZKRnJKz-sgwCbvHfsnIPB4NytJL9_Q0C3VSL4DEPrm47bcAl34xuU_ti1vcb6bGyUVpX-GcDFiR3yUJWSQySrmPqzkzX_KZGwa8cq1MEix3rw_YtEGt7e_NPcHxYPlCm1UxWZrvJMdSmwSMBSJSEtp8x8u2MFRPqwkcNzvaecBxqvLD5h-P4Zr92gjaoCLE3spSxafMU4iBTupFChmfWmSyUwuIrfL9thrRox5K_Yx95PX1J19LS6C7IEDgLlunSneRUeCTky9_ZEJMPRVDwfagChmkv8cAko4Ldo6y96n13aQMA7z2yPQIYx5hAm2TXJMWXTijTAST43linCNyGU56lITY7SJkzlZKBEddoBCuSHhAUBVp4dzo9mtmHxfcUlbZ61mylSDOBR6Vzipveemvuknky2q8WhDDittYFT4qv_jnGX4-nzZTPgQ6bOwdlYki6DcnxxTeP6OVJ2P0BiSBkSNq-wf1KWFZT5nSNYeoS8CvZc-3gfZd2YTGH9CWdAXuS7x3RsXlYEQbDV14TVcMWlA6Ig-paGlDJAASTZ1dQdukl0Uej5-Xa00ZztPq85DkZ_YX-oBNMaDGwVLUVQr-myZJEsaSABKglldS13ZXN0LTIwhgY.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES Tw", AXN |TW
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CrAFernmVU6O6bE9jQoOJvzNBhwHa7ufmyiTIGquU7akNKDavGklpVEkMFw3qeSAfUmztaUTtS82TCKijCvI-bwQjc11krR0-SwRCIgaHpRRM5FYZhoVcTjnC2mOhh-_sKDsY2VmRT7dNThRYDZ_5lvafJ7qenDRZMJtc4LhE75je7-QGuMEvCJroE918Z7qrYkPBZQ1QGDeqLQB6FC8z8sVCaC99KTjI3RkIMTPY3ki1KM2dOdzojUGhBCmkTu3oAX9U_ClRqwTLLA32UbBvZvBMDBQOXXjsRLSPZ6oC4ddaF1ySUo6bVOWxAJuxgBqJJdH_CKocQnbQiHKXv7omo84clPi0AJA5dBVABdhOVp2FSrm2GNV-b1qDUiwy5A6-GMPlDIvvMbs485wigp9mgKMwR4rLJ8SbXnV7qDODFgAdWQ4_Ux-nAYCUquheb4ku0oZVqOlBh16NMyqT28hrdAUw5U0xpWg1zJylGs5UaCSU4g43x1xMTpvKGzU8uqdedNrQFJlAnLIv9JgCse1XG07FsnJTcTF74yMEdWwnYzT41Wzn-mCfrlIMoAfMwQd8obJ55RBXnkPmeM19itMUU42MMX8sdMydTf4WEXWffQnO1RrvyTkn09n7XWQGeCbyHVuLEBu8wyesKzBjv4s29cPYEjPnAFS3ArxuDhc_MJMrmbhqfhX-2byy-pi5R7BZ8pS1i-kglvG9kBpQIqv10nZu-1_G4z9G-okqZi4j6d-37M7-0wdm8MMdu-IjVQOxGpjjiiilX0G5CRdvfFN6j6lEvI51_yoX8zkz9KGWB-qIIE9nCXDpX7JRxZdSPnARju8V1BY8BUGXOxB-thsPawoDn5pWl8BpLhRJHqYCx1wUIi0A3UWQWumaCHafP0MKPyh9guEs6esla2qE1lPrugnsRoMKLDsrsIpKDCeGe-FIAEqCWV1LXdlc3QtMjCGBg.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES Tw", TNT series |TW
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CrAFvmQkk_sdyH_RozxHvajcque3xz8xO78np8xJtc-FZPbs2x34vUMWQ-GEaq8Oi-7ObZcpg02A0i-I44hNIeTfpRrTLTBIqwNYroRqqnH016xqk2HYY3HWG28UZAPX4DamXc7FPLlmb3wgGN7mPXDNPs9OlItGqP9MvjKaXe0-OfpeCd-09y_PZ66N7qfB5F9tL98lIFg7V693C_OOewRm3lEk-M9YqPeZ_cTUBt49dm0K39f6LBY3mPg3kd3YzICKLC2HE3CQbGScEJ3IJb5HBddoeI3eWGQmr0kkKx40wA0BZm-J3ckdRLizwUyW4yhSgVmnEKgWcDiX0y7nEULnA8V-2sPgbdeAOaXRfO6Or23C-uXZkQC3KowsI1AY-bjFIthpm21Jyjm5Qrb2XU7aR9PJfMq13V55GTJ3YTrZsKxp5DjepRCHDC-px9xq8QtDHpXxqVXPscIf_IR8husTipV99_niSP7_dZLfbZtLpwAqWrfyb_KYx93XcQogO3iJ4UGUA8A8GVs2MhkqRMaOFxo7OFbGi7RbofQ2lDQjT6d8mVlqtipq3Y4kWl7IbemYot3TQuinfX_ebYTlbs6N8zue62l1O3XxzwhykbsUU8HtcUqZn7ZkHXoj_li2xuyFpmktRyLR6EldslVO7N62GPLbBfIk445pOJoqFSDqJGIPN-7arzeJoyqIARtvJF33H1C5rLEumvJVwOV9IZycVJ68XxPgJLomygA0nYVpRQUJf08IRax4_NnVoGSv1BRcHRFuh9tkQ-Mgu9MSmnBHCW6GI50WDwHWydzTdCvGd5EHhTQPyFutDOZJNmkNiwSgxvtASapwMm3rv6JWvBTgGU_Z5oPY25oncX1ckgT0ELUJbn0ZUsu7qlEWShrU5XCngf77fpuLut4hRNg3EFaJRhoM--YTD80rkO0UKjIJIAEqCWV1LXdlc3QtMjCGBg.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES Tw", Cartoon network |TW
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Cq8FREbZUHOVbv-dh_T1__0hjuZEjlvuZrtzGqlwEgMfceRPgQsdVt9PkrGZbhu0rLg_ZZEb8GX_r2DN-h9n-g-yRey7nHhmTHzWpAFaEn7239nF9P_mnUNlarp7up0LdpQ1XhWZxGRXHWElPEbExDNnGP0CO6nGIShP0cATc2jQ8c0ApN2QZsIXloIaqcc9XZ-l25vNd67nyjlF17BaHkwpuTQwtHPNTwExoOT7wSsaU2WFjcMMFqxqhE5T0CNxPbX0tiO96N097OFIUvNXJx-D5MvQ1z0gSBzmgjVpZGR1D0NJ4zKGMlA6liCaQ5E4-teTigFSJ-cxGEPSumt5IRfcRqgJSF3hwjcMlho0dBsRnva7kV3xOByltefBAnA2FFqVLzP12lQpdgJ79GKhH8e6MS00UG_trtSk1D338kmxQzCSEZa0pFLagswnX9KD8-qHwB5Oq6OpWlotxHx3hL7ySGN_jcd2oAbM0F_yJjfffUkDWQ8m4ZCox-OlGKe2NlmPdiALCZ35A4KFlJ0pcSH18zZ7gbrUt1J5gUbpjiggY5ys1S3cWDhfHCpVa1-2ZDJIMJ1h5q_VUkY6k7jRfyVNBtor15j7X69YcaeVcIbiZhX1zMVvBoMyHXwySxuTmh1py2RPPJHUT8JJoVSnRpDJYYblYxCAo8NHOttOXzfiIqY9wZcRjNuII24BvIms6cHlBPD2vtK9MmX0ef7-czNpEFEVO8s4iVGnEbNbR-m4TuPGVJ6_P3hA9g0jflHyqFuhIxK1zRcGf_cKNZfCPr2g-kC8IiQ64YYKDbs0EeSHq0TLXzu8t8szjQ3I_Tzf71QDfUbAE3CNB27Aoh6p-HOd9apqQeNZe_QaUcLtT_xO8r7FNtPf61kNQr2KSmfSTgpaWAemyNeJlxwA4Pt0Zo3EGgyLFBA6Eon6_625lq4gASoJdXMtZWFzdC0yMIQG.m3u8
