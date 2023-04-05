@@ -122,7 +122,9 @@ https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
 https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoCARTOONS2.jpg" group-title="JUVENIL", XTREMA ANIME
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2022/12/super-kaos-tv.png" group-title="INFANTIL" , SUPER KAOS TV
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Pr5uTpL.png" group-title="JUVENIL", Tal Tal TV | HD | Chile
+https://m3u-editor.com/serve/televito/797182892.m3u8
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2022/12/super-kaos-tv.png" group-title="JUVENIL", SUPER KAOS TV
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoRETROCARTOONS2-1.jpg" group-title="JUVENIL", RETRO INFANTIL
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
@@ -244,13 +246,6 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Cine Club
 https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES", GOLDEN
-http://50.7.66.234:8080/moontools/6548@89787/3236
-#EXTINF:-1  group-title="CINE Y SERIES", GOLDEN
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE05.m3u8
-#EXTINF:-1  group-title="CINE Y SERIES", GOLDEN EDGE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Box_Cinema.jpg/revision/latest?cb=20191224174158" group-title="CINE Y SERIES", BOX CINEMA
 https://a3217fc30ca14304a9a696b5d87dc7e1.mediatailor.us-east-1.amazonaws.com:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/25055092/content/../../../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR-NP/94368c32-7230-4ac2-9a50-6adc946e66e4/2.m3u8
