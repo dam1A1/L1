@@ -121,6 +121,8 @@ https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png" group-title="JUVENIL", Dreiko TV | PA
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="JUVENIL", RETROX TV
+https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2022/12/super-kaos-tv.png" group-title="JUVENIL", SUPER KAOS TV
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoRETROCARTOONS2-1.jpg" group-title="JUVENIL", RETRO INFANTIL
@@ -1059,6 +1061,8 @@ https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1463137905442963464/0d1DVPM-_400x400.jpg" group-title="LOCALES 1", UNIFE  25.1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/fafa592f5b7b4212928307608b85bdf7/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-logo="https://i.paste.pics/bc45740f1e3774c663644d7488cfee08.png" group-title="LOCALES 1", Urbana TeVe 32.2
+https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1333395540478996480/oaQIEz2x_400x400.jpg" group-title="LOCALES 1", CANAL ENCUENTRO 22.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
 
