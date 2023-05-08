@@ -248,6 +248,23 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Cine Club
 https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="CINE Y SERIES", BOX CINEMA 
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/3d973be0-491f-49e4-b8df-8d259679a8af/2.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", FMTV FUSIÓN
+https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", RUNTIME-FAMILIA
+https://stream.ads.ottera.tv/cl/230507chbufu9pnj1vb8u5g7rg/1280x720_3071200_0_f.m3u8?i=475_3528
+#EXTINF:-1 group-title="CINE Y SERIES", RUNTIME-CINESPANTO 
+https://stream.ads.ottera.tv/cl/230507chbufui7g1oopc34bgd0/1280x720_3071200_0_f.m3u8?i=475_3529
+#EXTINF:-1 group-title="CINE Y SERIES", RUNTIME ACCIÓN
+https://stream.ads.ottera.tv/cl/230507chbufv1opv5pil6ihe1g/1280x720_3071200_0_f.m3u8?i=475_2550
+#EXTINF:-1 group-title="CINE Y SERIES", MOVIES CENTRAL TV 
+https://amg00712-alchimie-moviescentrales-samsungspain-khr2b.amagi.tv/playlist/amg00712-alchimie-moviescentrales-samsungspain/cb563d167a6c618a84cd3a78d6f262c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d177d8498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d46ffb294757bd506c07678ebb50b02306c582178a7e7cdfb0d5346c79475cce5a55b7a95cf6f7b20e14bac3908b38702ee89ed6a870b8b60e82f1960ccb1dc22faf45bfbacab9b061a21845ae9b7d8f07064d3675d9a17496db54b5dbe01e5117d799276c25ccac80fb0e1083484d1ccbeacaad60e551b8e1c63ad156c961ba35e8129f6ea406b4a16fa9bfbecc082753c0950d3472f2b1c8fe8a64caf71e0e86c87d0ab94457633e6ce4cd925c0a3595efc217858c3484b1268ba06013398fb3509e93bd90d09184589936f03795f20d6f41790d0e8a5cedcf238b69954fa1c0172e4b5e0483ae1595d6970e6b22788f8e0880485ba18ddfd89f1c2d90314b03a630901b2269cf3f6333b77da8ca6c3dd9774aa33c2ffe5e3a980dade97ebbf7a9906c5182d7c946f078fcf55b82846587597c0852fda2561a2f2b50dff46f013c78b934c2dad8e4710618acba8dc9c95d3c082e04106bafe7f47b8f81d0237e4795043f0b2f697d53d6ef4d325fb5eff9a9a8/147/1280x720_3274208/index.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", MUST SEE MOVIES!
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/4170378d-e5c7-45c2-9a69-8c519f30410c/2.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES", PELIMEX
+https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/31e791c9-6427-4722-92bb-fc2a34dd47d5/5.m3u8
+
 #EXTINF:-1 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="CINE Y SERIES", LIM TV | PY
 https://live.limplay.ml/limtv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1093" tvg-name="Genios TV" tvg-logo="https://i2.paste.pics/9872abc3f3190fc94f2d8b65f3f5cc38.png" group-title="CINE Y SERIES", Genios TV | PE
@@ -397,6 +414,12 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/chunklist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES RETRO", RETRO TV
 https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES RETRO", VISIÓN TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES RETRO", TELECLÁSICA
+https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES RETRO", CINEMA RETRO
+https://stream.ads.ottera.tv/cl/230507chbul4bjdm8fons8d8f0/1280x720_3071200_0_f.m3u8?i=475_4653
 
 #EXTINF:-1 tvg-id="1074" tvg-name="Eva Retro" tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png" group-title="CINE Y SERIES RETRO", Eva Retro | CL
 https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8?PlaylistM3UCL
