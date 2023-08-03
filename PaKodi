@@ -86,24 +86,15 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/logo.png" group-title="LOCALES 1", LA PODEROSA TV
 https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="JUVENIL", LOS SIMPSONS 
-http://tvstarlife.com:25461/live/geovany/geovany/10673.m3u8
 #EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png" group-title="JUVENIL",Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="JUVENIL", Locomotion | AR
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="JUVENIL", Anime Zone TV | AR
-http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="JUVENIL", Magic Kids
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="RetroMagico.ar" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="JUVENIL", Retro Magico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 
 #EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="JUVENIL", AnimeStation | AR
-https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="909" tvg-name="Kanade" tvg-logo="https://i.paste.pics/869103bd54d9ede5fc07093446009ee2.png" group-title="JUVENIL", Kanade | CL
-https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8?PlaylistM3UCL
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://i.paste.pics/9e8d6f93eeee68542c756fbecacf896d.png" group-title="JUVENIL", EnerGeek Retro | CL
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Señal 1" tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png" group-title="JUVENIL", EnerGeek 1 | CL opcion2
@@ -118,8 +109,11 @@ https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
 https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoCARTOONS2.jpg" group-title="JUVENIL", XTREMA ANIME
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-#EXTINF:-1 group-title="JUVENIL", LOS PITUFOS TV
-https://stream.ads.ottera.tv/cl/230714cio90519j82cs82bg2bg/1280x720_3071200_0_f.m3u8?i=475_4211
+
+#EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="JUVENIL", Locomotion | AR
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="JUVENIL", Anime Zone TV | AR
+http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png" group-title="JUVENIL", Latino Kids TV | UY
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
@@ -198,6 +192,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e812
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="60493045fbb5e50007b36f4d" tvg-logo="https://images.pluto.tv/channels/60493045fbb5e50007b36f4d/colorLogoPNG.png" group-title="Pluto Animación",Naruto en español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-64666345f3f5b1000882bfb4" tvg-id="64666345f3f5b1000882bfb4" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="Pluto Animación",Captain Tsubasa
+https://i.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
 #EXTINF:-1 tvg-id="626c2ed933a2890007e91422" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="Pluto Animación",Death Note
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5fceaab478f2af00080ff51f" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="Pluto Animación",Yu-Gi-Oh
@@ -207,53 +203,33 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604930bc28b24d0007e
 #EXTINF:-1 tvg-id="5ff4b9ccf938f8000779eb99" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" group-title="Pluto Animación",One Piece
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c14-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c4c4d3a3-dc88-49b4-9fda-30049d73b3f2&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="6054ab20a365c70007e4fd44" tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" group-title="Pluto Animación",Garfield
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="608035b8d8705f0007260287" tvg-logo="https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png" group-title="Pluto Animación",Pluto TV Anime
+#EXTINF:-1 tvg-id="608035b8d8705f0007260287" tvg-logo="https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png" group-title="Pluto Animación",Pluto TV Anime Spain
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608035b8d8705f0007260287/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="6054acc871ec430007f54c7d" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="Pluto Animación",Anime Clásico
+#EXTINF:-1 tvg-id="6054acc871ec430007f54c7d" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png" group-title="Pluto Animación",Anime Clásico Spain
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-632c6df43d2bc5000751f621" tvg-id="632c6df43d2bc5000751f621" tvg-logo="https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png" group-title="Pluto Animación", Inazuma Eleven
+#EXTINF:-1 channel-id="pluto-632c6df43d2bc5000751f621" tvg-id="632c6df43d2bc5000751f621" tvg-logo="https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png" group-title="Pluto Animación", Inazuma Eleven Spain
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632c6df43d2bc5000751f621/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="629a066860ef810008267b70" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG.png" group-title="Pluto Animación",Detective Conan
+#EXTINF:-1 tvg-id="629a066860ef810008267b70" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG.png" group-title="Pluto Animación",Detective Conan Spain
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/629a066860ef810008267b70/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="609e7e423e9173000706a681" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="Pluto Animación",Pluto TV Toons Clásico
+#EXTINF:-1 tvg-id="609e7e423e9173000706a681" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="Pluto Animación",Pluto TV Toons Clásico Spain
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="609501978c069d00074e0dd2" tvg-logo="https://images.pluto.tv/channels/609501978c069d00074e0dd2/colorLogoPNG.png" group-title="Pluto Animación",Planeta Junior TV
+#EXTINF:-1 tvg-id="609501978c069d00074e0dd2" tvg-logo="https://images.pluto.tv/channels/609501978c069d00074e0dd2/colorLogoPNG.png" group-title="Pluto Animación",Planeta Junior TV Spain
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609501978c069d00074e0dd2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5f1aabee6f4a2c00076a322c" tvg-logo="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png" group-title="Pluto Animación",Pluto TV Animakids
+#EXTINF:-1 tvg-id="5f1aabee6f4a2c00076a322c" tvg-logo="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png" group-title="Pluto Animación",Pluto TV Animakids Spain
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="61373c865ed5810007173fbc" tvg-logo="https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png" group-title="Pluto Animación",Avatar
+#EXTINF:-1 tvg-id="61373c865ed5810007173fbc" tvg-logo="https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png" group-title="Pluto Animación",Avatar Spain
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373c865ed5810007173fbc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="61373f1a12dd9f00077dcd6f" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="Pluto Animación",Las Tortugas Ninja
+#EXTINF:-1 tvg-id="61373f1a12dd9f00077dcd6f" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png" group-title="Pluto Animación",Las Tortugas Ninja Spain
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373f1a12dd9f00077dcd6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5f1aca0b4e448e00075e7c5e" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Pluto Animación",Bob Esponja
+#EXTINF:-1 tvg-id="5f1aca0b4e448e00075e7c5e" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Pluto Animación",Bob Esponja Spain
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5fd87d882574170007fac022" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Pluto Animación", Pluto TV Bob Esponja Plus
+#EXTINF:-1 tvg-id="5fd87d882574170007fac022" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Pluto Animación",Pluto TV Bob Esponja Plus Spain
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62274e72ed9b67bf206f1a5e/239fe6fbfe883777cfb427e23256f1fc?tr=q-80&w=1920" group-title="CINE Y SERIES", Cine Retro
-https://linear-307.frequency.stream/dist/localnow/307/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62274abded9b67e9806eef58/e589cadaabcf0bf7291bd08048006fd2?tr=q-80&w=1920" group-title="CINE Y SERIES", Cine de Oro
-https://linear-308.frequency.stream/dist/localnow/308/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vix_Logotype.svg/1200px-Vix_Logotype.svg.png" group-title="CINE Y SERIES", Moovi Mex
-https://linear-309.frequency.stream/dist/localnow/309/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61f970bb602cef693b729fbc/09a46d15972a1b45ad51b1faf76cf21f?tr=q-80&w=1920" group-title="CINE Y SERIES", Mi Gorda Bella
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61f970bb602cef693b729fbc/09a46d15972a1b45ad51b1faf76cf21f?tr=q-80&w=1920" group-title="CINE Y SERIES",Mi Gorda Bella
 https://linear-330.frequency.stream/dist/localnow/330/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Golden" tvg-name="Golden" tvg-logo="https://images.vix.com/prd/channel/62bb77d7c4725e82dddf2783/e5d3f2556cac97be34d681a18eeeae6e?tr=q-80&w=1920" group-title="CINE Y SERIES",Golden Multiplex -1 hora
-https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62bb77fc30eae0cea539a974/1e8ab32c68282ada5106e234bb18cfea?tr=q-80&w=1920" group-title="CINE Y SERIES",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62d8ac0d128f7d3b5e936737/50a4c484840a9f36bc512a4edd4591af?tr=q-80&w=1920" group-title="CINE Y SERIES",Golden Premier
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES",Cine Club
-https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES", BOX CINEMA 
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/3d973be0-491f-49e4-b8df-8d259679a8af/2.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", BOX CINEMA
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/4ab48cfd-e72b-4cff-a20a-1cc6089dc18a/0.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES", FMTV FUSIÓN
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 
@@ -275,8 +251,6 @@ https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3
 https://stmv1.cnarlatam.com/cineterror/cineterror/chunklist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES", CLIC TV 
 https://stream.ads.ottera.tv/cl/230713cio8cuggv6tpkpgo391g/1920x1080_4787200_4_f.m3u8?i=475_4827
-#EXTINF:-1 group-title="CINE Y SERIES", PLANETA PELÍCULAS TV
-https://scl.edge.grupoz.cl/movie/live/chunklist.m3u8
 
 #EXTINF:-1 group-title="CINE Y SERIES", RUNTIME-FAMILIA
 https://stream.ads.ottera.tv/cl/230507chbufu9pnj1vb8u5g7rg/1280x720_3071200_0_f.m3u8?i=475_3528
@@ -291,16 +265,19 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 group-title="CINE Y SERIES", PELIMEX
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/31e791c9-6427-4722-92bb-fc2a34dd47d5/5.m3u8
 
-#EXTINF:-1 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="CINE Y SERIES", LIM TV | PY
-https://live.limplay.ml/limtv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://i.paste.pics/ac5034d49e28ab82a3372ff08c6b9573.png" group-title="CINE Y SERIES", LIM TV | PY
+https://tv.invasivamedia.com/hls/limtv.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1093" tvg-name="Genios TV" tvg-logo="https://i2.paste.pics/9872abc3f3190fc94f2d8b65f3f5cc38.png" group-title="CINE Y SERIES", Genios TV | PE
 https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1092" tvg-name="Planeta TV" tvg-logo="https://i2.paste.pics/4075185fbbf2ba30f8739d15c9e56298.png" group-title="CINE Y SERIES", Planeta TV | PE
 https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 group-title="CINE Y SERIES", PLANETA TV MOVIES
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="CINE Y SERIES", PlanetaTV Movies | CL
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", CTV capricho
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png" group-title="CINE Y SERIES", CINE CLUB | PE
@@ -433,9 +410,8 @@ https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8
 https://v4.tustreaming.cl/retroplaytv/playlist.m3u8
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png" group-title="CINE Y SERIES RETRO", Retro Plus TV Señal 3 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="CINE Y SERIES RETRO", MI TV CLASICA 
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?nimblesessionid=209809808
+#EXTINF:-1 tvg-id="472" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://i2.paste.pics/d2b09f38e32fa6367db57dba0a4d17f2.png" group-title="CINE Y SERIES RETRO", Mi TV Televisión Clásica | US
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CINE Y SERIES RETRO", TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES RETRO", VISIÓN TV
@@ -561,8 +537,6 @@ https://streamcasthd.com:19360/radiovision939/radiovision939.m3u8
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 #EXTINF:-1 tvg-id="283" tvg-name="Metro TV Canal 12 Tucuman" tvg-logo="http://www.m3u.cl/logo/100598_Metro_TV_Canal_12_Tucuman.png" group-title="LOCALES 2", Metro TV CANAL 12 TUCUMAN
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="LOCALES 2", CIUDAD MAGICA TV
-https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 #EXTINF:-1 tvg-id="Canal3Pinamar.ar" tvg-logo="http://www.m3u.cl/logo/80665_Canal_3_Pinamar.png" group-title="LOCALES 2", CANAL 3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ElPalomar.ar" tvg-name="El Palomar TV Tucuman" tvg-logo="https://lh3.googleusercontent.com/-8UaWsEXJQgA/YH7XXHWqrpI/AAAAAAABByU/W6JFZuqyjQUrxSsIyAdU5tMwBWulFEGgQCK8BGAsYHg/s512/2021-04-20.jpg" group-title="LOCALES 2", El Palomar TV Tucuman | AR
@@ -882,43 +856,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/07e60396
 #EXTINF:-1 tvg-id="Flash.us" tvg-name="Flash" tvg-logo="https://a.jsrdn.com/hls/23008/flash-1/thumbh_20211119_205104.jpg" group-title="MUSICA", FLASH | Plex
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/9cf52827-4ad4-41e3-a857-024b7536661f/4.m3u8
 
-#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-name="ESPN Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN
-http://181.78.4.186:8000/play/a0ex/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-name="ESPN 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2
-http://181.78.4.186:8000/play/a0el/index.m3u8
-#EXTINF:-1 tvg-id="ESPN3Argentina.ar" tvg-name="ESPN 3 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/512px-ESPN3_Logo.png" group-title="DEPORTES",ESPN 3
-http://181.78.4.186:8000/play/a0hn/index.m3u8
-#EXTINF:-1 tvg-id="ESPN4South.us" tvg-name="ESPN 4 South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="DEPORTES",ESPN 4
-http://181.78.4.186:8000/play/a0fu/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2South.us" tvg-name="Fox Sports 2 South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/512px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",Fox Sports 2
-http://181.78.4.186:8000/play/a0fg/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports3Argentina.ar" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://i.imgur.com/hI2Q5s4.png" group-title="DEPORTES",Fox Sports 3
-http://181.78.4.186:8000/play/a0fh/index.m3u8
-#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-name="DirecTV Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV SPORTS
-http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
-#EXTINF:-1 tvg-id="DirecTVSports2.us" tvg-name="DirecTV Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/512px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="DEPORTES",DIRECTV SPORTS 2
-http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234327
-#EXTINF:-1 tvg-id="DirecTVSportsPlus.us" tvg-name="DirecTV Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/512px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="DEPORTES",DIRECTV SPORTS +
-http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234329
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/512px-ESPN_Premium_logo.svg.png" group-title="DEPORTES",ESPN PREMIUM
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140317
-#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-name="TNT Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES",TNT SPORTS
-http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/132285
-
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="DEPORTES", CLARO SPORTS
-https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8 
-#EXTINF:-1 tvg-id="TigoSportsElSalvador.sv" tvg-name="Tigo Sports El Salvador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="DEPORTES", Tigo Sports
-http://190.149.66.90:16000/play/a03j/index.m3u8
-
-#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-name="Fox Sports Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/512px-FOX_Sports_logo.svg.png" group-title="DEPORTES",Fox Sports 1 MX
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
-#EXTINF:-1 tvg-id="FoxSports2Mexico.mx" tvg-name="Fox Sports 2 Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/512px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",Fox Sports 2 MX
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-#EXTINF:-1 tvg-id="FoxSports2Mexico.mx"  tvg-name="Fox Sports 2 Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/512px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",Fox Sports 2 MX
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports3Mexico.mx" tvg-name="Fox Sports 3 Mexico" tvg-logo="https://i.imgur.com/svwD4Tx.png" group-title="DEPORTES",Fox Sports 3 MX
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd   
-
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES", TyC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
@@ -926,10 +863,6 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/logo.png" group-title="DEPORTES", LA PODEROSA TV
 https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="DEPORTES", CIUDAD MAGICA TV
-https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png" group-title="DEPORTES", CITY SPORTS TV
-https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="DEPORTES", BAYRES TV 41
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="Canal6MardePlata.ar" tvg-name="Canal 6 Mar del Plata" tvg-logo="https://i2.paste.pics/8a9fa1e880cf4c2289db6ddc86689ddf.png" group-title="DEPORTES", Canal 6 Mar del Plata | AR
@@ -1203,52 +1136,56 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5bd769ccef5c000781c3
 #EXTINF:-1 tvg-id="5f5bd7fb15c9a300077ee52a" tvg-logo="https://images.pluto.tv/channels/5f5bd7fb15c9a300077ee52a/colorLogoPNG.png" group-title="Pluto Juegos",Gameplay: Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5bd7fb15c9a300077ee52a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="5d765786aad587cf4d0e2bf6" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png" group-title="Pluto Animation",Inspector Gadget
+#EXTINF:-1 tvg-id="5d765786aad587cf4d0e2bf6" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png" group-title="Pluto Animation",Inspector Gadget Great Britain
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d765786aad587cf4d0e2bf6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="56171fafada51f8004c4b40f" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="Pluto Animation",Forever Kids
+#EXTINF:-1 tvg-id="56171fafada51f8004c4b40f" tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="Pluto Animation",Forever Kids USA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="Pluto Animation",Kartoon Channel!
+#EXTINF:-1 tvg-id="60fb040d4795a6000762fe8f" tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="Pluto Animation",Kartoon Channel! USA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="611e75226b7f420007c3f319" tvg-logo="https://images.pluto.tv/channels/611e75226b7f420007c3f319/colorLogoPNG.png" group-title="Pluto Animation",Inazuma Eleven
+#EXTINF:-1 tvg-id="611e75226b7f420007c3f319" tvg-logo="https://images.pluto.tv/channels/611e75226b7f420007c3f319/colorLogoPNG.png" group-title="Pluto Animation",Inazuma Eleven France
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611e75226b7f420007c3f319/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="60f74ba51c82ac000776c669" tvg-logo="https://images.pluto.tv/channels/60f74ba51c82ac000776c669/colorLogoPNG.png" group-title="Pluto Animation",Lupin the 3rd
+#EXTINF:-1 tvg-id="60f74ba51c82ac000776c669" tvg-logo="https://images.pluto.tv/channels/60f74ba51c82ac000776c669/colorLogoPNG.png" group-title="Pluto Animation",Lupin the 3rd USA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f74ba51c82ac000776c669/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png" group-title="Pluto Animation",Transformers TV
+#EXTINF:-1 tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png" group-title="Pluto Animation",Transformers TV USA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5f99e24636d67d0007a94e6d" tvg-logo="https://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" group-title="Pluto Animation",Comedy Central Animation
+#EXTINF:-1 tvg-id="5f99e24636d67d0007a94e6d" tvg-logo="https://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" group-title="Pluto Animation",Comedy Central Animation USA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="562ea53fa9060c5a7d463e74" tvg-logo="https://images.pluto.tv/channels/562ea53fa9060c5a7d463e74/colorLogoPNG.png" group-title="Pluto Animation",Classic Toons TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="612375086abc84000738fc03" tvg-logo="https://images.pluto.tv/channels/612375086abc84000738fc03/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Anime
+#EXTINF:-1 channel-id="pluto-612375086abc84000738fc03" tvg-id="612375086abc84000738fc03" tvg-logo="https://images.pluto.tv/channels/612375086abc84000738fc03/colorLogoPNG-1668928583258.png" group-title="Pluto Animation", Inazuma Eleven Italy
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Anime
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Anime Brazil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Anime Ação
+#EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Anime Ação Brazil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="Pluto Animation",Death Note
+#EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-logo="https://images.pluto.tv/channels/625464a945b6a200079257d1/colorLogoPNG.png" group-title="Pluto Animation",Death Note Brazil
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="PlutoTVAnimeAllAges.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Anime All Ages (720p)
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1 tvg-id="5f8ed52a62fa750007733239" tvg-logo="https://images.pluto.tv/channels/5f8ed52a62fa750007733239/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Animé All Day
+#EXTINF:-1 tvg-id="5f8ed52a62fa750007733239" tvg-logo="https://images.pluto.tv/channels/5f8ed52a62fa750007733239/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Animé All Day France
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed52a62fa750007733239/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="617bae1d69bca3000729561e" tvg-logo="https://images.pluto.tv/channels/617bae1d69bca3000729561e/colorLogoPNG.png" group-title="Pluto Animation",Digimon Adventure
+#EXTINF:-1 tvg-id="617bae1d69bca3000729561e" tvg-logo="https://images.pluto.tv/channels/617bae1d69bca3000729561e/colorLogoPNG.png" group-title="Pluto Animation",Digimon Adventure France
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/617bae1d69bca3000729561e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Pluto Animation",Anime All Day
+#EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="Pluto Animation",Anime All Day USA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="637e55347427a40007fac703" tvg-logo="https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png" group-title="Pluto Animation", Sailor Moon
+#EXTINF:-1 tvg-id="637e55347427a40007fac703" tvg-logo="https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png" group-title="Pluto Animation",Sailor Moon USA
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/637e55347427a40007fac703/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=US&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=34.0485&deviceLon=-118.2529&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=US&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=
-#EXTINF:-1 channel-id="pluto-637e55347427a40007fac703" tvg-id="637e55347427a40007fac703" tvg-logo="https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png" group-title="Pluto Animation", Sailor Moon
+#EXTINF:-1 channel-id="pluto-637e55347427a40007fac703" tvg-id="637e55347427a40007fac703" tvg-logo="https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png" group-title="Pluto Animation", Sailor Moon USA
 https://i.mjh.nz/PlutoTV/637e55347427a40007fac703-alt.m3u8
-#EXTINF:-1 tvg-id="5c363ac9e41be30cb6054c7c" tvg-logo="https://images.pluto.tv/channels/5c363ac9e41be30cb6054c7c/colorLogoPNG.png" group-title="Pluto Animation",Anime All Day
+#EXTINF:-1 tvg-id="5c363ac9e41be30cb6054c7c" tvg-logo="https://images.pluto.tv/channels/5c363ac9e41be30cb6054c7c/colorLogoPNG.png" group-title="Pluto Animation",Anime All Day Great Britain
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="608181d420fc8500075f612a" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Anime
+#EXTINF:-1 tvg-id="608181d420fc8500075f612a" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Anime Germany
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608181d420fc8500075f612a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5c5c2b9d8002db3c3e0b1c6d" tvg-logo="https://images.pluto.tv/channels/5c5c2b9d8002db3c3e0b1c6d/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Retro Toons
+#EXTINF:-1 tvg-id="5c5c2b9d8002db3c3e0b1c6d" tvg-logo="https://images.pluto.tv/channels/5c5c2b9d8002db3c3e0b1c6d/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Retro Toons Great Britain
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="612f761008a9e50007984ba0" tvg-logo="https://images.pluto.tv/channels/612f761008a9e50007984ba0/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Animation
+#EXTINF:-1 tvg-id="612f761008a9e50007984ba0" tvg-logo="https://images.pluto.tv/channels/612f761008a9e50007984ba0/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Animation Great Britain
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612f761008a9e50007984ba0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="611e6ddc7fcd580007d1eb5f" tvg-logo="https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Kids Gaming
+#EXTINF:-1 tvg-id="611e6ddc7fcd580007d1eb5f" tvg-logo="https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Kids Gaming France
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611e6ddc7fcd580007d1eb5f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-646cc350939a59000889eb87" tvg-id="646cc350939a59000889eb87" tvg-logo="https://images.pluto.tv/channels/646cc350939a59000889eb87/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Anime Norway
+https://i.mjh.nz/PlutoTV/646cc350939a59000889eb87-alt.m3u8
+#EXTINF:-1 channel-id="pluto-646cc4df7cb4b100087a5cfb" tvg-id="646cc4df7cb4b100087a5cfb" tvg-logo="https://images.pluto.tv/channels/646cc4df7cb4b100087a5cfb/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Anime Sweden
+https://i.mjh.nz/PlutoTV/646cc4df7cb4b100087a5cfb-alt.m3u8
+#EXTINF:-1 channel-id="pluto-646cc56ee1979c000897c661" tvg-id="646cc56ee1979c000897c661" vg-logo="https://images.pluto.tv/channels/646cc56ee1979c000897c661/colorLogoPNG.png" group-title="Pluto Animation",Pluto TV Anime Denmark
+https://i.mjh.nz/PlutoTV/646cc56ee1979c000897c661-alt.m3u8
 
 #EXTINF:-1 tvg-id="555" tvg-name="Retro Cartoon" tvg-logo="https://lh3.googleusercontent.com/-7_I1pkRvdW8/X0KBdavYe3I/AAAAAAAA43w/Rd8o3DFUPWMMZO8Z3tV9YWukDy64UBkIACK8BGAsYHg/s0/2020-08-23.png" group-title="Animation", Retro Cartoon | BR
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
