@@ -104,6 +104,8 @@ https://magicstream.ddns.net:443/magicstream/stream.m3u8
 https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/chunks.m3u8
 #EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="JUVENIL", AnimeStation | AR
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1466" tvg-name="Animax Revival" tvg-logo="https://i2.paste.pics/c100d60949dbe27b5e916bce264443f0.png" group-title="JUVENIL", Animax Revival | CL
+https://streaming.zappix.live:3062/live/animaxlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://i.paste.pics/9e8d6f93eeee68542c756fbecacf896d.png" group-title="JUVENIL", EnerGeek Retro | CL
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Señal 1" tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png" group-title="JUVENIL", EnerGeek 1 | CL opcion2
@@ -531,6 +533,8 @@ https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1162587675217551360/Ot_b3vTB_400x400.png" group-title="Internacional", Canal 9 Telerocha
 https://stm1.rootuy.xyz:19360/canal9/canal9.m3u8
+#EXTINF:-1 group-title="Internacional", telefuturo
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/media_w2058431846_10574.ts?k=3fdb58ea4c858379c59a763b88f4213ed14d7239b756fbd325dd1841c9decc09&exp=1693264902
 
 #EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1507186058747854848/liVKa4wY_400x400.jpg" group-title="CINE Y SERIES", CINEAR  22.4
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
