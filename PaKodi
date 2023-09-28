@@ -100,26 +100,23 @@ https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="JUVENIL", Magic Kids
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
+#EXTINF:-1 tvg-id="1304" tvg-name="Magic Kids" tvg-logo="https://cdn.m3u.cl/logo/1304_Magic_Kids.png" group-title="JUVENIL", Magic Kids | AR
+https://cageu.bozztv.com/ssh101/ssh101/magic2019/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="RetroMagico.ar" tvg-name="Retro Magico" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="JUVENIL", Retro Magico
 https://cageu.bozztv.com/ssh101/ssh101/retromagicochnl/chunks.m3u8
 #EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="JUVENIL", AnimeStation | AR
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1466" tvg-name="Animax Revival" tvg-logo="https://i2.paste.pics/c100d60949dbe27b5e916bce264443f0.png" group-title="JUVENIL", Animax Revival | CL
-https://streaming.zappix.live:3062/live/animaxlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://i.paste.pics/9e8d6f93eeee68542c756fbecacf896d.png" group-title="JUVENIL", EnerGeek Retro | CL
-https://stream.wifispeed.cl:3103/live/energeek1live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Señal 1" tvg-logo="https://i2.paste.pics/6e12320dbdc58fc4ae26350c244f72af.png" group-title="JUVENIL", EnerGeek 1 | CL opcion2
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek Fanpop" tvg-logo="https://i.paste.pics/39967f7d4d6090271478ced70e7eb0be.png" group-title="JUVENIL", EnerGeek Fanpop | CL
-https://stream.wifispeed.cl:3247/live/energeek2live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1112" tvg-name="Energeek Señal 2" tvg-logo="https://i2.paste.pics/ec9a99d22c4dd4a38c9af9c016019d88.png" group-title="JUVENIL", Energeek 2 | CL opcion2
+
+#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek.png" group-title="JUVENIL", EnerGeek | CL
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1112" tvg-name="Fanpop TV" tvg-logo="https://cdn.m3u.cl/logo/1112_Fanpop_TV.png" group-title="JUVENIL", Fanpop TV | CL
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1230" tvg-name="EnerGeek Animate" tvg-logo="https://i.paste.pics/415f623047f69e0cdc5c06b09d149de8.png" group-title="JUVENIL", EnerGeek Animate | CL
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png" group-title="MUSICA", EnerGeek Radio | CL
+#EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png" group-title="JUVENIL", EnerGeek Radio | CL
 https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://i2.paste.pics/18b445e2ec674ae21c12e73f6714501d.png" group-title="JUVENIL", Taltal TV | CL
-https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1466" tvg-name="Pandamax TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Pandamax_TV.png", Pandamax TV | CL
+https://stream.wifiexpert.cl/energeek/pandamaxch/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoCARTOONS2.jpg" group-title="JUVENIL", XTREMA ANIME
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 
