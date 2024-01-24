@@ -245,7 +245,7 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES", GOLDEN PREMIER
 https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", EDGE
+#EXTINF:-1 group-title="CINE Y SERIES", GOLDEN EDGE
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES", DPELICULA
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
