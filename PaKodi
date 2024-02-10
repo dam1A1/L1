@@ -115,6 +115,8 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8?PlaylistM3UC
 https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1466" tvg-name="Pandamax TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Pandamax_TV.png" group-title="JUVENIL", Pandamax TV | CL
 https://stream.wifiexpert.cl/energeek/pandamaxch/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="45" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="JUVENIL", NTV | CL
+https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="JUVENIL", Locomotion | AR
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
@@ -131,6 +133,8 @@ https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1300_Moni_TV.png" group-title="JUVENIL", MONI TV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+#EXTINF:-1 tvg-id="1015" tvg-name="PlanetaTV Kids" tvg-logo="https://cdn.m3u.cl/logo/1015_PlanetaTV_Kids.png" group-title="JUVENIL", PlanetaTV Kids | CL
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2022/05/logoCARTOONS2.jpg" group-title="INFANTIL", CINE INFANTIL
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
@@ -170,8 +174,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d00098
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" group-title="Pluto Animación",Pluto TV Animé Acción
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="6079be62f9f8d6000783c8a4" tvg-logo="https://images.pluto.tv/channels/6079be62f9f8d6000783c8a4/colorLogoPNG.png" group-title="Pluto Animación",Pluto TV Anime Héroes
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="636e83511fa9600007e5ae19" tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="Pluto Animación", Pluto TV Anime Kids
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/636e83511fa9600007e5ae19/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=%7BPSID%7D&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=%7BPSID%7D&deviceLat=19.4326&deviceLon=-99.1332&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=90.0.4430.212&marketingRegion=VE&serverSideAds=true&sessionID=%7BPSID%7D&sid=%7BPSID%7D&userId=
 #EXTINF:-1 tvg-id="636e83511fa9600007e5ae19" tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="Pluto Animación", Pluto TV Anime Kids
@@ -192,6 +194,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5ee92e72fb286e0007285fec" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Pluto Animación",Naruto
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
+#EXTINF:-1 channel-id="pluto-64c92fea3c3344000869e8a9" tvg-id="64c92fea3c3344000869e8a9" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="Pluto Animación" , Naruto Shippuden
+https://r.mjh.nz/PlutoTV/64c92fea3c3344000869e8a9-alt.m3u8
 #EXTINF:-1 tvg-id="60493045fbb5e50007b36f4d" tvg-logo="https://images.pluto.tv/channels/60493045fbb5e50007b36f4d/colorLogoPNG.png" group-title="Pluto Animación",Naruto en español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-64666345f3f5b1000882bfb4" tvg-id="64666345f3f5b1000882bfb4" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="Pluto Animación",Captain Tsubasa
@@ -202,6 +206,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e914
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="604930bc28b24d0007e0e171" tvg-logo="https://images.pluto.tv/channels/604930bc28b24d0007e0e171/colorLogoPNG.png" group-title="Pluto Animación",Yu-Gi-Oh! en español
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604930bc28b24d0007e0e171/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
+#EXTINF:-1 channel-id="pluto-632119a92c3b880007d3f5dc" tvg-id="632119a92c3b880007d3f5dc" tvg-logo="https://images.pluto.tv/channels/632119a92c3b880007d3f5dc/colorLogoPNG.png" group-title="Pluto Animación" , Beyblade
+https://r.mjh.nz/PlutoTV/632119a92c3b880007d3f5dc-alt.m3u8
 #EXTINF:-1 tvg-id="5ff4b9ccf938f8000779eb99" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" group-title="Pluto Animación",One Piece
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c14-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c4c4d3a3-dc88-49b4-9fda-30049d73b3f2&userId=&serverSideAds=true
 #EXTINF:-1 channel-id="pluto-63dd5d7a4e83e700088fbca8" tvg-id="63dd5d7a4e83e700088fbca8" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="Pluto Animación", Las Tortugas Ninja
@@ -230,9 +236,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c
 #EXTINF:-1 tvg-id="5fd87d882574170007fac022" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Pluto Animación",Pluto TV Bob Esponja Plus Spain
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/61f970bb602cef693b729fbc/09a46d15972a1b45ad51b1faf76cf21f?tr=q-80&w=1920" group-title="CINE Y SERIES",Mi Gorda Bella
-https://linear-330.frequency.stream/dist/localnow/330/hls/master/playlist.m3u8
-
 #EXTINF:-1 group-title="CINE Y SERIES", GOLDEN
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES", GOLDEN
@@ -247,9 +250,9 @@ https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES", GOLDEN EDGE
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", DPELICULA
+#EXTINF:-1 group-title="CINE Y SERIES", D PELICULA
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", DPELICULA PLUS
+#EXTINF:-1 group-title="CINE Y SERIES", D PELICULA PLUS
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="CINE Y SERIES", CANAL 5
@@ -263,6 +266,10 @@ https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:-1 tvg-id="1420" tvg-name="Terror TV" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png" group-title="CINE Y SERIES", Terror TV | CL
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", CINEMA PLUS
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", AZ cinema
+https://stream.ads.ottera.tv/cl/240209cn3b2ob60in24002s2kg/1280x720_3071200_0_f.m3u8?i=728_4829
 
 #EXTINF:-1 group-title="CINE Y SERIES", MULTIVISION TV DIGITAL
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
@@ -514,8 +521,12 @@ https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 #EXTINF:-1 group-title="Internacional", MULTIMEDIOS GDL
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Internacional", telefuturo
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_alta/chunklist_w502673262.m3u8?k=7e0e4161971fd8c05569ca88b9edce6a26b2b6933761161da5ba79154de3fcb2&exp=1707520356
 #EXTINF:-1 tvg-logo="" group-title="Internacional", Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 channel-id="pluto-646cce4d1593940008a33f09" tvg-id="646cce4d1593940008a33f09" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" group-title="Internacional" , Azteca Internacional
+https://r.mjh.nz/PlutoTV/646cce4d1593940008a33f09-alt.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1382698919474380800/ZQ-bfjHp_400x400.jpg" group-title="Internacional", UCL TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1340607118672588801/jGHqe5pq_400x400.jpg" group-title="Internacional", T13 CHILE
@@ -531,8 +542,9 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1 group-title="LOCALES 2", SPTV 32
 https://srv2.zcast.com.br/sptv32/sptv32/chunklist_w807163121.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="LOCALES 2", CIUDAD MAGICA TV
-https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
+
+#EXTINF:-1 tvg-id="1132" tvg-name="Ciudad Magica TV" tvg-logo="https://cdn.m3u.cl/logo/1132_Ciudad_Magica_TV.png" group-title="LOCALES 2", Ciudad Magica TV | AR
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-name="Canal 7 Jujuy" tvg-logo="https://pbs.twimg.com/profile_images/1409893446471532551/0g2L283Y_400x400.jpg" group-title="LOCALES 2", CANAL 7 JUJUY
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSh7XjPZSGyNjRrZpYF4nwLpJUbxtv_Qf2gQqNOjlwiHzXvusMUnp8gGkfXg6ocaVpgYA&usqp=CAU" group-title="LOCALES 2", CNR JUJUY
@@ -787,6 +799,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de51
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2022/02/terramiatvok.jpg" group-title="MUSICA", TIERRAMIA TV
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", CM
+https://g4.mc-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", SPECTRUM TV
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="MUSICA", Loop 80s | FHD | Estados Unidos
@@ -880,8 +894,8 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://radiotvlapoderosa.com.ar/imagenes/logo.png" group-title="DEPORTES", LA PODEROSA TV
 https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderosaavellaneda01.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SxFDTWadD_WzvUOKUlPc0n7ZS20-Gatw3OSr1WY2zyuBxZClf2aomcpg9EoVuYZHuHI" group-title="DEPORTES", CIUDAD MAGICA TV
-https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
+#EXTINF:-1 tvg-id="1132" tvg-name="Ciudad Magica TV" tvg-logo="https://cdn.m3u.cl/logo/1132_Ciudad_Magica_TV.png" group-title="DEPORTES", Ciudad Magica TV | AR
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="DEPORTES", BAYRES TV 41
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="Canal6MardePlata.ar" tvg-name="Canal 6 Mar del Plata" tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855" group-title="DEPORTES", CANAL 6 MAR DEL PLATA
@@ -891,10 +905,21 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://pbs.twimg.com/profile_images/1434906412359077894/1LurOWUq_400x400.jpg" group-title="DEPORTES", DEPORT TV 24.1
 https://ythls.armelin.one/channel/UCSmh3DFxBwFurMttT60PQ1g.m3u8
 
-#EXTINF:-1 tvg-id="62d816fcf24d280008762ee9" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="DEPORTES", La Liga Premier | Paramount+
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="DEPORTES", beIN SPORTS XTRA en español
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 channel-id="pluto-62d816fcf24d280008762ee9" tvg-id="62d816fcf24d280008762ee9" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="DEPORTES" , La Liga Premier | Paramount+
+https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
+#EXTINF:-1 channel-id="pluto-60492fdd9989d30007ccd30a" tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="DEPORTES" , beIN SPORTS XTRA en español
+https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5dcde07af1c85b0009b18651" tvg-id="5dcde07af1c85b0009b18651" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="DEPORTES" , Pluto TV Deportes
+https://r.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6582f002a620e3000813b329" tvg-id="6582f002a620e3000813b329" tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/colorLogoPNG.png" group-title="DEPORTES" , Azteca Deportes Network
+https://r.mjh.nz/PlutoTV/6582f002a620e3000813b329-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6320d2755e54db000783fd87" tvg-id="6320d2755e54db000783fd87" tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png" group-title="DEPORTES" , Claro Sports Mexico
+https://r.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63f7e3f9dff38e00082a57af" tvg-id="63f7e3f9dff38e00082a57af" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png" group-title="DEPORTES" , ITV Deportes
+https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
+#EXTINF:-1 channel-id="pluto-638df6f8b63cf100075ccfa1" tvg-id="638df6f8b63cf100075ccfa1" tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/colorLogoPNG.png" group-title="DEPORTES" , Chilevision Deportes
+https://r.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/79/USBB44000088K_20211117T100435.png" group-title="DEPORTES", PrendeTV Lo mejor de Liga MX
 https://dip0m6wuccbi7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2d8j5h422463p-prod/dist/samsungtv/193/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 group-title="DEPORTES", Futbol Network | HD | Estados Unidos
@@ -927,8 +952,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES 2", CANAL 11 INT
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
-#EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="DEPORTES 2",beIN SPORTS XTRA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-5df975e2b27cf5000921c102" tvg-id="5df975e2b27cf5000921c102" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="DEPORTES 2" , beIN SPORTS XTRA
+https://r.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
 #EXTINF:-1 tvg-id="5f99a772c54853000797bf18" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="DEPORTES 2",Lucha Libre AAA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5c01df1759ee03633e7b272c" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="DEPORTES 2",Lucha Libre AAA
@@ -1256,6 +1281,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb040d4795a6000762fe
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611e75226b7f420007c3f319/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="60f74ba51c82ac000776c669" tvg-logo="https://images.pluto.tv/channels/60f74ba51c82ac000776c669/colorLogoPNG.png" group-title="Pluto Animation",Lupin the 3rd USA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f74ba51c82ac000776c669/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 channel-id="pluto-65652f7fc0fc88000883537a" tvg-id="65652f7fc0fc88000883537a" tvg-logo="https://images.pluto.tv/channels/65652f7fc0fc88000883537a/colorLogoPNG.png" group-title="Pluto Animation" , Crunchyroll USA
+https://r.mjh.nz/PlutoTV/65652f7fc0fc88000883537a-alt.m3u8
 #EXTINF:-1 tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png" group-title="Pluto Animation",Transformers TV USA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="pluto-63d8ed19a9957100086f4d33" tvg-id="63d8ed19a9957100086f4d33" tvg-logo="https://images.pluto.tv/channels/63d8ed19a9957100086f4d33/colorLogoPNG.png" group-title="Pluto Animation", Transformers Great Britain
