@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS", CANAL 26  24.2
-https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="NOTICIAS", CRONICA HD  24.4 
 https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="NOTICIAS", C5N 25.2
@@ -67,7 +65,7 @@ https://panel.dattalive.com/8118/8118/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYvkFgl3ndm_Df9p5koqJKse_4px08EdEFmDhWx-rM=s176-c-k-c0x00ffffff-no-rj" group-title="LOCALES 1", QUANTICA  16.3
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj0Kq9wFjjRpscyn7tJZSrb4Hp4hA9KSFCh0aqCgTVeA2uCPM3eGk0OnGh8DsqK85DqmI&usqp=CAU" group-title="PROBARLOS", ATV ARGENTINA  19.1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj0Kq9wFjjRpscyn7tJZSrb4Hp4hA9KSFCh0aqCgTVeA2uCPM3eGk0OnGh8DsqK85DqmI&usqp=CAU" group-title="LOCALES 1", ATV ARGENTINA  19.1
 https://stream.arcast.com.ar/atbargentina/atbargentina/chunklist_w523145175.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="LOCALES 1", CANAL 7 CATAMARCA - TVP
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
@@ -98,14 +96,10 @@ https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderos
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="1364" tvg-name="Retro Magico" tvg-logo="https://cdn.m3u.cl/logo/1364_Retro_Magico.png" group-title="JUVENIL", Retro Magico | AR
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Canal5.mx" group-title="JUVENIL", CANAL 5
-https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" group-title="JUVENIL", CANAL 5
-https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="bitMe.mx" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="JUVENIL",bitMe (576p)
-https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="JUVENIL",EnerGeek (720p) [Not 24/7]
 https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
+#EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="JUVENIL",Fanpop TV
+https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 #EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="JUVENIL", AnimeStation | AR
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1583" tvg-name="Greekz" tvg-logo="https://cdn.m3u.cl/logo/1583_Greekz.png" group-title="JUVENIL", Greekz | CL
@@ -118,10 +112,6 @@ https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8?PlaylistM3UCL
 https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png" group-title="JUVENIL", Dreiko TV | PA
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="JUVENIL", Locomotion | AR
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="JUVENIL", Anime Zone TV | AR
-http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="JUVENIL", Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-id="1300" tvg-name="Moni TV" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="JUVENIL", Moni TV | CL
@@ -237,31 +227,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c
 #EXTINF:-1 tvg-id="5fd87d882574170007fac022" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Pluto Animación",Pluto TV Bob Esponja Plus Spain
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF:-1 tvg-id="GoldenMultiplex.mx" group-title="CINE Y SERIES", GOLDEN
-https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" group-title="CINE Y SERIES", GOLDEN
-https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES", GOLDEN
-https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
-
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://images.vix.com/prd/channel/62bb77fc30eae0cea539a974/1e8ab32c68282ada5106e234bb18cfea?tr=q-80&w=1920" group-title="CINE Y SERIES", GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://images.vix.com/prd/channel/62bb77fc30eae0cea539a974/1e8ab32c68282ada5106e234bb18cfea?tr=q-80&w=1920" group-title="CINE Y SERIES", GOLDEN PLUS
-https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GoldenPremier.mx" group-title="CINE Y SERIES", GOLDEN PREMIER
-https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx" group-title="CINE Y SERIES", GOLDEN PREMIER
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" group-title="CINE Y SERIES", GOLDEN EDGE
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="CINE Y SERIES",De Película (576p)
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="CINE Y SERIES",De Película Plus (576p)
-https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AMC.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="CINE Y SERIES",AMC (1080p)
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="481" tvg-name="FMTV 1" tvg-logo="https://cdn.m3u.cl/logo/481_FMTV_1.png" group-title="CINE Y SERIES", FMTV FUSIÓN
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
@@ -374,42 +345,28 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="Chiquilines.us" tvg-name="Chiquilines" tvg-id="1279" tvg-name="Chiquilines - Freetv.com" tvg-logo="https://i2.paste.pics/ecac0da442f722d93b2a607b74c149df.png" group-title="INFANTIL", Chiquilines
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Telesistema.cr" tvg-country="CR" tvg-language="Spanish" group-title="CINE Y SERIES RETRO", Telesistema
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesistema.cr" tvg-country="CR" tvg-language="Spanish" group-title="CINE Y SERIES RETRO", Telesistema alt
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleredTelevision.cr" tvg-name="Telered" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i2.paste.pics/5b687eec9057d2c6bf08ae203f6643ef.png" group-title="CINE Y SERIES", Telesistema alt
-http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://cdn.m3u.cl/logo/477_Telered.png" group-title="CINE Y SERIES RETRO", Telered | CR
-https://video20.klm99.com:3558/live/teleredlive.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zKWk5Ea.jpg" group-title="CINE Y SERIES", Panc TV HD (revisar)
 https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8
 
+
+
+
 #EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png" group-title="CINE Y SERIES RETRO", Retro Play TV | CL (no 24/7)
 https://v4.tustreaming.cl/retroplaytv/playlist.m3u8
-#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="CINE Y SERIES RETRO", Retro Plus TV Señal 3 | CL
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="CINE Y SERIES RETRO", Retro Plus TV | CL
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="472" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://i2.paste.pics/d2b09f38e32fa6367db57dba0a4d17f2.png" group-title="CINE Y SERIES RETRO", Mi TV Televisión Clásica | US
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="RetroTVPalmares.cr" tvg-logo="https://i.imgur.com/F2rdjwJ.png" group-title="CINE Y SERIES RETRO",Retro TV Palmarés (360p) [Not 24/7]
-https://250weu.bozztv.com/ssh101/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-id="1430" tvg-name="Classic Channel" tvg-logo="https://cdn.m3u.cl/logo/1430_Classic_Channel.png" group-title="CINE Y SERIES RETRO", Classic Channel | CL
 https://paneltv.online:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1545" tvg-name="Estacion Retro" tvg-logo="https://cdn.m3u.cl/logo/1545_Estacion_Retro.png" group-title="CINE Y SERIES RETRO", Estacion Retro | CO (revisar)
-https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/09aad3dd77caa0ed9af428f21870dc79/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 group-title="CINE Y SERIES RETRO", TVS Retro
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES RETRO", VISIÓN TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES RETRO", RETROX TV
-https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/chunklist.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES RETRO", TELECLÁSICA
 https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8
 
-#EXTINF:-1 tvg-id="1074" tvg-name="Eva Retro" tvg-logo="https://i2.paste.pics/1fac7deeb4ca257162cde40abd006d9d.png" group-title="CINE Y SERIES RETRO", Eva Retro | CL (revisar)
-https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="337" tvg-name="Buin Somos Todos" tvg-logo="https://lh3.googleusercontent.com/-qHSWQUuG5HU/XkIKFkSMFBI/AAAAAAAAv-o/80_hG25Pe6cfe7Dm3Uc6VDpcMp2Nd3ImwCK8BGAsYHg/s0/2020-02-10.png" group-title="CINE Y SERIES RETRO", Buin Somos Todos | CL
 https://bst.buin.cl/0.m3u8?PlaylistM3UCL
 
@@ -1289,3 +1246,20 @@ http://51.81.66.195:1935/krtv/tooniverse_540/playlist.m3u8
 
 #EXTINF:-1 channel-id="pluto-5812bd9f249444e05d09cc4e" tvg-id="5812bd9f249444e05d09cc4e" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="PAISAJES" , Naturescape
 https://r.mjh.nz/PlutoTV/5812bd9f249444e05d09cc4e-alt.m3u8
+
+#EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="PROBARLOS", Locomotion | AR
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="PROBARLOS", Anime Zone TV | AR
+http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Canal5.mx" group-title="PROBARLOS", CANAL 5
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" group-title="PROBARLOS", CANAL 5
+https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesistema.cr" tvg-country="CR" tvg-language="Spanish" group-title="PROBARLOS", Telesistema
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesistema.cr" tvg-country="CR" tvg-language="Spanish" group-title="PROBARLOS", Telesistema alt
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleredTelevision.cr" tvg-name="Telered" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i2.paste.pics/5b687eec9057d2c6bf08ae203f6643ef.png" group-title="PROBARLOS", Telesistema alt
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+#EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://cdn.m3u.cl/logo/477_Telered.png" group-title="PROBARLOS", Telered | CR
+https://video20.klm99.com:3558/live/teleredlive.m3u8?PlaylistM3UCL
