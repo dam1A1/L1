@@ -59,8 +59,6 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 https://panel.dattalive.com/8024/8024/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="LOCALES 1", GEN TV 15.2 [no 24/7]
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFIVETV.png" group-title="LOCALES 1", FIVE TV  16.1
-https://panel.dattalive.com/8118/8118/playlist.m3u8
 #EXTINF:-1 tvg-id="NeoTV.ar" tvg-name="Neo TV" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="LOCALES 1", NEO TV DIGITAL  16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYvkFgl3ndm_Df9p5koqJKse_4px08EdEFmDhWx-rM=s176-c-k-c0x00ffffff-no-rj" group-title="LOCALES 1", QUANTICA  16.3
@@ -98,22 +96,32 @@ https://videostream.shockmedia.com.ar:19360/fmlapoderosaavellaneda01/fmlapoderos
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="1364" tvg-name="Retro Magico" tvg-logo="https://cdn.m3u.cl/logo/1364_Retro_Magico.png" group-title="JUVENIL", Retro Magico | AR
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="JUVENIL", EnerGeek FAN | CL
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png" group-title="JUVENIL", EnerGeek Retro | CL
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="JUVENIL",EnerGeek (720p) [Not 24/7]
 https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
-#EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="JUVENIL",Fanpop TV
-https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="JUVENIL", AnimeStation | AR
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1583" tvg-name="Greekz" tvg-logo="https://cdn.m3u.cl/logo/1583_Greekz.png" group-title="JUVENIL", Greekz | CL
-https://stream.zafirehosting.com:3911/live/greekztvlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1466" tvg-name="Pandamax TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Pandamax_TV.png" group-title="JUVENIL", Pandamax TV | CL
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="JUVENIL", AnimeStation | AR
+https://xhateaec.com:8800/hls/zenitsurage/zenitsurage/8a102fcf75f3797d2b1abe3b1cad04c0/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1585" tvg-name="AniRetro" tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png" group-title="JUVENIL", AniRetro | CL
+https://tv.streaming-chile.com:19360/8068/8068.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="JUVENIL", MAX Anime (720p)
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
+#EXTINF:-1 tvg-id="1466" tvg-name="Kanade TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png" group-title="JUVENIL", Kanade TV | CL
+https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://cdn.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="JUVENIL", Latino Kids TV | UY
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="JUVENIL", Locomotion | AR
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png" group-title="JUVENIL", VariedTV | AR
 https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://lh3.googleusercontent.com/-xWaIYbcKgvg/XqxwUMJVw3I/AAAAAAAAyhA/m5qZwYnbFxMujB_7Sk2QJz4HhvdNRqyHQCK8BGAsYHg/s0/2020-05-01.png" group-title="JUVENIL", Dreiko TV | PA
-https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://cdn.m3u.cl/logo/52_Dreiko_TV.png" group-title="JUVENIL", Dreiko TV | PA
+https://cloudvideo.servers10.com:8081/8096/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="JUVENIL", Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-id="1300" tvg-name="Moni TV" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="JUVENIL", Moni TV | CL
@@ -228,6 +236,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373f1a12dd9f00077dcd
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5fd87d882574170007fac022" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Pluto Animación",Pluto TV Bob Esponja Plus Spain
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+
+
+#EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/512px-Star_Channel_2020.svg.png" group-title="CINE Y SERIES",Star Channel Central America
+https://streamer1.nexgen.bz/STAR/index.m3u8
 
 #EXTINF:-1 tvg-id="481" tvg-name="FMTV 1" tvg-logo="https://cdn.m3u.cl/logo/481_FMTV_1.png" group-title="CINE Y SERIES", FMTV FUSIÓN
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
@@ -730,7 +742,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/07e60396
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/9cf52827-4ad4-41e3-a857-024b7536661f/4.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES", TyC SPORTS
-https://vals88.pricesaskeloadsc.com/tyc_sports/tracks-v1a1/mono.m3u8?token=36fc0fc724511232304fec9ad35239909861c857-79-1723515526-1723479526
+https://deportes.sdfgnksbounce.com:8080/MTgxLjQ0Ljc1LjYz/6_.m3u8?token=w2iAvN3xHgGpZGFVlOzSOg&expires=1723933359
 
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/logo-neo-tv_orig.png" group-title="DEPORTES", NEO TV DIGITAL  16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -758,11 +770,11 @@ https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 https://jmp2.uk/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5dcde07af1c85b0009b18651" tvg-id="5dcde07af1c85b0009b18651" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="DEPORTES" , Pluto TV Deportes
-https://r.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
+https://jmp2.uk/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
 #EXTINF:-1 channel-id="pluto-65cf60d166eec80008724e6f" tvg-id="65cf60d166eec80008724e6f" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" group-title="DEPORTES" , Azteca Deportes Premium
-https://r.mjh.nz/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
+https://jmp2.uk/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6582f002a620e3000813b329" tvg-id="6582f002a620e3000813b329" tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/colorLogoPNG.png" group-title="DEPORTES" , Azteca Deportes Network
-https://r.mjh.nz/PlutoTV/6582f002a620e3000813b329-alt.m3u8
+https://jmp2.uk/PlutoTV/6582f002a620e3000813b329-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-6320d80a66666000086712d7" tvg-id="6320d80a66666000086712d7" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG.png" group-title="DEPORTES" , Claro Sports Arg
 https://jmp2.uk/PlutoTV/6320d80a66666000086712d7-alt.m3u8
@@ -1239,19 +1251,8 @@ http://51.81.66.195:1935/krtv/tooniverse_540/playlist.m3u8
 #EXTINF:-1 channel-id="pluto-5812bd9f249444e05d09cc4e" tvg-id="5812bd9f249444e05d09cc4e" tvg-logo="https://images.pluto.tv/channels/5812bd9f249444e05d09cc4e/colorLogoPNG.png" group-title="PAISAJES" , Naturescape
 https://r.mjh.nz/PlutoTV/5812bd9f249444e05d09cc4e-alt.m3u8
 
-#EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="PROBARLOS", Locomotion | AR
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFIVETV.png" group-title="PROBARLOS", FIVE TV  16.1
+https://panel.dattalive.com/8118/8118/playlist.m3u8
 #EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="PROBARLOS", Anime Zone TV | AR
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Canal5.mx" group-title="PROBARLOS", CANAL 5
-https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:-1 tvg-id="Canal5.mx" group-title="PROBARLOS", CANAL 5
-https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesistema.cr" tvg-country="CR" tvg-language="Spanish" group-title="PROBARLOS", Telesistema
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesistema.cr" tvg-country="CR" tvg-language="Spanish" group-title="PROBARLOS", Telesistema alt
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleredTelevision.cr" tvg-name="Telered" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i2.paste.pics/5b687eec9057d2c6bf08ae203f6643ef.png" group-title="PROBARLOS", Telesistema alt
-http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
-#EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://cdn.m3u.cl/logo/477_Telered.png" group-title="PROBARLOS", Telered | CR
-https://video20.klm99.com:3558/live/teleredlive.m3u8?PlaylistM3UCL
