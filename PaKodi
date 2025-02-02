@@ -88,10 +88,10 @@ https://ythls.armelin.one/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/bayres-tv.png" group-title="LOCALES 1", BAYRES TV 41 [no 24/7]
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
-#EXTINF:-1 tvg-logo="https://magicstream.netlify.app/img/magickidsbg.png" group-title="JUVENIL", Magic Kids 443
-https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://magicstream.netlify.app/img/magickidsbg.png" group-title="JUVENIL", Magic Kids  
 https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1 tvg-id="1304" tvg-name="Magic Kids" tvg-logo="https://cdn.m3u.cl/logo/1304_Magic_Kids.png" group-title="JUVENIL", Magic Kids | AR
+https://kali.vdopanel.com:3519/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1364" tvg-name="Retro Magico" tvg-logo="https://cdn.m3u.cl/logo/1364_Retro_Magico.png" group-title="JUVENIL", Retro Magico | AR
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="JUVENIL", EnerGeek FAN | CL
