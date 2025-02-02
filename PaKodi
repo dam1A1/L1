@@ -114,6 +114,8 @@ https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8?PlaylistM3UCL
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png" group-title="JUVENIL", VariedTV | AR
 https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://cdn.m3u.cl/logo/905_Taltal_TV.png" group-title="JUVENIL", Taltal TV | CL
+https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://cdn.m3u.cl/logo/52_Dreiko_TV.png" group-title="JUVENIL", Dreiko TV | PA
 https://cloudvideo.servers10.com:8081/8096/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="JUVENIL", Tigueritos TV
