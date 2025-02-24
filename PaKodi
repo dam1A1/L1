@@ -102,12 +102,18 @@ https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="JUVENIL",EnerGeek (720p) [Not 24/7]
 https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000021-a20e7a20e9/700/LOGO%20SEP%202024.webp?ph=d0cdb7b2de" group-title="JUVENIL", TALTAL TV 2
+https://ssh101.bozztv.com/ssh101/animacion/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000021-a20e7a20e9/700/LOGO%20SEP%202024.webp?ph=d0cdb7b2de" group-title="JUVENIL", TALTAL TV 3
+https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.fanf3-1.fna.fbcdn.net/v/t39.30808-6/305575021_575537894360810_3355733417036291976_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGha2CmZx9byjNZiNqFJ1CebHVn-e1xNQ9sdWf57XE1D2W1i3lpwFhg7n8OhKOL0Lg&_nc_ohc=EFWn31MYFD8Q7kNvgFi3trf&_nc_zt=23&_nc_ht=scontent.fanf3-1.fna&_nc_gid=ADalDLYpUS4FX-rcGPFC7CC&oh=00_AYD24970nwgsTgZmHNArnIIP4NxONWUg_Iq_vwe5j2kSYw&oe=6760E7CF" group-title="JUVENIL", DAEM
+https://ssh101.bozztv.com/ssh101/daem/playlist.m3u8
+
 #EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://cdn.m3u.cl/logo/1081_AnimeStation.png" group-title="JUVENIL", AnimeStation | AR
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1585" tvg-name="AniRetro" tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png" group-title="JUVENIL", AniRetro | CL
 https://tv.streaming-chile.com:19360/8068/8068.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="JUVENIL", MAX Anime (720p)
-https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 #EXTINF:-1 tvg-id="1466" tvg-name="Kanade TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png" group-title="JUVENIL", Kanade TV | CL
 https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://cdn.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="JUVENIL", Latino Kids TV | UY
@@ -116,14 +122,12 @@ https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8?PlaylistM3UCL
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1335" tvg-name="VariedTV" tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png" group-title="JUVENIL", VariedTV | AR
 https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="905" tvg-name="Taltal TV" tvg-logo="https://cdn.m3u.cl/logo/905_Taltal_TV.png" group-title="JUVENIL", Taltal TV | CL
-https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="52" tvg-name="Dreiko TV" tvg-logo="https://cdn.m3u.cl/logo/52_Dreiko_TV.png" group-title="JUVENIL", Dreiko TV | PA
 https://cloudvideo.servers10.com:8081/8096/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="JUVENIL", Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-id="1300" tvg-name="Moni TV" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="JUVENIL", Moni TV | CL
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/chunks.m3u8
 #EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png" group-title="JUVENIL", EnerGeek Radio | CL
 https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1563" tvg-name="Modo Radio" tvg-logo="https://cdn.m3u.cl/logo/1563_Modo_Radio.png" group-title="JUVENIL", Modo Radio | CL
@@ -740,6 +744,42 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmc-distro/07e60396-2050-4e25-aa22-67ccf0791c45/4.m3u8
 #EXTINF:-1 tvg-id="Flash.us" tvg-name="Flash" tvg-logo="https://a.jsrdn.com/hls/23008/flash-1/thumbh_20211119_205104.jpg" group-title="MUSICA", FLASH | Plex
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/9cf52827-4ad4-41e3-a857-024b7536661f/4.m3u8
+
+#EXTINF:-1 group-title="DEPORTES PRE",ESPN VIVO HD AR
+http://200.60.124.19:29000/play/a016/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PRE",ESPN 2 HD
+http://200.60.124.19:29000/play/a015/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES PRE", Fox Deportes Español
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1 group-title="DEPORTES PRE",Claro Sport
+http://181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PRE",ESPN 2
+http://181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PRE",ESPN
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PRE",ESPN 3
+http://181.78.105.146:2000/play/a03n/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES PRE", SKY LA LIGA
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES PRE",ESPN 3 HD
+http://190.60.32.178:8178/play/a015/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PRE",ESPN 6
+http://190.60.32.178:8178/play/a0aa/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES PRE",ESPN DEPORTES
+http://190.92.10.66:4000/play/a003/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES PRE",ESPN 5 
+http://200.60.124.19:29000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PRE", ESPN 6 
+http://200.60.124.19:29000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="DEPORTES PRE",ESPN 7 
+http://200.60.124.19:29000/play/a01e/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/logo-neo-tv_orig.png" group-title="DEPORTES", NEO TV DIGITAL  16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
