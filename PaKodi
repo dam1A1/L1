@@ -135,6 +135,11 @@ https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1563" tvg-name="Modo Radio" tvg-logo="https://cdn.m3u.cl/logo/1563_Modo_Radio.png" group-title="JUVENIL", Modo Radio | CL
 https://wifiexpert-1.energeek.cl/energeek/modoradio/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 group-title="JUVENIL", AZTECA UNO -1 HR
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
+#EXTINF:-1 group-title="JUVENIL", CANAL 5
+http://streamsy.online:2999/happy2024/newyear/1457
+
 #EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIL", Cartoon Network Mexico
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="INFANTIL", Cartoonito Mexico
