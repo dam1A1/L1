@@ -103,6 +103,8 @@ https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="JUVENIL",EnerGeek (720p) [Not 24/7]
 https://wifiexpert-1.energeek.cl/energeek/canal-1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000021-a20e7a20e9/700/LOGO%20SEP%202024.webp?ph=d0cdb7b2de" group-title="JUVENIL", TALTAL TV
+https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000021-a20e7a20e9/700/LOGO%20SEP%202024.webp?ph=d0cdb7b2de" group-title="JUVENIL", TALTAL TV 2
 https://ssh101.bozztv.com/ssh101/animacion/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000021-a20e7a20e9/700/LOGO%20SEP%202024.webp?ph=d0cdb7b2de" group-title="JUVENIL", TALTAL TV 3
